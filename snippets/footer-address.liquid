@@ -1,0 +1,66 @@
+<div class="{{ footer_column_alignment}}">
+{% if block.settings.title != blank  and section.settings.show_footer_title %}        
+<h4 class="footer__title ">{{ block.settings.title}}</h4> 
+{% endif %}
+
+{% if block.settings.footer_address != blank or  block.settings.footer_contact_no != blank or  block.settings.office_hours != blank  or block.settings.footer_contact_link != blank and block.settings.footer_contact_id != blank %}
+<ul class="contact-info">
+  {% if block.settings.footer_address != blank %}
+  <li class="address">         
+    <address> <i class="fa fa-home"></i>{{ block.settings.footer_address }}</address>
+  </li>
+  {% endif %}  
+  {% if block.settings.footer_contact_no != blank %}
+  <li class="contact-phone">    
+    <i class="fa fa-phone"></i>{{ block.settings.footer_contact_no }}    
+  </li>
+  {% endif %}
+
+  {% if block.settings.office_hours != blank %}
+  <li class="office-hours">
+    <i class="fa fa-clock-o"></i>{{ block.settings.office_hours }}
+  </li>
+  {% endif %}
+
+  {% if block.settings.footer_contact_id != blank %}
+  <li class="office-mail">
+    <a href="mailto:{{ block.settings.footer_contact_id}}">
+      <i class="fa fa-envelope"></i>{{ block.settings.footer_contact_id }}</a>     
+  </li>
+  {% endif %}
+</ul>
+{% endif %}  
+  
+   {% if block.settings.title_1 != blank  and section.settings.show_footer_title %}        
+  <h4 class="footer__title ">{{ block.settings.title_1 }}</h4>
+  {% endif %}
+
+  {% form 'customer', id: 'newsletter-footer' %}
+  {% if form.posted_successfully? %}
+  <div class="note note--success">{{ 'general.newsletter_form.mailing_list_success_message' | t }}</div>
+  {% endif %}
+  {% if form.context == 'footer' %}
+  {% if form.errors %}
+  {{ form.errors | default_errors }}
+  {% endif %}
+  {% endif %}
+  <input type="hidden" name="contact[tags]" value="prospect,newsletter">
+  <input type="hidden" name="contact[context]" value="footer">
+  <div class="footer__newsletter">
+    <input type="email" value="{% if customer %}{{ customer.email }}{% endif %}" placeholder="{{ 'general.newsletter_form.newsletter_email' | t }}" name="contact[email]" id="Email-{{ block.id }}"  class="footer__newsletter-input" autocorrect="off"  autocapitalize="off" required="required">
+    <button type="submit" class="btn footer__newsletter-btn" name="commit">
+  <svg xmlns:x="http://ns.adobe.com/Extensibility/1.0/" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/" xmlns:graph="http://ns.adobe.com/Graphs/1.0/" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 100 125" style="enable-background:new 0 0 100 100;" xml:space="preserve"><switch><foreignObject requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/" x="0" y="0" width="1" height="1"/><g i:extraneous="self"><polygon points="60.3,12.8 52.9,20.1 77.6,44.8 2.5,44.8 2.5,55.2 77.6,55.2 52.9,79.9 60.3,87.2 97.5,50   "/></g></switch></svg>
+    </button>
+ 
+
+  </div>
+
+  {% if block.settings.richtext != blank %}
+  {{ block.settings.richtext }}
+  {% endif %}
+  {% endform %}
+
+{% if section.settings.social_placement == 'with_address'  and section.settings.show_social %}   
+{% include 'social-links' %}
+{% endif %}
+</div>
