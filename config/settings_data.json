@@ -288,24 +288,24 @@
           "b1250184-2166-4342-a227-92ff96e23480": {
             "type": "logo",
             "settings": {
-              "title": "About us",
-              "text": "Un suelo que recupera su raíz para dar origen a vinos de excepción, únicos, honestos. Reflejo de la elevada expresión del terroir cordillerano más alto del Valle de Cachapoal.",
-              "link_text": "Know more",
+              "title": "",
+              "text": "",
+              "link_text": "",
               "url": "",
               "footer_btn_color": "#206469",
               "footer_btn_bg": "#206469",
               "footer_btn_hover_color": "#206469",
               "footer_btn_hover_bg": "#206469",
               "logo": "shopify:\/\/shop_images\/Logo_Calyptra_blanco.png",
-              "footer_logo_height": 96,
+              "footer_logo_height": 160,
               "container_width": 33,
-              "column_alignment": "text-start"
+              "column_alignment": "text-center"
             }
           },
           "afe7727a-c1b7-446e-bf14-9b4a603361a7": {
             "type": "menu",
             "settings": {
-              "title": "Footer menu",
+              "title": "Menu",
               "menu": "main-menu",
               "container_width": 20,
               "column_alignment": "text-start"
