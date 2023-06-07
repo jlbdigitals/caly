@@ -302,12 +302,12 @@
               "column_alignment": "text-start"
             }
           },
-          "02cd2fb9-be4c-4a1b-9059-9e50c3d0486c": {
-            "type": "html",
+          "afe7727a-c1b7-446e-bf14-9b4a603361a7": {
+            "type": "menu",
             "settings": {
-              "title": "Opening Hours",
-              "html": "<div class=\"verical_block\">\n              \n          <div class=\"content-with-price\">\n            <div class=\"img-hover-effect-1 img-hover-effect\">    \n                          \n              <div class=\"featured-content featured-content-1588656160151\">                                         \n                <p>Monday<\/p>    \n                <div class=\"dot-lines\"><\/div>\n              <\/div>  \n               \n              \n              <div class=\"featured-icon\">\n                <span>09.00 - 22.00<\/span>\n              <\/div>\n              \n            <\/div>\n          <\/div>\n              \n          <div class=\"content-with-price\">\n            <div class=\"img-hover-effect-1 img-hover-effect\">    \n                          \n              <div class=\"featured-content featured-content-1588656165495\">                                         \n                <p>Tuesday<\/p>    \n                <div class=\"dot-lines\"><\/div>\n              <\/div>  \n               \n              \n              <div class=\"featured-icon\">\n                <span>09.00 - 22.00<\/span>\n              <\/div>\n              \n            <\/div>\n          <\/div>\n              \n          <div class=\"content-with-price\">\n            <div class=\"img-hover-effect-1 img-hover-effect\">    \n                          \n              <div class=\"featured-content featured-content-1588656167990\">                                         \n                <p>Wednesday<\/p>    \n                <div class=\"dot-lines\"><\/div>\n              <\/div>  \n               \n              \n              <div class=\"featured-icon\">\n                <span>09.00 - 22.00<\/span>\n              <\/div>\n              \n            <\/div>\n          <\/div>\n              \n          <div class=\"content-with-price\">\n            <div class=\"img-hover-effect-1 img-hover-effect\">    \n                          \n              <div class=\"featured-content featured-content-1588656169083\">                                         \n                <p>Thursday<\/p>    \n                <div class=\"dot-lines\"><\/div>\n              <\/div>  \n               \n              \n              <div class=\"featured-icon\">\n                <span>09.00 - 22.00<\/span>\n              <\/div>\n              \n            <\/div>\n          <\/div>\n              \n          <div class=\"content-with-price\">\n            <div class=\"img-hover-effect-1 img-hover-effect\">    \n                          \n              <div class=\"featured-content featured-content-1588656170324\">                                         \n                <p>Friday<\/p>    \n                <div class=\"dot-lines\"><\/div>\n              <\/div>  \n               \n              \n              <div class=\"featured-icon\">\n                <span>09.00 - 22.00<\/span>\n              <\/div>\n              \n            <\/div>\n          <\/div>\n              \n          <div class=\"content-with-price\">\n            <div class=\"img-hover-effect-1 img-hover-effect\">    \n                          \n              <div class=\"featured-content featured-content-1588656773780\">                                         \n                <p>Saturday<\/p>    \n                <div class=\"dot-lines\"><\/div>\n              <\/div>  \n               \n              \n              <div class=\"featured-icon\">\n                <span>09.00 - 18.00<\/span>\n              <\/div>\n              \n            <\/div>\n          <\/div>\n              \n          <div class=\"content-with-price\">\n            <div class=\"img-hover-effect-1 img-hover-effect\">    \n                          \n              <div class=\"featured-content featured-content-1588656794791\">                                         \n                <p>Sunday<\/p>    \n                <div class=\"dot-lines\"><\/div>\n              <\/div>  \n               \n              \n              <div class=\"featured-icon\">\n                <span>09.00 - 14.00<\/span>\n              <\/div>\n              \n            <\/div>\n          <\/div>\n          \n        <\/div>",
-              "container_width": 33,
+              "title": "Footer menu",
+              "menu": "main-menu",
+              "container_width": 20,
               "column_alignment": "text-start"
             }
           },
@@ -332,7 +332,7 @@
         },
         "block_order": [
           "b1250184-2166-4342-a227-92ff96e23480",
-          "02cd2fb9-be4c-4a1b-9059-9e50c3d0486c",
+          "afe7727a-c1b7-446e-bf14-9b4a603361a7",
           "d588ba90-3502-439f-a5a1-c2c679ebebf6"
         ],
         "settings": {
