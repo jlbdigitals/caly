@@ -642,7 +642,7 @@
         "enable_blog_icons": false,
         "block_banner_style": "grid-style",
         "post_limit": 4,
-        "grid": "3",
+        "grid": "4",
         "text_position": "text-center",
         "enable_box_shadow": false,
         "vertical_position": "vertical-center",
