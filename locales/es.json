@@ -235,6 +235,160 @@
           "message": "Estos artículos no están disponibles para pedidos B2B.",
           "status_column_header": "No disponible"
         }
+      },
+      "thank_you": {
+        "updated_time": "Actualizado hace %{time_ago}",
+        "failure": "No entregado",
+        "failed_title": "Su pedido no pudo ser entregado",
+        "failed_contact_merchant": "Comuníquese con %{company} para coordinar la entrega.",
+        "failed_contact_merchant_no_company": "Contáctenos para coordinar la entrega.",
+        "non_shippable_title": "Tu pedido está completo",
+        "let_us_know": "Haznos saber",
+        "login_title": "Inicie sesión para ver todos los detalles del pedido",
+        "login_description": "Puede encontrar su número de pedido en el recibo que recibió por correo electrónico.",
+        "login_description_phone": "Puede encontrar su número de pedido en el recibo que recibió por mensaje de texto.",
+        "login_not_customer_html": "Sin nombre}? Puedes %{enlace}",
+        "login_reorder_link_text": {
+          "one": "compre este producto también",
+          "other": "Compra estos productos también"
+        },
+        "customer_information_hidden_fields_message": "Inicie sesión para ver toda la información del cliente.",
+        "cancelled_title": "Su pedido ha sido cancelado",
+        "cancelled_description": "Su pedido fue cancelado el %{date}. Póngase en contacto con nosotros si tiene alguna pregunta.",
+        "order_number_label": "Número de orden",
+        "customer_validation_error": "Introduzca un correo electrónico o número de pedido válido.",
+        "customer_validation_error_phone": "Introduce un número de teléfono o de pedido válido.",
+        "login": "Acceso",
+        "unfulfilled_items_title": "Preparándose para el envío",
+        "unfulfilled_items_description": "Actualmente estamos preparando estos artículos para su envío.",
+        "marker": {
+          "current": "Ubicación actual del envío",
+          "shipping": "Dirección de envío"
+        },
+        "pick_up_in_store_marker": {
+          "current": "Ubicación actual del envío",
+          "shipping": "Lugar de recogida"
+        },
+        "fulfillment": {
+          "fulfilled_table_title": "Artículos en este envío",
+          "unfulfilled_table_title": "Artículos que se preparan para el envío",
+          "product_image_label": "Imagen del producto",
+          "description_label": "Descripción",
+          "quantity_label": "Cantidad"
+        },
+        "opt_in_message_html": "Tu información se guardó correctamente con %{shopify_pay}",
+        "order_updates_description_missing": "No está recibiendo actualizaciones de envío.",
+        "order_updates_subscribe_to_email_notifications": "Reciba actualizaciones de envío por correo electrónico",
+        "order_updates_subscribe_to_email_or_phone_notifications": "Reciba actualizaciones de envío por correo electrónico o mensaje de texto",
+        "order_updates_subscribe_to_phone_notifications": "Recibe actualizaciones de envío por mensaje de texto",
+        "order_updates_submit_subscription": "Entregar",
+        "optimus_button_label": "Compre con Optimus: paquete de seguimiento",
+        "track_shipment": "Rastrear envio",
+        "shopify_pay": {
+          "order_completed_html": "Pedido completado con %{shopify_pay}",
+          "learn_more_label": "Más información sobre Shop Pay"
+        },
+        "other_options": "Otras opciones",
+        "delivery_information_label": "Información de entrega:",
+        "gift_card_sent_confirmation": "Tarjetas de regalo enviadas",
+        "qr_code": {
+          "send_link_to_phone": "O envía un enlace a tu teléfono",
+          "title": "Seguimiento en su teléfono",
+          "subtitle": "Escanee el código con la cámara de su teléfono para rastrear con Shop."
+        },
+        "shop_qr_with_sms_upsell": {
+          "qr_code": {
+            "title": "Escanea con tu teléfono",
+            "description": "Shop le enviará actualizaciones de entrega en tiempo real una vez que se envíe su pedido."
+          },
+          "sms": {
+            "title": "O envía un enlace a tu teléfono"
+          }
+        },
+        "view_business_customer_account": "Ver cuenta",
+        "breadcrumbs_submitted": "Enviado",
+        "breadcrumbs_in_review": "En revisión",
+        "breadcrumbs_confirmed": "Confirmado",
+        "missing_shipping_address_banner": {
+          "title": "El pedido no tiene una dirección de envío",
+          "text_html": "%{contact_us} para agregar su dirección",
+          "contact_us": "Contáctenos"
+        },
+        "first_payment_complete": "Primer pago completo",
+        "in_store_purchase": "compra en tienda",
+        "branded_promise": {
+          "shop_promise": {
+            "confirmed": {
+              "guaranteed_on_time": "Entrega garantizada por %{date} con",
+              "on_time": "Entrega por %{date} con"
+            },
+            "in_transit": {
+              "guaranteed_on_time": "Entrega garantizada por %{date} con",
+              "on_time": "Entrega por %{date} con",
+              "guaranteed_delayed": "Su envío no llegó como se esperaba el %{date}. Una vez que llegue, puede presentar un reclamo con",
+              "delayed": "Su envío esperado para el %{date} está retrasado."
+            },
+            "out_for_delivery": {
+              "guaranteed_on_time": "Entrega garantizada por %{date} con",
+              "on_time": "Entrega por %{date} con",
+              "guaranteed_delayed": "Su envío no llegó como se esperaba el %{date}. Una vez que llegue, puede presentar un reclamo con",
+              "delayed": "Su envío esperado para el %{date} está retrasado."
+            },
+            "delivered": {
+              "guaranteed_on_time": "Entregado a tiempo con",
+              "on_time": "Entregado por %{date} con",
+              "guaranteed_delayed": "Dado que su envío llegó después de la fecha prevista de %{date}, puede ser elegible para %{shop_cash} con",
+              "delayed": "Entregado el %{date}, originalmente previsto para el %{original_delivery_date}"
+            },
+            "guarantee": {
+              "app_user": {
+                "popover_title": "Escanea para obtener tu Shop Cash",
+                "popover_subtitle": "Su pedido llegó más tarde de lo esperado. Use su Shop Cash en una compra futura en la aplicación Shop."
+              },
+              "non_app_user": {
+                "popover_title": "Descarga Shop para obtener tu Shop Cash",
+                "popover_subtitle": "Su pedido llegó más tarde de lo esperado. Descarga Shop para usar tu Shop Cash en una compra futura."
+              }
+            }
+          }
+        },
+        "location_title": "Ubicación",
+        "thank_you_ready_for_picked_up": "Su pedido fue recogido en %{address}.",
+        "ready_for_delivery": "Listo para la entrega",
+        "order_updates_subscribe_to_email_notifications_failed": "No podemos almacenar este correo electrónico para actualizaciones. Vuelva a intentarlo o utilice otro correo electrónico.",
+        "order_updates_subscribe_to_email_notifications_email_already_exists": "El correo electrónico que ingresaste ya existe.",
+        "subscriptions_management": {
+          "title": "Suscripción",
+          "description": "Vaya a su cuenta para ver y administrar sus suscripciones.",
+          "button_label": "Administre su suscripción"
+        },
+        "manage_order_label": "Gestiona tu pedido",
+        "gift_card_confirmation_by_text_typ": {
+          "one": "Recibirá un mensaje de texto con su tarjeta de regalo en unos minutos.",
+          "other": "Recibirás un mensaje de texto con tus tarjetas de regalo en unos minutos."
+        },
+        "gift_card_confirmation_by_email_typ": {
+          "one": "Recibirás un correo electrónico con tu tarjeta de regalo en unos minutos.",
+          "other": "Recibirás un correo electrónico con tus tarjetas de regalo en unos minutos."
+        },
+        "gift_card_email_title": {
+          "one": "La tarjeta de regalo fue enviada por correo electrónico",
+          "other": "Las tarjetas de regalo se enviaron por correo electrónico."
+        },
+        "gift_card_text_title": {
+          "one": "La tarjeta de regalo fue enviada por mensaje de texto",
+          "other": "Las tarjetas de regalo se enviaron por mensaje de texto."
+        },
+        "resend_gift_cards_by_email": "Reenviar email",
+        "resend_gift_cards_by_text": "Reenviar mensaje de texto",
+        "gift_card_resent_confirmation": {
+          "one": "La tarjeta de regalo fue reenviada.",
+          "other": "Las tarjetas de regalo fueron reenviadas."
+        },
+        "gift_card_resend_failure": {
+          "one": "Hubo un problema al reenviar su tarjeta de regalo. Vuelva a intentarlo o póngase en contacto con nosotros.",
+          "other": "Hubo un problema al reenviar sus tarjetas de regalo. Vuelva a intentarlo o póngase en contacto con nosotros."
+        }
       }
     },
     "email_marketing": {
