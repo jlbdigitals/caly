@@ -173,6 +173,7 @@
         },
         "16317828921fc9dbff-1": {
           "type": "content",
+          "disabled": true,
           "settings": {
             "block_image": "shopify:\/\/shop_images\/2_13744339-d959-432e-b4b1-7921a743d507.jpg",
             "show_image": true,
