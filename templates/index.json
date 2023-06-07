@@ -5,6 +5,7 @@
       "blocks": {
         "2b9978d5-8157-4e84-82c6-7f924a86adec": {
           "type": "Slider",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/27.jpg",
             "mobile_bg_clr": "#000000",
@@ -37,6 +38,7 @@
         },
         "5d768b0f-7f43-434e-96f5-a40462abaa71": {
           "type": "Slider",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/8.jpg",
             "mobile_bg_clr": "#000000",
@@ -78,8 +80,8 @@
             "title_2": "",
             "subheading_color": "",
             "subheading_size": "20",
-            "title": "Get up! Get Coffee! Be Happy!",
-            "heading_color": "#fbce70",
+            "title": "Viña Boutique Diferentes. Elegantes. Vinos con raíces.",
+            "heading_color": "#ffffff",
             "heading_size": "100",
             "desc": "",
             "desc_color": "",
