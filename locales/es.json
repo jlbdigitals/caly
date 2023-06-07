@@ -412,5 +412,87 @@
       "login_form_password_placeholder": "Tu contraseña",
       "login_form_submit": "Ingresar"
     }
+  },
+  "products": {
+    "wishlist": {
+      "purchase": "Compra"
+    },
+    "compare": {
+      "compare_name": "Comparar",
+      "addToCompareList": "Agregar a la lista de comparación",
+      "viewMyCompareList": "Ver mi lista de comparación",
+      "minCompareProductNav": "Necesita un producto más para navegar para comparar el formulario aquí",
+      "minCompareProduct": "No se permite agregar más de 4 productos para comparar",
+      "product_name": "Producto",
+      "image": "Imagen",
+      "price": "Precio",
+      "continue": "Seguir comprando",
+      "no_records": "No hay productos para comparar",
+      "purchase": "Compra"
+    },
+    "search": {
+      "search_name": "Buscar"
+    },
+    "zoom": {
+      "next": "Siguiente (tecla de flecha derecha)",
+      "prev": "Anterior (tecla de flecha izquierda)",
+      "close": "Cerca"
+    },
+    "deal": {
+      "days": "Días",
+      "hours": "Horas",
+      "minutes": "minutos",
+      "seconds": "segundos"
+    },
+    "notify": {
+      "text1": "Haga clic aquí",
+      "text2": "ser notificado por correo electrónico cuando",
+      "text3": "se vuelve disponible"
+    }
+  },
+  "gift_cards": {
+    "issued": {
+      "title": "¡Aquí está tu tarjeta de regalo de {{ value }} para {{ shop }} !",
+      "subtext": "tu tarjeta regalo",
+      "gift_card_code": "Código de la tarjeta de regalo",
+      "shop_link": "Seguir comprando",
+      "remaining_html": "{{ balance }} restante",
+      "add_to_apple_wallet": "Agregar a la billetera de Apple",
+      "qr_image_alt": "Código QR: escanear para canjear la tarjeta de regalo",
+      "copy_code": "Copiar código",
+      "expired": "Venció",
+      "copy_code_success": "Código copiado con éxito",
+      "print_gift_card": "Imprimir"
+    }
+  },
+  "accessibility": {
+    "skip_to_text": "saltar al contenido",
+    "skip_to_product_info": "Saltar a la información del producto",
+    "link_messages": {
+      "new_window": "Se abre en una nueva ventana.",
+      "external": "Abre un sitio web externo."
+    }
+  },
+  "upsell": {
+    "general": {
+      "heading": "Elija opciones para todos los productos seleccionados",
+      "add_all_to_cart": "Añadir todo al carrito",
+      "get_discount_label1": "Obtener una",
+      "get_discount_label2": "descuento comprando estos productos juntos"
+    }
+  },
+  "enquiry": {
+    "form": {
+      "heading": "¿Consulta sobre el producto?",
+      "sub_heading": "¡Cuéntanos tu consulta!",
+      "name": "Nombre",
+      "email": "Correo electrónico",
+      "phone": "Teléfono",
+      "by_email": "Correo",
+      "by_phone": "Teléfono",
+      "by_both": "Ambos",
+      "message_heading": "Modo de comunicación que preparas",
+      "message": "Mensaje"
+    }
   }
 }
