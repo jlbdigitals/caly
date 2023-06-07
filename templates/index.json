@@ -8,7 +8,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/24.jpg",
             "mobile_bg_clr": "#000000",
-            "text_alignment": "text-start",
+            "text_alignment": "text-center",
             "content_position": "dt-sc-flex-center",
             "show_image": false,
             "title_2": "",
