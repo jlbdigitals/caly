@@ -1183,5 +1183,137 @@
       "message_heading": "Modo de comunicación que preparas",
       "message": "Mensaje"
     }
+  },
+  "cart": {
+    "general": {
+      "shipping_calculator_success_at": "en"
+    },
+    "label": {
+      "product": "nombre del producto",
+      "products": "productos",
+      "price": "Precio",
+      "quantity": "Cantidad",
+      "remove": "Eliminar",
+      "add_note": "Añade una nota a tu pedido"
+    }
+  },
+  "collections": {
+    "general": {
+      "title": "Colecciones",
+      "no_matches": "Lo sentimos, no hay productos en esta colección.",
+      "link_title": "Explore nuestra colección {{ title }}",
+      "items_perpage": "artículos en la página",
+      "grid_view": "Vista en cuadrícula",
+      "list_view": "Vista de la lista",
+      "load_more": "Mostrar más",
+      "no_more": "No más producto",
+      "clear_all": "Limpiar todo"
+    },
+    "toolbar": {
+      "view_as": "Vista",
+      "show": "Espectáculo",
+      "showing": "Demostración",
+      "all": "Todo",
+      "of": "de",
+      "previous": "Anterior",
+      "next": "Próximo",
+      "item_per_page": "Artículos por página",
+      "filter": "Refinar por"
+    },
+    "sorting": {
+      "title": "Ordenar por",
+      "browse": "Navegar por",
+      "all_tags": "Todo",
+      "featured": "Presentado",
+      "best_selling": "Más vendido",
+      "az": " Arizona",
+      "za": "ES",
+      "price_ascending": "Precios de barato a caro",
+      "price_descending": "Precio, de mayor a menor",
+      "date_descending": "Fecha, nueva a antigua",
+      "date_ascending": "Fecha, antiguo a nuevo"
+    },
+    "items": {
+      "paginate_by": "Paginar por"
+    }
+  },
+  "contact": {
+    "form": {
+      "name": "Nombre",
+      "email": "Correo electrónico",
+      "phone": "Teléfono",
+      "sub": "Sujeto",
+      "message": "Mensaje",
+      "send": "Enviar",
+      "post_success": "Gracias por contactarnos. Nos pondremos en contacto contigo lo antes posible.",
+      "social_icons_title": "Síganos",
+      "send_question": "Enviar pregunta"
+    }
+  },
+  "customer": {
+    "account": {
+      "title": "Mi cuenta",
+      "details": "detalles de la cuenta",
+      "view_addresses": "Ver direcciones",
+      "return": "Volver a los detalles de la cuenta"
+    },
+    "activate_account": {
+      "title": "Activar la cuenta",
+      "subtext": "Crea tu contraseña para activar tu cuenta.",
+      "password": "Contraseña",
+      "password_confirm": "confirmar Contraseña",
+      "submit": "Activar la cuenta",
+      "cancel": "Rechazar invitación"
+    },
+    "addresses": {
+      "title": "Tus direcciones",
+      "default": "Por defecto",
+      "add_new": "Añadir una nueva dirección",
+      "edit_address": "Editar dirección",
+      "first_name": "Nombre de pila",
+      "last_name": "Apellido",
+      "company": "Compañía",
+      "address1": "Dirección 1",
+      "address2": "Dirección 2",
+      "city": "Ciudad",
+      "country": "País",
+      "province": "Provincia",
+      "zip": "Código postal",
+      "phone": "Teléfono",
+      "set_default": "Establecer como dirección predeterminada",
+      "add": "Añadir dirección",
+      "update": "Actualizar dirección",
+      "cancel": "Cancelar",
+      "edit": "Editar",
+      "delete": "Borrar",
+      "delete_confirm": "¿Está seguro de que desea eliminar esta dirección?"
+    },
+    "login": {
+      "title": "Acceso",
+      "email": "Correo electrónico",
+      "password": "Contraseña",
+      "forgot_password": "¿Olvidaste tu contraseña?",
+      "sign_in": "Iniciar sesión",
+      "cancel": "Volver a la tienda",
+      "guest_title": "Continuar como invitado",
+      "guest_continue": "Continuar"
+    },
+    "orders": {
+      "title": "Historial de pedidos",
+      "order_number": "Orden",
+      "date": "Fecha",
+      "payment_status": "Estado de pago",
+      "fulfillment_status": "Estado de cumplimiento",
+      "none": "Aún no has realizado ningún pedido."
+    },
+    "order": {
+      "title": "Pedido {{ name }}",
+      "date": "Colocado el {{ date }}",
+      "cancelled": "Pedido cancelado el {{ date }}",
+      "cancelled_reason": "Razón: {{ reason }}",
+      "billing_address": "Dirección de Envio",
+      "payment_status": "Estado de pago",
+      "shipping_address": "Dirección de envío"
+    }
   }
 }
