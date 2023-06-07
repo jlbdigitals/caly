@@ -211,7 +211,7 @@
           "header_contact_hover": "#d8f3f5",
           "logo": "shopify:\/\/shop_images\/logo_2.png",
           "logo_max_width": 250,
-          "menu_align": "logo_center",
+          "menu_align": "logo_left",
           "show_header_social": false,
           "search_type": "none",
           "enable_predictive_search": false,
