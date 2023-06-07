@@ -234,6 +234,24 @@
           "header": "Algunos artículos fueron eliminados de su carrito",
           "message": "Estos artículos no están disponibles para pedidos B2B.",
           "status_column_header": "No disponible"
+        },
+        "unpurchasable_product_generic": {
+          "title": "Producto no adquirible",
+          "header": "Algunos artículos fueron eliminados de su carrito",
+          "message": "Estos artículos no están disponibles.",
+          "status_column_header": "No disponible"
+        },
+        "unshippable_product": {
+          "title": "No hay entrega disponible",
+          "header": {
+            "one": "No hay entrega disponible para %{count} artículo",
+            "other": "No hay entrega disponible para %{count} artículos"
+          },
+          "message": {
+            "one": "Este artículo se eliminará de su carrito porque no hay métodos de envío disponibles para su dirección.",
+            "other": "Estos artículos se eliminarán de su carrito porque no hay métodos de entrega disponibles para su dirección."
+          },
+          "status_column_header": "No hay entrega"
         }
       },
       "thank_you": {
@@ -507,6 +525,114 @@
         "no_method_error": "Esta tienda no puede aceptar pagos en este momento.",
         "not_configured_error": "Esta tienda no puede aceptar pagos en este momento.",
         "missing_credit_card_error": "Introduce los datos de tu tarjeta para completar el pago"
+      },
+      "contextual_availability": {
+        "title": {
+          "one": "Producto no disponible",
+          "other": "Productos no disponibles"
+        },
+        "products_not_available": {
+          "one": "Este producto se eliminará de su carrito porque no está disponible en su país\/región.",
+          "other": "Estos productos se eliminarán de su carrito porque no están disponibles en su país o región."
+        },
+        "all_products_in_cart_unavailable": {
+          "one": "Este producto no está disponible en su país\/región.",
+          "other": "Estos productos no están disponibles en su país\/región."
+        },
+        "unavailable_label": "Indisponible"
+      },
+      "deliverability": {
+        "not_deliverable": {
+          "title": {
+            "one": "No hay entrega disponible para %{count} artículo",
+            "other": "No hay entrega disponible para %{count} artículos"
+          },
+          "message": {
+            "one": "Este artículo se eliminará de su carrito porque no hay métodos de envío disponibles para su dirección.",
+            "other": "Estos artículos se eliminarán de su carrito porque no hay métodos de entrega disponibles para su dirección."
+          },
+          "label": "No hay entrega"
+        }
+      },
+      "order_summary": {
+        "title": "Resumen del pedido",
+        "order_name_label": "Pedido %{nombre}",
+        "shopping_cart_label": "Carro de la compra",
+        "discount_title": "Descuento",
+        "discount_label": "Código de descuento",
+        "discount_placeholder": "Código de descuento",
+        "gift_card_title": "Tarjeta de regalo",
+        "gift_card_label": "Tarjeta de regalo",
+        "gift_card_placeholder": "Tarjeta de regalo",
+        "gift_card_and_discount_title": "Tarjeta de regalo o código de descuento",
+        "gift_card_and_discount_label": "Tarjeta de regalo o código de descuento",
+        "gift_card_and_discount_placeholder": "Tarjeta de regalo o código de descuento",
+        "remove_gift_card_label": "Tarjeta de regalo clara",
+        "remove_discount_label": "Eliminar descuento",
+        "free_shipping_discount_label": "Envío gratis",
+        "applied_free_shipping_discount_label": "Aplicado",
+        "apply_discount_button_label": "Aplicar",
+        "applied_discount_message": "%{amount} de descuento en el precio total del pedido",
+        "discount_has_been_applied": "Se ha aplicado el descuento",
+        "discount_has_been_removed": "Se eliminó el descuento",
+        "gift_card_has_been_applied": "Se ha aplicado la tarjeta de regalo",
+        "gift_card_has_been_removed": "Se ha eliminado la tarjeta de regalo",
+        "gift_card_subscriptions_notice": "Las tarjetas de regalo solo se aplicarán a su primer pago",
+        "discount_already_applied": "Se ha aplicado un descuento a este pedido. No se puede agregar otro descuento.",
+        "cart_does_not_meet_discount_requirements_notice": "El código de descuento <strong style=\"text-transform:uppercase\">%{code}<\/strong> no es válido para los artículos en su carrito",
+        "discount_requires_customer_notice": "Ingrese su información de envío para aplicar el código de descuento <strong style=\"text-transform:uppercase\">%{code}<\/strong>",
+        "customer_does_not_meet_discount_requirements_notice": "El código de descuento <strong style=\"text-transform:uppercase\">%{code}<\/strong> no está disponible para usted en este momento",
+        "shipping_information_does_not_meet_discount_requirements_notice": "El código de descuento <strong style=\"text-transform:uppercase\">%{code}<\/strong> no está disponible para su dirección de envío",
+        "customer_already_used_once_per_customer_discount_notice": "El código de descuento <strong style=\"text-transform:uppercase\">%{code}<\/strong> ya se ha utilizado",
+        "subtotal_label": "Total parcial",
+        "shipping_label": "Envío",
+        "pickup_label": "Levantar",
+        "no_pickup_location": "La recogida no está disponible para este pedido. Elija otro método de entrega.",
+        "tip_label": "Consejo",
+        "calculating_shipping": "Calculador…",
+        "shipping_default_value": "Calculado en el siguiente paso",
+        "shipping_pending_message": "No disponible aún",
+        "shipping_policy_link": "Costos de envío",
+        "taxes_label": "Impuestos",
+        "estimated_taxes_label": "Impuestos estimados",
+        "information_estimated_taxes_label": "Impuestos (estimados)",
+        "estimated_taxes_finalization_tooltip_content": "El impuesto final y el total se confirmarán por correo electrónico o mensaje de texto después de realizar el pedido.",
+        "order_total_label": "Total del pedido",
+        "total_outstanding_label": "Monto a pagar",
+        "free_total_label": "Gratis",
+        "paid_label": "Pagado",
+        "payment_due_label": "Fecha de pago",
+        "vat_label_html": "Incluyendo %{amount} en impuestos",
+        "discount_and_gift_card_savings_notice": "Después de %{discount_amount} en descuentos y %{gift_card_amount} en tarjetas de regalo",
+        "discount_savings_notice": "Después de %{discount_amount} en descuentos",
+        "gift_card_savings_notice": "Después de %{gift_card_amount} en tarjetas de regalo",
+        "cost_table_title": "Costo total",
+        "description_label": "Descripción",
+        "price_label": "Precio",
+        "quantity_label": "Cantidad",
+        "product_change_label": "Cambiar",
+        "product_image_label": "Imagen del producto",
+        "scroll_order_summary": "Desplácese para ver más artículos",
+        "expand_order_summary": "Mostrar resumen del pedido",
+        "collapse_order_summary": "Ocultar resumen del pedido",
+        "original_price": "Precio original",
+        "sale_price": "Precio de venta",
+        "total_updated_label": "Precio total actualizado:",
+        "order_total_updated_label": "total actualizado",
+        "total_already_paid_label": "Ya pagado",
+        "unit_price": {
+          "accessible_separator": "por",
+          "content_html": "%{precio}%{separador_accesible}%{por_unidad}"
+        },
+        "gift_card_ending": "Tarjeta de regalo que termina en %{last_characters}",
+        "estimated_tax_label": "Impuesto estimado",
+        "multiple_shipping_lines_label": "Envío total",
+        "recurring_subtotal_label": "Subtotal recurrente",
+        "recurring_total_label": "total recurrente",
+        "recurring_total_tooltip": "No incluye gastos de envío, impuestos, aranceles ni ningún descuento aplicable.",
+        "confirmation_number_label": "Confirmación #%{confirmation_number}",
+        "higher_value_discount_applied": "<strong style=\"text-transform:uppercase\">%{code}<\/strong> no se pudo usar con sus descuentos existentes. Ya tienes una combinación mejor.",
+        "percent_off_shipping": "%{percent}% de descuento en el envío"
       }
     },
     "email_marketing": {
