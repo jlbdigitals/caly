@@ -314,11 +314,11 @@
           "d588ba90-3502-439f-a5a1-c2c679ebebf6": {
             "type": "address",
             "settings": {
-              "title": "Contact us",
-              "footer_address": "No: 58 A, East Madison Street, Baltimore, MD, USA 4508",
-              "footer_contact_no": "0000 - 123 - 456789",
+              "title": "Contáctanos",
+              "footer_address": "Dr. Manuel Barros Borgoño 71, Oficina 403\nProvidencia, Chile",
+              "footer_contact_no": "+562 3223-9657",
               "office_hours": "",
-              "footer_contact_id": "info@example.com",
+              "footer_contact_id": "contacto@calyptra.cl",
               "title_1": "Newsletter",
               "richtext_1": "",
               "newsletter_btn_color_1": "#523021",
