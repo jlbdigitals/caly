@@ -173,7 +173,6 @@
         },
         "16317828921fc9dbff-1": {
           "type": "content",
-          "disabled": true,
           "settings": {
             "block_image": "shopify:\/\/shop_images\/2_13744339-d959-432e-b4b1-7921a743d507.jpg",
             "show_image": true,
@@ -199,11 +198,40 @@
             "overlay_opacity": "0.5",
             "rotation_degree": "180"
           }
+        },
+        "6f339b0d-146f-4e9d-aa02-4a1c14c07cc3": {
+          "type": "content",
+          "settings": {
+            "block_image": "shopify:\/\/shop_images\/Blend-Vivendo.png",
+            "show_image": true,
+            "block_title": "Title",
+            "block_sub_title": "Sub title",
+            "block_description": "Short description",
+            "block_button_text": "",
+            "block_button_link": "",
+            "block_text_align": "text-center",
+            "content_position": "center",
+            "image_position": "center",
+            "reverse_column": false,
+            "block_banner_bg": "",
+            "block_heading_color": "",
+            "block_sub_heading_color": "",
+            "block_description_color": "",
+            "block_button_bg_color": "",
+            "block_button_text_color": "",
+            "block_button_hover_bg_color": "",
+            "block_button_hover_text_color": "",
+            "overlay_style": "use_overlay",
+            "overlay_color": "",
+            "overlay_opacity": "0.5",
+            "rotation_degree": "180"
+          }
         }
       },
       "block_order": [
         "16317828921fc9dbff-0",
-        "16317828921fc9dbff-1"
+        "16317828921fc9dbff-1",
+        "6f339b0d-146f-4e9d-aa02-4a1c14c07cc3"
       ],
       "settings": {
         "full": false,
