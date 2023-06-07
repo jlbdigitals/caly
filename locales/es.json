@@ -1,0 +1,127 @@
+{
+  "shopify": {
+    "sentence": {
+      "two_words_connector": "y",
+      "last_word_connector": ", y"
+    },
+    "checkout": {
+      "general": {
+        "page_title": "Verificar",
+        "skip_to_content": "saltar al contenido",
+        "breadcrumb": "Migaja de pan",
+        "continue_button_label": "Continuar",
+        "complete_purchase_button_label": "Orden completa",
+        "pay_now_button_label": "Pagar ahora",
+        "authenticate_purchase_button_label": "Autenticar pago",
+        "edit_link_label": "Editar",
+        "all_rights_reserved": "Todos los derechos reservados %{shop_name}",
+        "print_policies_link_label": "Imprimir",
+        "cart": "Carro",
+        "close_modal_label": "Cerca",
+        "close_notice_label": "Cerca",
+        "expand_notice_label": "Ver más",
+        "continue_to_shipping_method": "continuar con el envío",
+        "continue_to_payment_method": "continuar con el pago",
+        "continue_to_review": "Revisar pedido",
+        "back_to_cart": "volver al carrito",
+        "back_to_contact_information": "volver a la información",
+        "back_to_shipping_method": "volver a envío",
+        "back_to_payment_method": "Volver al pago",
+        "choose_shipping_method": "Elija un método de envío",
+        "choose_payment_method": "Elija un método de pago",
+        "choose_billing_address": "Elija una dirección de facturación",
+        "contact_us_html": "Contáctenos para más información",
+        "autocomplete_title": "Sugerencias",
+        "autocomplete_single_item": "1 artículo disponible",
+        "autocomplete_multi_item": "{{number}} artículos disponibles",
+        "autocomplete_close": "Cerrar sugerencias",
+        "forwarding_indicator": {
+          "new_window": "Se abre en una nueva ventana.",
+          "external": "Abre un sitio web externo.",
+          "external_and_new_window": "Abre un sitio web externo en una ventana nueva."
+        },
+        "checkout_context": {
+          "step_one": "%{shop_name} - Pagar"
+        },
+        "tooltip_accessibility_label": "Más información",
+        "errors": {
+          "session_identifier_not_unique_error": "Algo salió mal con su pedido, por favor intente pagar de nuevo.",
+          "line_item_limit_reached": "Se ha alcanzado el número máximo de líneas de pedido."
+        },
+        "full_price": "Precio final:",
+        "title": "Pagar - {{shopName}}",
+        "full_title": "{{pageTitle}} - {{shopName}} - Pagar",
+        "loading_title": "Pagar - {{shopName}}",
+        "google_map_title": "Mapa de Google",
+        "submit_order_button_label": "Orden de envio",
+        "submit_for_review_button_label": "Enviar para revisión",
+        "submit_for_review_notice_label": "El pago no vencerá hasta que se revise su pedido",
+        "continue_to_payment_plans_button_label": "Continuar a planes de pago",
+        "back_button_label": "Devolver",
+        "choose_delivery_strategy": "Elija un método de entrega",
+        "autocomplete_zero_item": "No hay artículos disponibles",
+        "autocomplete_powered_by_google": "Desarrollado por {{brandName}}",
+        "submit": "Entregar",
+        "processing": "Procesando…",
+        "stepper": {
+          "increase": "Aumentar {{type}}",
+          "decrease": "Disminuir {{type}}",
+          "minimum_reached": "Mínimo de {{value}} alcanzado",
+          "maximum_reached": "Máximo de {{value}} alcanzado"
+        },
+        "remove_item": "Eliminar %{etiqueta}",
+        "remove_tag": "Remover etiqueta",
+        "dates": {
+          "weekdays": {
+            "monday": "Lunes",
+            "tuesday": "Martes",
+            "wednesday": "Miércoles",
+            "thursday": "Jueves",
+            "friday": "Viernes",
+            "saturday": "Sábado",
+            "sunday": "Domingo"
+          },
+          "weekdays_abbreviation": {
+            "monday": "Mes",
+            "tuesday": "ma",
+            "wednesday": "Nosotros",
+            "thursday": "el",
+            "saturday": "Sá.",
+            "sunday": "do"
+          },
+          "months": {
+            "january": "Enero",
+            "february": "Febrero",
+            "march": "Marzo",
+            "april": "Abril",
+            "may": "Puede",
+            "june": "Junio",
+            "july": "Julio",
+            "august": "Agosto",
+            "september": "Septiembre",
+            "october": "Octubre",
+            "november": "Noviembre",
+            "december": "Diciembre"
+          }
+        },
+        "datepicker": {
+          "show_previous_month": "Mostrar el mes anterior, {{month}} {{year}}",
+          "show_next_month": "Mostrar el próximo mes, {{month}} {{year}}",
+          "range_start": "Rango de inicio",
+          "in_range": "En el rango",
+          "range_end": "Fin de rango"
+        }
+      },
+      "contact": {
+        "title": "Información",
+        "address_title": "DIRECCIÓN",
+        "shipping_address_title": "Dirección de envío",
+        "delivery_option_title": "Método de entrega",
+        "contact_method_title": "Contacto",
+        "email_label": "Correo electrónico",
+        "email_placeholder": "Correo electrónico",
+        "email_or_phone_label": "Correo electrónico o número de teléfono móvil"
+      }
+    }
+  }
+}
