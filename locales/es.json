@@ -865,7 +865,30 @@
         "paypal_invalid_token": "PayPal no estaba disponible. Vuelva a intentarlo o use una opción de pago diferente.",
         "pay_later_failed": "Hubo un error al procesar su pago con Pagar más tarde. Elija otro método de pago y vuelva a intentarlo.",
         "three_d_secure_failed": "Su pago no pudo ser verificado. Vuelve a intentarlo o utiliza otro método de pago.",
-        "three_d_secure_failed_duplicate": "La autenticación 3D Secure de la tarjeta de crédito falló porque ya hay otra en curso."
+        "three_d_secure_failed_duplicate": "La autenticación 3D Secure de la tarjeta de crédito falló porque ya hay otra en curso.",
+        "three_d_secure_throttled": "Demasiados intentos; por favor espere antes de volver a intentarlo",
+        "subscription_agreement_blank": "Para comprar una suscripción, es necesario guardar sus datos de pago. Para continuar, confirme que está de acuerdo o elimine los artículos de suscripción de su pedido.",
+        "insufficient_funds": "Su pago fue rechazado debido a fondos insuficientes. Vuelve a intentarlo o utiliza otro método de pago.",
+        "multiple_deferred_payment_not_allowed": "Solo se permite un pago diferido por solicitud. Verifique su solicitud y vuelva a intentarlo.",
+        "shipping_must_match_billing": "La dirección de facturación debe coincidir con la dirección de envío. Utilice un método de pago diferente.",
+        "decision_rule_block": "Hubo un problema al procesar su pago. Póngase en contacto con el propietario de la tienda.",
+        "pick_up_card": "Tu tarjeta fue rechazada. Vuelve a intentarlo o utiliza otro método de pago.",
+        "cannot_verify": "No se pudieron verificar los detalles de su pago. Verifica los datos de tu tarjeta e inténtalo de nuevo.",
+        "invalid_number": "Introduce un número de tarjeta válido",
+        "invalid_expiry_date": "Introduce una fecha de caducidad válida de la tarjeta",
+        "invalid_cvc": "Introduce un código de seguridad válido",
+        "expired_card": "Su tarjeta ha caducado. Utilice un método de pago diferente.",
+        "card_declined": "Tu tarjeta fue rechazada. Vuelve a intentarlo o utiliza otro método de pago.",
+        "processing_error": "Hubo un problema al procesar su pago. Vuelve a intentarlo o utiliza otro método de pago.",
+        "call_issuer": "Tu tarjeta fue rechazada. Utilice un método de pago diferente o comuníquese con su banco para obtener más información.",
+        "test_mode_live_card": "Esta tienda no puede aceptar pedidos reales o pagos reales.",
+        "transient_error": "Hubo un problema al procesar su pago. Intente actualizar esta página o verifique su conexión a Internet.",
+        "missing_shipping_address": "No se pudo procesar su pago porque falta su dirección de envío. Agrega una dirección de envío y vuelve a intentarlo.",
+        "invalid_shipping_address": "No se pudo procesar su pago porque no pudimos encontrar su dirección de envío. Comprueba tu dirección de envío e inténtalo de nuevo.",
+        "successful_offsite_with_gift_card_error": "Hubo un problema al procesar el pago de su tarjeta de regalo. Vuelve a intentarlo o utiliza otro método de pago.",
+        "development_store_order_limit_reached": "Has alcanzado el límite de pedidos de la tienda en desarrollo con este procesador de pagos. Para realizar otro pedido, deberá utilizar una pasarela de pago de prueba. Obtenga más información sobre %{development_store_order_testing_docs_link}.",
+        "development_store_with_order_limit": "Para realizar un pedido de prueba, deberá utilizar una pasarela de pago de prueba. Obtenga más información sobre %{development_store_order_testing_docs_link}.",
+        "development_store_order_testing_docs_link": "probando pedidos en tiendas de desarrollo"
       },
       "review": {
         "title": "Revisar",
@@ -1188,6 +1211,125 @@
           "previous": "Pagina anterior",
           "next": "Siguiente página"
         }
+      },
+      "shipping_errors": {
+        "shipping_method": "Las opciones de envío han cambiado para su pedido. Revise su selección y vuelva a intentarlo.",
+        "shipping_method_not_available": "Su carrito se actualizó y los artículos que agregó no se pueden enviar a su dirección. Retire los artículos para completar su pedido.",
+        "shipping_method_not_available_generic": {
+          "one": "Este pedido no se puede enviar a la dirección que ingresaste. Revise su dirección para asegurarse de que todos los campos se hayan ingresado correctamente y vuelva a intentarlo.",
+          "other": "Algunos artículos en su carrito no se pueden enviar a la dirección que ingresó. Revise su dirección para asegurarse de que todos los campos se hayan ingresado correctamente y vuelva a intentarlo."
+        },
+        "shipping_method_not_available_updated": {
+          "one": "El artículo que agregó no se envía a su ubicación. Quítelo para pagar o comuníquese con la tienda.",
+          "other": "Uno o más artículos que agregó no se envían a su ubicación. Quítelos para pagar o comuníquese con la tienda."
+        },
+        "payment_method_not_supported": "No puede utilizar este método de pago para %{country}. Utilice un método de pago diferente para realizar envíos a este país.",
+        "empty_state": "Ingrese su dirección de envío para ver los métodos de envío disponibles."
+      },
+      "alternative_payment_method_banner": {
+        "express_checkout": "chequeo rápido",
+        "or": "O",
+        "show_more_options": "Mostrar más opciones"
+      },
+      "alternative_payment_method": {
+        "button_html": "Pago con: %{método}",
+        "button_label": "Pago con: %{método}"
+      },
+      "paypal": {
+        "button_html": "Pagar con %{logo}"
+      },
+      "apple_pay": {
+        "button_html": "Compra con %{logo}"
+      },
+      "post_purchase": {
+        "page_title": "Compra posterior",
+        "title": "Compra posterior",
+        "escape_confirmation": "Has pagado tu pedido.",
+        "escape_action": "Ver confirmación de pedido ›",
+        "components": {
+          "close": "Cerca",
+          "expand": "Ver más",
+          "processing": "Procesando…",
+          "submit": "Entregar"
+        }
+      },
+      "processing": {
+        "redirecting_page_title": "Redireccionando…",
+        "redirecting_title": "Redireccionando…",
+        "redirecting_notice": "Espera mientras te redirigimos.",
+        "complete_your_purchase_title": "Completa tu compra",
+        "continue_to_payment_gateway_notice": "Continúe con el pago para agregar su información de pago.",
+        "continue_to_payment_gateway_button_label": "continuar con el pago",
+        "complete_your_purchase_title_error": "Corrija su información de pago",
+        "continue_to_payment_gateway_notice_error": "No se pudo verificar su información de pago.",
+        "continue_to_payment_gateway_button_label_error": "Actualizar información de pago",
+        "page_title": "Orden de procesamiento",
+        "title": "Orden de procesamiento",
+        "your_order_has_been_received_title": "Gracias por tu orden",
+        "you_will_receive_confirmation": "Estamos recibiendo muchos pedidos en este momento. Debería recibir una confirmación por correo electrónico o mensaje de texto pronto. Si no lo recibe en la próxima hora, háganoslo saber.",
+        "you_will_not_be_charged": "Aún no se te cobrará",
+        "wait": {
+          "short": "Tu pedido está siendo procesado.",
+          "medium": {
+            "one": "Tu pedido está siendo procesado. El tiempo de espera estimado es de %{count} minuto.",
+            "other": "Tu pedido está siendo procesado. El tiempo de espera estimado es de %{count} minutos."
+          },
+          "long": "Recibirá un correo electrónico tan pronto como se procese su pedido. Actualmente hay un alto volumen de pedidos.",
+          "no_auto_refresh_html": "Si no se le redirige automáticamente, %{link}.",
+          "refresh_this_page": "actualizar esta página"
+        },
+        "action_required": "Acción requerida"
+      },
+      "failed_payment": {
+        "page_title": "No se pudo procesar el pago",
+        "title": "No se pudo procesar el pago",
+        "payment_not_processed_title": "Su pago no pudo ser procesado",
+        "payment_not_processed_text": "No te han cobrado. Regrese a su carrito para completar su compra.",
+        "return_to_cart_button_label": "volver al carrito"
+      },
+      "payment_gateway": {
+        "credit_card_label": "Tarjeta de crédito",
+        "bank_deposit_label": "Deposito bancario",
+        "cash_on_delivery_label": "Contra Reembolso (COD)",
+        "money_order_label": "Giro postal",
+        "debit_card_label": "Tarjeta de débito",
+        "shop_pay": {
+          "name": "Comprar Pagar",
+          "installments_label": "Pagar completo o en cuotas",
+          "next_time": "La próxima vez que pagues aquí o en otras tiendas con tecnología de Shopify, recibirás un código por mensaje de texto para comprar de manera segura con Shop Pay.",
+          "terms": "Al continuar, acepta los %{privacyLink} y %{termsLink} de Shop Pay.",
+          "privacy_label": "política de privacidad",
+          "terms_label": "Términos de servicio"
+        },
+        "deferred_payment_label": "Elija el método de pago más tarde",
+        "generic_payment_terms": "Tienes {{translatedName}} términos. Su pago vencerá el {{dueDate}} .",
+        "login_prompt": {
+          "not_logged_in_to_b2b": {
+            "message": "{{logIn}} para agregar o usar métodos de pago guardados para esta ubicación.",
+            "link": "Acceso"
+          },
+          "logged_in_to_d2c": {
+            "message": "Has iniciado sesión en una cuenta personal. Para agregar o usar métodos de pago guardados, {{logIn}} en una cuenta de empresa.",
+            "link": "acceso"
+          },
+          "b2b_no_location_access": {
+            "message": "Tu cuenta no está agregada a esta ubicación. Para acceder a los métodos de pago guardados, {{logIn}} en esta ubicación o actualice sus permisos.",
+            "link": "acceso"
+          },
+          "b2b_with_location_access": {
+            "message": "Has iniciado sesión y puedes acceder a los métodos de pago guardados"
+          },
+          "no_access": {
+            "message": "{{logIn}} en una cuenta con acceso a esta ubicación para agregar o usar métodos de pago guardados.",
+            "link": "Acceso"
+          }
+        },
+        "direct_payment_terms": "Tienes {{translatedName}} términos. Su tarjeta será cargada el {{dueDate}} .",
+        "order_due_on_fulfillment_choose_later": "Su pago vencerá una vez que se complete su pedido.",
+        "order_due_on_fulfillment_payment": "Su tarjeta se cargará una vez que se complete su pedido.",
+        "draft_order_payment_due_later_no_terms": "Su pago vencerá una vez que se confirme su pedido.",
+        "draft_order_payment_due_later_no_terms_payment_selected": "Su tarjeta será cargada una vez que se confirme su pedido.",
+        "draft_order_payment_due_later_terms": "Estarás en {{translatedName}} términos una vez que se confirme tu pedido."
       }
     },
     "email_marketing": {
