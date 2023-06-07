@@ -1104,7 +1104,16 @@
   },
   "products": {
     "wishlist": {
-      "purchase": "Compra"
+      "purchase": "Compra",
+      "wishlist_name": "Lista de deseos",
+      "addToWishList": "Añadir a la lista de deseos",
+      "viewMyWishList": "Ver mi lista de deseos",
+      "product_name": "Producto",
+      "image": "Imagen",
+      "price": "Precio",
+      "remove": "Eliminar",
+      "continue": "Seguir comprando",
+      "no_records": "¡No se encontró nada en la lista de deseos!"
     },
     "compare": {
       "compare_name": "Comparar",
@@ -1137,6 +1146,43 @@
       "text1": "Haga clic aquí",
       "text2": "ser notificado por correo electrónico cuando",
       "text3": "se vuelve disponible"
+    },
+    "general": {
+      "save_html": "Ahorrar<br> {{ saved_amount }}",
+      "collection_return": "Volver a {{ collection }}",
+      "sale_price": "Precio de venta",
+      "regular_price": "Precio regular",
+      "include_taxes": "Impuesto incluido.",
+      "shipping_policy_html": "<a href=\"&lt;span%20class='notranslate'&gt;{{%20link%20}}&lt;\/span&gt;\">Envío<\/a> calculado al finalizar la compra.",
+      "unit_price": "Precio unitario"
+    },
+    "product": {
+      "sold_out": "Agotado",
+      "sold_out_html": "Vendido<br> Afuera",
+      "unavailable": "Indisponible",
+      "sku": "SKU:",
+      "new": "Nuevo",
+      "size_chart": "Carta del tamaño",
+      "vendor": "Proveedor:",
+      "type": "Tipo:",
+      "quantity": "Cantidad:",
+      "add_to_cart": "añadir a la cesta",
+      "full_details": "Todos los detalles",
+      "view_in_space": "Ver en tu espacio",
+      "view_in_space_label": "Ver en su espacio, cargar el elemento en la ventana de realidad aumentada",
+      "slide_label": "Deslice {{ slide_number }} de {{ slide_max }} .",
+      "gallery_thumbnail_alt": "Cargue la imagen en el visor de la galería, {{ imageAlt }}",
+      "video_thumbnail_alt": "Cargue y reproduzca un video en el visor de la Galería, {{ imageAlt }}",
+      "model_thumbnail_alt": "Cargue el modelo 3D en el visor de la Galería, {{ imageAlt }}",
+      "product_is_avalable": "¡En stock!",
+      "product_is_sold_out": "¡Lo siento! Este producto se encuentra actualmente fuera de stock.",
+      "quick_view": "Vista rápida",
+      "sale": "Venta",
+      "save": "Ahorrar",
+      "view_product": "Ver el producto",
+      "select_options": "Seleccione opciones",
+      "price": "Precio:",
+      "availability": "Disponibilidad:"
     }
   },
   "gift_cards": {
@@ -1313,7 +1359,73 @@
       "cancelled_reason": "Razón: {{ reason }}",
       "billing_address": "Dirección de Envio",
       "payment_status": "Estado de pago",
-      "shipping_address": "Dirección de envío"
+      "shipping_address": "Dirección de envío",
+      "fulfillment_status": "Estado de cumplimiento",
+      "discount": "Descuento",
+      "shipping": "Envío",
+      "tax": "Impuesto",
+      "product": "Producto",
+      "price": "Precio",
+      "quantity": "Cantidad",
+      "fulfilled_at": "Cumplido {{ date }}",
+      "subtotal": "Total parcial"
+    },
+    "recover_password": {
+      "title": "Restablecer su contraseña",
+      "email": "Correo electrónico",
+      "submit": "Entregar",
+      "cancel": "Cancelar",
+      "subtext": "Le enviaremos un correo electrónico para restablecer su contraseña.",
+      "success": "Le hemos enviado un correo electrónico con un enlace para actualizar su contraseña."
+    },
+    "reset_password": {
+      "title": "Restablecer contraseña de cuenta",
+      "subtext": "Introduce una nueva contraseña para {{ email }}",
+      "password": "Contraseña",
+      "password_confirm": "confirmar Contraseña",
+      "submit": "Restablecer la contraseña"
+    },
+    "register": {
+      "create_account": "Registro",
+      "title": "Crear una cuenta",
+      "first_name": "Nombre de pila",
+      "last_name": "Apellido",
+      "email": "Correo electrónico",
+      "password": "Contraseña",
+      "submit": "Crear",
+      "cancel": "Volver a la tienda"
+    }
+  },
+  "home_page": {
+    "onboarding": {
+      "modal_title": "Casi llegamos...",
+      "no_products_html": "No tienes productos en tu colección de Frontpage. Este marcador de posición aparecerá hasta que <a href=\"\/admin\/collections?tutorial=Frontpage\">agregue un producto a esta colección<\/a> .",
+      "no_products_collection": "Todavía no hay productos, pero una vez que comience a agregarlos, aparecerán aquí independientemente de si están en una colección.",
+      "add_product": "Agregar un producto",
+      "product_title": "Ejemplo de título de producto",
+      "no_collections_html": "No tienes ninguna colección para mostrar aquí. <a href=\"\/admin\/custom_collections\">Agregue algunas colecciones<\/a> para acompañar la página principal predeterminada.",
+      "add_collection": "Agregar una colección",
+      "collection_title": "Ejemplo de título de colección",
+      "no_content": "Aún no has colocado ningún contenido."
+    }
+  },
+  "layout": {
+    "navigation": {
+      "all_categories": "todas las categorias"
+    },
+    "cart": {
+      "title": "Carro"
+    },
+    "customer": {
+      "account": "Mi cuenta",
+      "log_out": "Cerrar sesión",
+      "log_in": "Acceso",
+      "create_account": "Crear una cuenta",
+      "from": "de"
+    },
+    "footer": {
+      "twitter": "Gorjeo",
+      "fancy": "Elegante"
     }
   }
 }
