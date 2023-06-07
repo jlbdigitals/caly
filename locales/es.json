@@ -389,6 +389,124 @@
           "one": "Hubo un problema al reenviar su tarjeta de regalo. Vuelva a intentarlo o póngase en contacto con nosotros.",
           "other": "Hubo un problema al reenviar sus tarjetas de regalo. Vuelva a intentarlo o póngase en contacto con nosotros."
         }
+      },
+      "shipping": {
+        "subscription_delivery_description": {
+          "free_for_first_n_order": {
+            "other": "Para los primeros %{count} pedidos"
+          }
+        },
+        "one_time_purchase_shipping": "Envío único",
+        "address2_add_label": "Añadir apartamento, suite, etc.",
+        "breadcrumb_title": "Envío",
+        "duties_and_taxes_title": "Deberes e impuestos",
+        "shipping_information_required_notice": "Se requiere información de envío. {{link}} .",
+        "shipping_information_redirect_link": "Ingrese su información aquí",
+        "loading_progressive_rates": "Buscando más tarifas…",
+        "no_other_methods_available": "No hay otros métodos disponibles",
+        "duties_and_taxes_options": {
+          "ddu_title": "Pagar cuando reciba",
+          "ddu_caption": "Se pueden aplicar cargos adicionales",
+          "ddp_title": "Pagar ahora",
+          "ddp_caption": "Sin cargos adicionales en la entrega"
+        },
+        "shipping_method_combinations": {
+          "without_separator": "%{primerMétodo}, %{segundoMétodo}",
+          "with_separator": "%{resto}, %{actual},",
+          "combination": "%{resto} y %{actual}"
+        },
+        "shipping_used_as_billing_notice": "Esto también se utilizará como su dirección de facturación para este pedido."
+      },
+      "localized_fields": {
+        "additional_information": {
+          "title": "Información adicional"
+        }
+      },
+      "payment": {
+        "amazon_payments_label": "Pago de Amazon",
+        "amazon_payments_login_hint": "Se le pedirá que inicie sesión con Amazon.",
+        "amazon_payments_logout": "Cerrar sesión en Amazon Pay",
+        "amazon_payments_failed_mfa_challenge": "No se pudo utilizar el método de pago seleccionado. Seleccione un método diferente o comuníquese con su banco o emisor de la tarjeta.",
+        "amazon_payments_abandoned_mfa_challenge": "No se pudo completar su pago. Pruebe con otro método de pago o comuníquese con su banco o emisor de la tarjeta.",
+        "amazon_payments_could_not_enqueue_authorize": "Hubo un problema al procesar su pago. Vuelve a intentarlo o utiliza otro método de pago.",
+        "title": "Pago",
+        "amount_left_to_pay_label": "Fecha de pago:",
+        "discount_button_action_label": "Aplicar código de descuento",
+        "gift_card_code_label": "Código de la tarjeta de regalo",
+        "apply_gift_card_button_label": "Aplicar",
+        "supported_card_brands_more_label": "y más…",
+        "detected_card_brand": "Marca de tarjeta detectada: {brand}",
+        "credit_card_vaulting_sign_in_banner_title": "Guarde su tarjeta de crédito",
+        "credit_card_vaulting_sign_in_banner_info": "Inicie sesión o cree una cuenta para guardar su tarjeta de crédito para futuras compras.",
+        "credit_card_vaulting_sign_in_banner_button_label": "Acceso",
+        "ftd_vault_credit_card_label": "Guarde esta tarjeta de crédito en mi cuenta para pagar más rápido",
+        "card_number_label": "Número de tarjeta",
+        "card_number_placeholder": "Número de tarjeta",
+        "card_pay_with": "Pagar con:",
+        "card_security_notice": "Todas las transacciones son seguras y encriptadas.",
+        "card_security_vault_notice": "Necesitamos sus datos para futuros pagos. Todas las transacciones son seguras y encriptadas.",
+        "card_information_notice": "Todas las transacciones son seguras y encriptadas. La información de la tarjeta de crédito nunca se almacena.",
+        "name_on_card_label": "Nombre en la tarjeta",
+        "name_on_card_placeholder": "Nombre en la tarjeta",
+        "card_expired": "Venció",
+        "card_expiry_label": "Fecha de caducidad (MM \/ AA)",
+        "card_expiry_placeholder": "Fecha de caducidad (MM \/ AA)",
+        "credit_card_start_month": "Mes de inicio",
+        "credit_card_start_year": "Año de inicio",
+        "delete_customer_mandate_modal_title": "¿Quitar esta tarjeta de pago?",
+        "delete_customer_mandate_modal_body": "Si quita esta tarjeta, deberá volver a agregarla antes de usarla para pagos.",
+        "delete_customer_mandate_modal_confirm": "Quitar tarjeta",
+        "delete_customer_mandate_modal_cancel": "Cancelar",
+        "card_verification_value_label": "Código de seguridad",
+        "card_verification_value_placeholder": "Código de seguridad",
+        "card_verification_confirm": "Para fines de verificación, ingrese el código de seguridad de su tarjeta.",
+        "card_expiry_date_explanation": "Fecha de vencimiento de la tarjeta en formato: mes, mes, año, año",
+        "card_expiration_month_label": "Mes de expiración",
+        "card_expiration_year_label": "año de caducidad",
+        "card_verification_value_explanation": "El código de seguridad de 3 dígitos generalmente se encuentra en el reverso de su tarjeta. Las tarjetas American Express tienen un código de 4 dígitos ubicado en el frente.",
+        "card_verification_value_explanation_amex": "Código de seguridad de 4 dígitos en el frente de su tarjeta",
+        "card_verification_value_explanation_other": "Código de seguridad de 3 dígitos en el reverso de su tarjeta",
+        "card_start_label": "Fecha de emisión (MM \/ AA)",
+        "card_start_placeholder": "Fecha de emisión (MM \/ AA)",
+        "card_issue_number_label": "Número de emisión",
+        "card_issue_number_placeholder": "Número de emisión",
+        "card_change_label": "Cambiar",
+        "card_update_label": "Tarjeta de actualización",
+        "ends_with_label": "terminando en %{last_digits}",
+        "masked_digits_label": "•••• %{últimos dígitos}",
+        "payment_method_saved": "Forma de pago guardada",
+        "card_vaulted_company_location": "Tarjeta guardada para esta ubicación",
+        "expiry_long": "(Caduca el %{mes}\/%{año})",
+        "expiry_short": "(Exp %{mes}\/%{año})",
+        "saved_by_payment_method": "Guardado por %{payment_method}",
+        "pay_with_payment_method": "Paga con %{payment_method}",
+        "different_credit_card_label": "Usar una tarjeta de crédito diferente",
+        "same_billing_address_label": "Igual que la dirección de envío",
+        "different_billing_address_label": "Usar una dirección de facturación diferente",
+        "billing_address_associated_with_mandate": "Usar la dirección asociada con el método de pago",
+        "billing_address_associated_with_mandate_info": "Si desea cambiar su dirección de facturación, elimine y vuelva a ingresar los detalles de su tarjeta de crédito",
+        "free_order_notice_html": "Tu pedido es <strong>gratis<\/strong> . No se requiere pago.",
+        "express_checkout_free_order": "No se le cobrará por un pedido gratuito",
+        "order_covered_by_gift_cards_notice": {
+          "one": "Su pedido está cubierto por su tarjeta de regalo.",
+          "other": "Su pedido está cubierto por sus tarjetas de regalo."
+        },
+        "offsite_gateway_redirect_hint": "Después de hacer clic en \"%{button_label}\", será redirigido a %{gateway_label} para completar su compra de forma segura.",
+        "receiver_payment_experience_hint": "Después de realizar su pedido, recibirá los detalles de pago. Realiza el pago en Multibanco o en línea dentro de %{due_days} días.",
+        "billing_address_title": "Dirección de Envio",
+        "billing_address_description": "Seleccione la dirección que coincida con su tarjeta o método de pago.",
+        "billing_address_description_no_shipping_address": "Ingrese la dirección que coincida con su tarjeta o método de pago.",
+        "no_js_credit_card_fields_redirect_hint": "Será redirigido para agregar su información de pago.",
+        "card_fields_container_prefix": "Contenedor de campo para:",
+        "card_fields_unavailable_html": {
+          "one": "Los pagos con tarjeta de crédito y débito no están disponibles en este momento.<br> <a href=\"%{current_url}\">Actualice esta página<\/a> o vuelva a intentarlo más tarde.",
+          "other": "Los pagos con tarjeta de crédito y débito no están disponibles en este momento.<br> <a href=\"%{current_url}\">Actualice esta página<\/a> o pruebe con otro método de pago."
+        },
+        "card_fields_processing_error": "Hubo un problema al procesar el pago. Intente actualizar esta página o verifique su conexión a Internet.",
+        "technical_error": "Los pagos no se pueden procesar en este momento debido a un problema técnico. Vuelve a intentarlo en unos minutos.",
+        "no_method_error": "Esta tienda no puede aceptar pagos en este momento.",
+        "not_configured_error": "Esta tienda no puede aceptar pagos en este momento.",
+        "missing_credit_card_error": "Introduce los datos de tu tarjeta para completar el pago"
       }
     },
     "email_marketing": {
