@@ -2,7 +2,7 @@
   "current": {
     "preloader_enable": false,
     "preloader": "shopify:\/\/shop_images\/prelaoder.gif",
-    "header_font": "montserrat_n4",
+    "header_font": "alegreya_n4",
     "h1_size": 70,
     "h2_size": 60,
     "h3_size": 40,
