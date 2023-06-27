@@ -4310,6 +4310,6 @@ h1.product-single__title, .product-single__title.h1 {
 
 /* digitals css */
 
-.ImageOverlayCa {
+.products .product-container .ImageOverlayCa {
     background-color: red!important;
 }
