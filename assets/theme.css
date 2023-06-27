@@ -4305,3 +4305,11 @@ h1.product-single__title, .product-single__title.h1 {
     align-self: flex-end;
     text-align: right;
 }
+
+
+
+/* digitals css */
+
+.ImageOverlayCa {
+    background-color: red!important;
+}
