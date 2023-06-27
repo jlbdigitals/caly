@@ -108,7 +108,7 @@
         "collections_sort_enable": true,
         "collections_view_enable": true,
         "item_pre_view": true,
-        "grid": "3",
+        "grid": "4",
         "rows": "3"
       }
     }
