@@ -707,7 +707,7 @@
         "vertical_position": "vertical-top",
         "content_width": "50\/50",
         "lap_content_width": "40\/60",
-        "overlay_style_height": 400,
+        "overlay_style_height": 200,
         "overlay_style": "use_overlay",
         "overlay_color": "",
         "overlay_opacity": "0.5",
