@@ -97,7 +97,7 @@
               {% endif%}  
             </div>
             {% if section.settings.primary_title != blank or section.settings.primary_sub_title != blank or  section.settings.primary_description != blank or  section.settings.primary_button_link != blank %}
-            <div class="dt-sc-grid-banner-content 
+            {% comment %} <div class="dt-sc-grid-banner-content 
                         {% unless section.settings.main_banner_style == 'grid' %} {{ section.settings.primary_position }}{% endunless%}
                         {% if section.settings.main_banner_style == 'grid' %}{{ section.settings.primary_text_align}}{% endif %}">
               {% if section.settings.primary_title != blank or section.settings.primary_sub_title != blank or  section.settings.primary_description != blank or  section.settings.primary_button_link != blank %}
@@ -119,7 +119,7 @@
                 {% endif %}
                 {% unless section.settings.main_banner_style == 'grid' %}</div>{% endunless %}
               {% endif%}  
-            </div>
+            </div> {% endcomment %}
             {% endif%}  
           </div>
           <!-- end Card -->
