@@ -318,8 +318,9 @@
         "571fa2cc-7855-4e25-9f86-4a5ee1bc7d16": {
           "type": "icon",
           "settings": {
-            "title": "Quisque lorem",
-            "desc": "Morbi tempus iaculis urna sagittis vitae. Massa sapien faucibus.",
+            "icon": "shopify:\/\/shop_images\/Chardonnay-GRAN.png",
+            "title": "Gran Reserva",
+            "desc": "<i>– Singularidad en cada entrega<\/i><br> ​La línea Gran Reserva de Calyptra nos ofrece vinos complejos, de gran volumen, carácter y cremosidad. La potencia de nuestra uva, la influencia de su año de elaboración y su crianza en barricas dan origen a vinos irrepetibles entre una añada y la otra.",
             "link_text": "",
             "link": "",
             "reverse_column": false
