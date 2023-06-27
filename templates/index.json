@@ -329,8 +329,9 @@
         "ece4f903-4eef-4432-8179-9d1666b60e6b": {
           "type": "icon",
           "settings": {
-            "title": "Turpis faucibus",
-            "desc": "Enim ut tellus elementum sagittis vitae. Massa sapien faucibus.",
+            "icon": "shopify:\/\/shop_images\/Pto_Zahir-2011.jpg",
+            "title": "Icono y Premium",
+            "desc": "<i>– Calyptra en su máxima expresión.<\/i> Nuestros vinos Ícono y Premium representan lo mejor de la producción limitada de Calyptra. Elaborados a partir de uvas seleccionadas con rendimiento bajo y hechos a base del mejor Cabernet Sauvignon de nuestros viñedos orgánicos, las líneas Icono y Premium son representantes de nuestro excelente terroir. Vinos de carácter, únicos y con gran potencial de guarda.",
             "link_text": "",
             "link": "",
             "reverse_column": false
