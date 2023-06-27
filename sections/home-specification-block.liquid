@@ -86,7 +86,7 @@
 
         <div class="dt-sc-main-grid dt-sc-column">
           <!-- Card -->
-          <div class="dt-sc-grid-banner {{ main_grid_style}} {{main_overlay_style}} {% if section.settings.enable_box_shadow %}dt-sc-box-shadow{% endif %} ">
+          {% comment %} <div class="dt-sc-grid-banner {{ main_grid_style}} {{main_overlay_style}} {% if section.settings.enable_box_shadow %}dt-sc-box-shadow{% endif %} ">
             <div class="dt-sc-grid-banner-image {{ main_overlay_class}}">
               {% if section.settings.primary_image != blank %}
              
@@ -97,7 +97,7 @@
               {% endif%}  
             </div>
             {% if section.settings.primary_title != blank or section.settings.primary_sub_title != blank or  section.settings.primary_description != blank or  section.settings.primary_button_link != blank %}
-            {% comment %} <div class="dt-sc-grid-banner-content 
+            <div class="dt-sc-grid-banner-content 
                         {% unless section.settings.main_banner_style == 'grid' %} {{ section.settings.primary_position }}{% endunless%}
                         {% if section.settings.main_banner_style == 'grid' %}{{ section.settings.primary_text_align}}{% endif %}">
               {% if section.settings.primary_title != blank or section.settings.primary_sub_title != blank or  section.settings.primary_description != blank or  section.settings.primary_button_link != blank %}
@@ -119,9 +119,9 @@
                 {% endif %}
                 {% unless section.settings.main_banner_style == 'grid' %}</div>{% endunless %}
               {% endif%}  
-            </div> {% endcomment %}
+            </div>
             {% endif%}  
-          </div>
+          </div> {% endcomment %}
           <!-- end Card -->
         </div>
 
