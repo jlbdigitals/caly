@@ -56,6 +56,111 @@
         "custom_class_name": ""
       }
     },
+    "36bc7dd0-193f-4991-89c6-dca622464ddb": {
+      "type": "home-featured-collection",
+      "disabled": true,
+      "blocks": {
+        "template--19365956550963__36bc7dd0-193f-4991-89c6-dca622464ddb-16879017038a1ec4d0-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "calyptra-argentina",
+            "block_button_text": "Shop Now",
+            "block_text_align": "text-center",
+            "content_position": "center",
+            "reverse_column": false,
+            "block_banner_bg": "",
+            "block_content_box_bg": "",
+            "block_heading_color": "",
+            "block_sub_heading_color": "",
+            "block_description_color": "",
+            "block_button_bg_color": "",
+            "block_button_text_color": "",
+            "block_button_hover_bg_color": "",
+            "block_button_hover_text_color": "",
+            "overlay_style": "use_overlay",
+            "overlay_color": "",
+            "overlay_opacity": "0.5",
+            "rotation_degree": "180"
+          }
+        },
+        "template--19365956550963__36bc7dd0-193f-4991-89c6-dca622464ddb-16879017038a1ec4d0-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "block_button_text": "Shop Now",
+            "block_text_align": "text-center",
+            "content_position": "center",
+            "reverse_column": false,
+            "block_banner_bg": "",
+            "block_content_box_bg": "",
+            "block_heading_color": "",
+            "block_sub_heading_color": "",
+            "block_description_color": "",
+            "block_button_bg_color": "",
+            "block_button_text_color": "",
+            "block_button_hover_bg_color": "",
+            "block_button_hover_text_color": "",
+            "overlay_style": "use_overlay",
+            "overlay_color": "",
+            "overlay_opacity": "0.5",
+            "rotation_degree": "180"
+          }
+        }
+      },
+      "block_order": [
+        "template--19365956550963__36bc7dd0-193f-4991-89c6-dca622464ddb-16879017038a1ec4d0-0",
+        "template--19365956550963__36bc7dd0-193f-4991-89c6-dca622464ddb-16879017038a1ec4d0-1"
+      ],
+      "settings": {
+        "full": false,
+        "spacing_both_ends": false,
+        "padding": "0,0",
+        "margin": "0,0",
+        "show_background_image": false,
+        "background_style": "default",
+        "enable_overlay": false,
+        "background_color": "",
+        "overlay_transparency": "0.5",
+        "section_heading": "Featured Product",
+        "section_sub_heading": "Sub Heading",
+        "section_description": "Use this text to share the information which you like!.",
+        "section_button_text": "",
+        "section_button_link": "",
+        "section_heading_color": "",
+        "section_sub_heading_color": "",
+        "section_description_color": "",
+        "section_button_bg_color": "",
+        "section_button_text_color": "",
+        "section_button_hover_bg_color": "",
+        "section_button_hover_text_color": "",
+        "heading_position": "text-center",
+        "grid": "2",
+        "block_banner_style": "grid",
+        "column_gap": "30",
+        "equal_height": false,
+        "overlay_style_height": "400",
+        "enable_box_shadow": false,
+        "border_radius": "0",
+        "content_width": "50\/50",
+        "lap_content_width": "35\/65",
+        "enable_slider": false,
+        "enable_auto_height": true,
+        "slider_autoplay": 0,
+        "items_per_view": 2,
+        "dots": true,
+        "carousel_pagination_alignment": "center_pagination",
+        "arrows": true,
+        "nav_arrow_position": "center-navigation",
+        "center_nav_arrow_alignment": "outside_container",
+        "navigation_button_color": "",
+        "navigation_button_icon_color": "",
+        "navigation_button_hover_color": "",
+        "navigation_button_hover_icon_color": "",
+        "navigation_dot_color": "",
+        "navigation_dot_active_color": "",
+        "custom_class_name": ""
+      }
+    },
     "slideshow": {
       "type": "slideshow",
       "disabled": true,
@@ -351,6 +456,7 @@
     },
     "1631783130c4dff18f": {
       "type": "home-specification-block",
+      "disabled": true,
       "blocks": {
         "22d622ff-d9c0-49c5-8429-ae7fb3dbb369": {
           "type": "icon",
@@ -789,6 +895,7 @@
   },
   "order": [
     "ea4b52f7-66a8-482d-94c7-bdfbc409b826",
+    "36bc7dd0-193f-4991-89c6-dca622464ddb",
     "slideshow",
     "16317828921fc9dbff",
     "1631783130c4dff18f",
