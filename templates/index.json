@@ -597,6 +597,7 @@
       "blocks": {
         "ea1fe732-b623-4a3c-87ff-71c0c709cbce": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "block_title": "Title",
             "collection": "",
