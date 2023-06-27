@@ -593,6 +593,37 @@
     },
     "16305701682495e701": {
       "type": "home-product-carousel",
+      "blocks": {
+        "ea1fe732-b623-4a3c-87ff-71c0c709cbce": {
+          "type": "collection",
+          "settings": {
+            "block_title": "Title",
+            "collection": "",
+            "enable_box_shadow": false,
+            "border_radius": "0",
+            "collection_column_gap": "30",
+            "limit": 2,
+            "enable_slider": false,
+            "items_per_view": 1,
+            "rows": 2,
+            "slider_autoplay": 0,
+            "enable_auto_height": false,
+            "dots": false,
+            "carousel_pagination_alignment": "center_pagination",
+            "arrows": true,
+            "nav_arrow_position": "navigation-top-right",
+            "navigation_button_color": "",
+            "navigation_button_icon_color": "",
+            "navigation_button_hover_color": "",
+            "navigation_button_hover_icon_color": "",
+            "navigation_dot_color": "",
+            "navigation_dot_active_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "ea1fe732-b623-4a3c-87ff-71c0c709cbce"
+      ],
       "settings": {
         "full": true,
         "spacing_both_ends": true,
@@ -700,7 +731,7 @@
         "vertical_position": "vertical-top",
         "content_width": "50\/50",
         "lap_content_width": "40\/60",
-        "overlay_style_height": 200,
+        "overlay_style_height": 400,
         "overlay_style": "use_overlay",
         "overlay_color": "",
         "overlay_opacity": "0.5",
@@ -716,10 +747,10 @@
         "blog_link_hover_color": "",
         "blog_text_color": "#646464",
         "blog_icon_color": "",
-        "blog_button_bg_color": "#523021",
+        "blog_button_bg_color": "#c31633",
         "blog_button_text_color": "#ffffff",
         "blog_button_bg_hover_color": "#fbce70",
-        "blog_button_text_hover_color": "#523021",
+        "blog_button_text_hover_color": "#c31633",
         "blog_link_color_overlay": "",
         "blog_link_hover_color_overlay": "",
         "blog_text_color_overlay": "",

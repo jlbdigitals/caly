@@ -221,7 +221,7 @@
           "social_icon_bg": "#ffffff",
           "social_icon_hover_bg": "#70bdc2",
           "show_account": true,
-          "show_header_cart": false,
+          "show_header_cart": true,
           "show_header_wishlist": false,
           "show_header_compare": false,
           "icon_color": "#ffffff",
