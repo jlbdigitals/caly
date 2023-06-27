@@ -37,6 +37,7 @@
         },
         "3e6a8afe-b7c7-4573-b1d6-568b5d9a0cd1": {
           "type": "Slider",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Copa.jpg",
             "mobile_bg_clr": "",
@@ -69,6 +70,7 @@
         },
         "4e6bf993-9070-445a-8619-794fa13514c2": {
           "type": "Slider",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/10.jpg",
             "mobile_bg_clr": "",
@@ -699,8 +701,9 @@
         "spacing_both_ends": true,
         "padding": "70,0",
         "margin": "0,0",
-        "show_background_image": false,
-        "background_style": "default",
+        "show_background_image": true,
+        "background_image": "shopify:\/\/shop_images\/hojas.jpg",
+        "background_style": "parallax",
         "enable_overlay": false,
         "background_color": "",
         "overlay_transparency": "0.5",
@@ -709,7 +712,7 @@
         "section_description": "",
         "section_button_text": "",
         "section_button_link": "",
-        "section_heading_color": "#151515",
+        "section_heading_color": "#ffffff",
         "section_sub_heading_color": "",
         "section_description_color": "#646464",
         "section_button_bg_color": "#c21532",
