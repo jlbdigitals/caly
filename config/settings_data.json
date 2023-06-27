@@ -321,9 +321,9 @@
               "footer_contact_id": "contacto@calyptra.cl",
               "title_1": "",
               "richtext_1": "",
-              "newsletter_btn_color_1": "#523021",
-              "newsletter_btn_bg_1": "#fbce70",
-              "newsletter_btn_hover_color_1": "#523021",
+              "newsletter_btn_color_1": "#ffffff",
+              "newsletter_btn_bg_1": "#c21532",
+              "newsletter_btn_hover_color_1": "#c21532",
               "newsletter_btn_hover_bg_1": "#ffffff",
               "container_width": 33,
               "column_alignment": "text-start"
