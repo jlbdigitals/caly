@@ -296,9 +296,10 @@
         "22d622ff-d9c0-49c5-8429-ae7fb3dbb369": {
           "type": "icon",
           "settings": {
-            "title": "Aliquam erat",
-            "desc": "Tincidunt ornare massa eget egestas purus viverra accumsan.",
-            "link_text": "View More",
+            "icon": "shopify:\/\/shop_images\/Chardonnay-Vivendo.png",
+            "title": "Vivendo Reserva",
+            "desc": "<i>Expresión natural<\/i><br><br> La línea reserva Vivendo de Calyptra nos presenta vinos frescos, versátiles y frutados, sin crianza en barricas. Potencia e intensidad pura del aporte de nuestro terruño a los varietales, cultivados en el rigor del clima andino.",
+            "link_text": "",
             "link": "",
             "reverse_column": false
           }
@@ -306,8 +307,9 @@
         "40573cde-839e-473b-bfd3-2976d13cba3f": {
           "type": "icon",
           "settings": {
-            "title": "Etiam orci",
-            "desc": "Gravida cum sociis nate sa eget egestas purus viverra accumsan.",
+            "icon": "shopify:\/\/shop_images\/Petit_Inedito2018_new2.png",
+            "title": "Petit Inédito",
+            "desc": "",
             "link_text": "",
             "link": "",
             "reverse_column": false
