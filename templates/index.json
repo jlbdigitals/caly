@@ -722,7 +722,7 @@
         "blog_comments": false,
         "blog_show_tag": false,
         "blog_show_button": true,
-        "blog_show_description": true,
+        "blog_show_description": false,
         "enable_blog_icons": false,
         "block_banner_style": "overlay-style",
         "post_limit": 3,
