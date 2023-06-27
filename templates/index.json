@@ -539,7 +539,7 @@
         "spacing_both_ends": false,
         "padding": "130,180",
         "margin": "0,0",
-        "show_background_image": true,
+        "show_background_image": false,
         "background_image": "shopify:\/\/shop_images\/25.jpg",
         "background_style": "parallax",
         "enable_overlay": true,
