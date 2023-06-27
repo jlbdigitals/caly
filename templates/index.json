@@ -489,6 +489,7 @@
     },
     "1631783793fa0d40f6": {
       "type": "home-linkedlist-menu",
+      "disabled": true,
       "blocks": {
         "1631783793fa0d40f6-0": {
           "type": "categorylisting",
@@ -537,11 +538,11 @@
       "settings": {
         "full": false,
         "spacing_both_ends": false,
-        "padding": "130,180",
+        "padding": "180,180",
         "margin": "0,0",
         "show_background_image": false,
         "background_image": "shopify:\/\/shop_images\/25.jpg",
-        "background_style": "parallax",
+        "background_style": "default",
         "enable_overlay": true,
         "background_color": "#151515",
         "overlay_transparency": "0.9",
