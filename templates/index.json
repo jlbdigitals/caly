@@ -298,7 +298,7 @@
           "settings": {
             "icon": "shopify:\/\/shop_images\/Chardonnay-Vivendo.png",
             "title": "Vivendo Reserva",
-            "desc": "<i>Expresión natural<\/i><br> La línea reserva Vivendo de Calyptra nos presenta vinos frescos, versátiles y frutados, sin crianza en barricas. Potencia e intensidad pura del aporte de nuestro terruño a los varietales, cultivados en el rigor del clima andino.",
+            "desc": "<i style=\"color: black;\">Expresión natural<\/i><br> La línea reserva Vivendo de Calyptra nos presenta vinos frescos, versátiles y frutados, sin crianza en barricas. Potencia e intensidad pura del aporte de nuestro terruño a los varietales, cultivados en el rigor del clima andino.",
             "link_text": "",
             "link": "",
             "reverse_column": false
@@ -309,7 +309,7 @@
           "settings": {
             "icon": "shopify:\/\/shop_images\/Petit_Inedito2018_new2.png",
             "title": "Petit Inédito",
-            "desc": "<i>– Excelente balance<\/i><br> Petit Inedito, es la última etiqueta incorporada a nuestro portafolio, ofrece el carácter y potencia de nuestro ensamblaje premium, en balance con frescura y frutosidad, gracias a la crianza en barricas de roble francés y tanques de acero inoxidable.",
+            "desc": "<i style=\"color: black;\">– Excelente balance<\/i><br> Petit Inedito, es la última etiqueta incorporada a nuestro portafolio, ofrece el carácter y potencia de nuestro ensamblaje premium, en balance con frescura y frutosidad, gracias a la crianza en barricas de roble francés y tanques de acero inoxidable.",
             "link_text": "",
             "link": "",
             "reverse_column": false
@@ -320,7 +320,7 @@
           "settings": {
             "icon": "shopify:\/\/shop_images\/Chardonnay-GRAN.png",
             "title": "Gran Reserva",
-            "desc": "<i>– Singularidad en cada entrega<\/i><br> ​La línea Gran Reserva de Calyptra nos ofrece vinos complejos, de gran volumen, carácter y cremosidad. La potencia de nuestra uva, la influencia de su año de elaboración y su crianza en barricas dan origen a vinos irrepetibles entre una añada y la otra.",
+            "desc": "<i style=\"color: black;\">– Singularidad en cada entrega<\/i><br> ​La línea Gran Reserva de Calyptra nos ofrece vinos complejos, de gran volumen, carácter y cremosidad. La potencia de nuestra uva, la influencia de su año de elaboración y su crianza en barricas dan origen a vinos irrepetibles entre una añada y la otra.",
             "link_text": "",
             "link": "",
             "reverse_column": false
@@ -331,7 +331,7 @@
           "settings": {
             "icon": "shopify:\/\/shop_images\/Pto_Zahir-2011.jpg",
             "title": "Icono y Premium",
-            "desc": "<i>– Calyptra en su máxima expresión.<\/i> Nuestros vinos Ícono y Premium representan lo mejor de la producción limitada de Calyptra. Elaborados a partir de uvas seleccionadas con rendimiento bajo y hechos a base del mejor Cabernet Sauvignon de nuestros viñedos orgánicos, las líneas Icono y Premium son representantes de nuestro excelente terroir. Vinos de carácter, únicos y con gran potencial de guarda.",
+            "desc": "<i style=\"color: black;\">– Calyptra en su máxima expresión.<\/i> <br>Nuestros vinos Ícono y Premium representan lo mejor de la producción limitada de Calyptra. Elaborados a partir de uvas seleccionadas con rendimiento bajo y hechos a base del mejor Cabernet Sauvignon de nuestros viñedos orgánicos, las líneas Icono y Premium son representantes de nuestro excelente terroir. Vinos de carácter, únicos y con gran potencial de guarda.",
             "link_text": "",
             "link": "",
             "reverse_column": false
@@ -340,18 +340,8 @@
         "2597ab42-c39f-4872-8ed6-8d72aaa715e3": {
           "type": "icon",
           "settings": {
-            "title": "Nullam visi",
-            "desc": "Urna molestie at elementum eu facilisis. Facilisi etiam dignissi.",
-            "link_text": "",
-            "link": "",
-            "reverse_column": false
-          }
-        },
-        "881378a1-9e7e-44ac-98a8-75d61bbce633": {
-          "type": "icon",
-          "settings": {
-            "title": "Aliquam erat",
-            "desc": "Nisi vitae suscipit tellus naeeu facilisis. Facilisi etiam dignissi.",
+            "title": "Dulces y Espumosos",
+            "desc": "<i style=\"color: black;\">– La elegancia de los aromas frutales ​<\/i><br>Para amantes de espumosos elegantes, presentamos nuestra Hera Blanc de Blanc método tradicional 100% elaborado de uva Chardonnay. Vinos dulces están representados por Solvita Late Harvest de Sauvignon Blanc 100% botritizado y fortificado FORT obtenido por co-fermentación de Cabernet Sauvignon, Syrah y Merlot y con una crianza en barricas durante 60 meses.",
             "link_text": "",
             "link": "",
             "reverse_column": false
@@ -363,8 +353,7 @@
         "40573cde-839e-473b-bfd3-2976d13cba3f",
         "571fa2cc-7855-4e25-9f86-4a5ee1bc7d16",
         "ece4f903-4eef-4432-8179-9d1666b60e6b",
-        "2597ab42-c39f-4872-8ed6-8d72aaa715e3",
-        "881378a1-9e7e-44ac-98a8-75d61bbce633"
+        "2597ab42-c39f-4872-8ed6-8d72aaa715e3"
       ],
       "settings": {
         "full": false,
