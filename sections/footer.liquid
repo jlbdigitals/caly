@@ -106,7 +106,7 @@
   {% endif %}
 
   {% if section.settings.show_copyright or  section.settings.enable_inline_footer_menu or section.settings.show_payment_icons %}
-  <div class="site-footer__bottom">
+  {% comment %} <div class="site-footer__bottom">
     <div class="{% render 'container-settings' %}"> 
       <div class="row">
         <div class="dt-sc-flex-space-between">
@@ -154,7 +154,7 @@
         </div>
       </div>
     </div>
-  </div>
+  </div> {% endcomment %}
 
   {% endif %}
 </footer>
