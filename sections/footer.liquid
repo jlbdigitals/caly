@@ -267,8 +267,13 @@
   }
   {% if  block.type == 'newsletter' %}
 
-  .footer__newsletter-btn{ background-color: {{ block.settings.newsletter_btn_bg }}; color: {{ block.settings.newsletter_btn_color }}; }
-  .footer__newsletter-btn:hover{ background-color: {{ block.settings.newsletter_btn_hover_bg }}; color: {{ block.settings.newsletter_btn_hover_color }}; }
+  .footer__newsletter-btn{ 
+    background-color: gainsboro; 
+    color: black; 
+  }
+  .footer__newsletter-btn:hover{ 
+    background-color: {{ block.settings.newsletter_btn_hover_bg }}; 
+    color: {{ block.settings.newsletter_btn_hover_color }}; }
 
   {% endif %}
   
