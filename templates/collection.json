@@ -5,9 +5,11 @@
       "blocks": {
         "1626870276b398a0aa-0": {
           "type": "content",
+          "disabled": true,
           "settings": {
-            "show_image": true,
-            "block_title": "",
+            "block_image": "shopify:\/\/shop_images\/9.jpg",
+            "show_image": false,
+            "block_title": "Nuestros Vinos",
             "block_sub_title": "",
             "block_description": "",
             "block_button_text": "",
