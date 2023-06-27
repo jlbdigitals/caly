@@ -37,7 +37,7 @@
     "info_color": "#523021",
     "product_bg_color": "rgba(0,0,0,0)",
     "product_text_color": "#646464",
-    "product_title_color": "#523021",
+    "product_title_color": "#000000",
     "product_title_hover_color": "#ac764e",
     "button_bg_color": "#523021",
     "button_text_color": "#ffffff",
