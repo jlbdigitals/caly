@@ -84,7 +84,7 @@
         </div>
         {% endif %}    
 
-        <div class="dt-sc-main-grid dt-sc-column">
+        {% comment %} <div class="dt-sc-main-grid dt-sc-column">
           <!-- Card -->
           {% comment %} <div class="dt-sc-grid-banner {{ main_grid_style}} {{main_overlay_style}} {% if section.settings.enable_box_shadow %}dt-sc-box-shadow{% endif %} ">
             <div class="dt-sc-grid-banner-image {{ main_overlay_class}}">
@@ -123,7 +123,7 @@
             {% endif%}  
           </div> {% endcomment %}
           <!-- end Card -->
-        </div>
+        </div> {% endcomment %}
 
         {% if section.settings.specification_style == 'style1' or section.settings.specification_style == 'style2' %}
         <div class="dt-sc-additional-grids {{blockSize}}"> 
