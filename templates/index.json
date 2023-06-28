@@ -495,6 +495,9 @@
     },
     "cbf991f5-2c25-407d-9683-3f7dcdb9ad89": {
       "type": "home-video-banner",
+      "custom_css": [
+
+      ],
       "settings": {
         "full": true,
         "spacing_both_ends": false,

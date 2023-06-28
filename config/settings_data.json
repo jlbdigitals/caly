@@ -100,7 +100,7 @@
     "sidebar_width": 245,
     "product_page_sidebar": "full-width",
     "collection_sidebar_use": "full-width",
-    "blog_page_sidebar": "right-sidebar",
+    "blog_page_sidebar": "full-width",
     "collection_sidebar_mobile": false,
     "product_sidebar_mobile": true,
     "sidebar_title_bg": "rgba(0,0,0,0)",
@@ -342,7 +342,7 @@
         "settings": {
           "full": false,
           "spacing_both_ends": false,
-          "padding": "50,10",
+          "padding": "50,20",
           "top_space": 0,
           "footer_bg_clr": "#151515",
           "color_opacity": 1,
