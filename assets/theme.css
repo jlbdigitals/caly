@@ -4311,6 +4311,6 @@ h1.product-single__title, .product-single__title.h1 {
 /* digitals css */
 
 
-.dt-sc-blog-item .dt-sc-blog-image img, textarea {
+.article__grid-image {
     border-radius: 5px!important;
 }
