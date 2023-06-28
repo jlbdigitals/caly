@@ -64,7 +64,7 @@
     "title_image_enable": false,
     "title_image": "shopify:\/\/shop_images\/quote-icon-2.png",
     "title_image_position": "place_on_bottom",
-    "use_breadcrumb": true,
+    "use_breadcrumb": false,
     "breadcrumb_image": "shopify:\/\/shop_images\/8.jpg",
     "color_image_overlay": "#000000",
     "breadcrumb_text_color": "#ffffff",
