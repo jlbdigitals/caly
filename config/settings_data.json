@@ -2289,15 +2289,27 @@
           "149ea454-f282-4480-a953-70da8b65d17d": {
             "type": "content",
             "settings": {
-              "font_icon": "fa fa-lightbulb-o",
-              "title": "Heading",
-              "text": "Sed vestibulum nulla elementum auctor tincidunt. Aliquam sit amet cursus mauris. Sed vitae mattis ipsum. Vestibulum enim nulla, sollicitudin ac hendrerit nec, tempor quis nisl",
+              "image": "shopify:\/\/shop_images\/24.jpg",
+              "font_icon": "",
+              "title": "Origen",
+              "text": "En 1989, el Dr. José Zarhi, destacado cirujano plástico chileno, adquirió el fundo de 60 hectáreas “Santa Cruz de Coya”. Al enterarse que hacia 1920 el campo había sido generoso en plantaciones de vid, decide iniciar una aventura vitivinícola, reemplazando frutales por parras de Chardonnay.\nLuego de un estudio de suelos y de condiciones climáticas, las características del campo resultaron ser óptimas para la elaboración de vinos de alta gama.",
               "reverse_column": false
+            }
+          },
+          "8c14f4c1-1ddf-48d1-9725-c8d101e27873": {
+            "type": "content",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/24.jpg",
+              "font_icon": "",
+              "title": "Un suelo que recupera su raíz para dar origen a vinos de excepción, únicos, honestos. Reflejo de la elevada expresión del terroir cordillerano más alto del Valle de Cachapoal.",
+              "text": "",
+              "reverse_column": true
             }
           }
         },
         "block_order": [
-          "149ea454-f282-4480-a953-70da8b65d17d"
+          "149ea454-f282-4480-a953-70da8b65d17d",
+          "8c14f4c1-1ddf-48d1-9725-c8d101e27873"
         ],
         "settings": {
           "enable": true,
@@ -2315,8 +2327,8 @@
           "section_description": "",
           "section_button_text": "",
           "section_button_link": "",
-          "section_heading_color": "",
-          "section_sub_heading_color": "",
+          "section_heading_color": "#000000",
+          "section_sub_heading_color": "#000000",
           "section_description_color": "",
           "section_button_bg_color": "",
           "section_button_text_color": "",
