@@ -960,7 +960,6 @@
           "section_button_hover_bg_color": "",
           "section_button_hover_text_color": "",
           "heading_position": "text-center",
-          "middle_image": "shopify:\/\/shop_images\/about004.jpg",
           "title": "Dark coffee",
           "text": "Sed vestibulum nulla elementum auctor tincidunt. Aliquam sit amet cursus mauris. Sed vitae mattis ipsum. Vestibulum enim nulla, sollicitudin ac hendrerit nec, tempor quis nisl",
           "block_heading_color": "#523021",
@@ -975,7 +974,7 @@
           "eca2e29f-66b5-4161-a1a9-c2d3c01af5a5": {
             "type": "content",
             "settings": {
-              "image": "shopify:\/\/shop_images\/services002.jpg",
+              "image": "shopify:\/\/shop_images\/19.jpg",
               "font_icon": "",
               "title": "Fresh coffee for your life",
               "text": "Netus et malesuada fames ac. Libero volutpat sed cras ornare arcu. Ultrices neque ornare aenean euismod. Nec sagittis aliquam malesuada bibendum arcu non odio",
@@ -985,7 +984,7 @@
           "4bdd8e8a-ef7f-4ad9-9d8a-d5fd43d8383d": {
             "type": "content",
             "settings": {
-              "image": "shopify:\/\/shop_images\/services003.jpg",
+              "image": "shopify:\/\/shop_images\/15.jpg",
               "font_icon": "",
               "title": "Love at the first sip",
               "text": "Sed vestibulum nulla elementum auctor tincidunt. Aliquam sit amet cursus mauris. Sed vitae mattis ipsum. Vestibulum enim nulla, sollicitudin ac hendrerit nec, tempor quis nisl",
