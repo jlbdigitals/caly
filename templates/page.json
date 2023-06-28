@@ -131,7 +131,7 @@
         "enable_box_shadow": false,
         "border_radius": "0",
         "banner_heading_color": "",
-        "banner_sub_heading_color": "",
+        "banner_sub_heading_color": "#ffffff",
         "banner_description_color": "",
         "banner_button_bg_color": "",
         "banner_button_text_color": "",
