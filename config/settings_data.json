@@ -156,6 +156,7 @@
         "blocks": {
           "9a293b0b-5169-4de3-b9e6-78bcfd01de73": {
             "type": "promo_image",
+            "disabled": true,
             "settings": {
               "mega_1": "catalog",
               "mega_columns": "five-column",

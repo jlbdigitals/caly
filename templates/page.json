@@ -2,11 +2,13 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
       }
     },
     "10d66f2d-321e-43df-a78b-b378698853a4": {
       "type": "home-custom-section",
+      "disabled": true,
       "blocks": {
         "template--19365956124979__10d66f2d-321e-43df-a78b-b378698853a4-16867775467a0d01cd-0": {
           "type": "content",
