@@ -117,7 +117,7 @@
   --DT_Info_Color: #523021;
 
   /* Blog section */
-  --DT_Blog_Border_Radius: 30px;
+  --DT_Blog_Border_Radius: 0px;
   --DT_Blog_Gutter_Width: 30px;
   --DT_Blog_BG_Color:rgba(0,0,0,0);
   --DT_Blog_Link_Color:#523021;
