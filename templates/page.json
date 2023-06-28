@@ -89,10 +89,67 @@
         "content_width": "50\/50",
         "lap_content_width": "40\/60"
       }
+    },
+    "b7306bea-85ff-4102-89c1-c994510fefdf": {
+      "type": "home-video-banner",
+      "settings": {
+        "full": true,
+        "spacing_both_ends": false,
+        "padding": "0,0",
+        "margin": "0,0",
+        "show_background_image": false,
+        "background_style": "default",
+        "enable_overlay": false,
+        "background_color": "",
+        "overlay_transparency": "0.5",
+        "section_heading": "",
+        "section_sub_heading": "",
+        "section_description": "",
+        "section_button_text": "",
+        "section_button_link": "",
+        "section_heading_color": "",
+        "section_sub_heading_color": "",
+        "section_description_color": "",
+        "section_button_bg_color": "",
+        "section_button_text_color": "",
+        "section_button_hover_bg_color": "",
+        "section_button_hover_text_color": "",
+        "heading_position": "text-center",
+        "block_title": "",
+        "block_sub_title": "MACIZOS CORDILLERANOS, AMPLITUD TÉRMICA, SABORES DE ALTURA",
+        "block_description": "",
+        "block_button_text": "",
+        "block_button_link": "",
+        "content_position": "center",
+        "block_text_align": "text-center",
+        "show_image": true,
+        "video_format": "video",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/de94f4b0e49c4b40b415d2bec8303e3a.mp4",
+        "iframe_url": "https:\/\/www.youtube.com\/embed\/JJMPKgyCoSY",
+        "video_height": "500",
+        "overlay_style": "with-overlay",
+        "enable_box_shadow": false,
+        "border_radius": "0",
+        "banner_heading_color": "",
+        "banner_sub_heading_color": "",
+        "banner_description_color": "",
+        "banner_button_bg_color": "",
+        "banner_button_text_color": "",
+        "banner_button_hover_bg_color": "",
+        "banner_button_hover_text_color": "",
+        "video_overlay_color": "",
+        "video_overlay_transparency": "0.5",
+        "icon_bg_color": "",
+        "icon_color": "",
+        "icon_bg_color_hover": "",
+        "icon_color_hover": "",
+        "custom_class_name": ""
+      }
     }
   },
   "order": [
     "main",
-    "10d66f2d-321e-43df-a78b-b378698853a4"
+    "10d66f2d-321e-43df-a78b-b378698853a4",
+    "b7306bea-85ff-4102-89c1-c994510fefdf"
   ]
 }
