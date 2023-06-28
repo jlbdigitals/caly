@@ -56,7 +56,7 @@
         "blog_show_date": false,
         "blog_comments": false,
         "blog_show_tag": false,
-        "blog_show_button": false,
+        "blog_show_button": true,
         "blog_show_description": true,
         "enable_blog_icons": false,
         "block_banner_style": "grid-style",
