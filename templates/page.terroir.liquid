@@ -1,11 +1,12 @@
-{% comment %} <div class="row">         
+<div class="row">         
   <div class="dt-sc-overlay-section dt-sc-column">
     {{ page.content }}
+    {% section 'inner-page-content-with-image-section' %}
   </div>
-</div> {% endcomment %}
+</div>
 
-{% comment %} {% section 'inner-page-content-with-image-section' %} {% endcomment %}
-{% section 'inner-page-image-with-icon-section' %}
+
+{% comment %} {% section 'inner-page-image-with-icon-section' %}
 {% section 'inner-page-image-with-icon-section-type-2' %}
 {% section 'inner-page-info-box-section' %}
-{% section 'inner-page-overlay-section' %}
+{% section 'inner-page-overlay-section' %} {% endcomment %}
