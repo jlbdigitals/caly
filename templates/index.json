@@ -276,7 +276,7 @@
         "border_radius": "0",
         "enable_list_view": false,
         "grid": "4",
-        "post_limit": 5,
+        "post_limit": 4,
         "enable_slider": false,
         "items_per_view": 4,
         "rows": 2,
