@@ -2590,7 +2590,7 @@
   },
   "blogs": {
     "article": {
-      "older_post": "Entrada antigua",
+      "older_post": "Entrada anterior",
       "newer_post": "Publicación más reciente",
       "tags": "Etiquetas:",
       "by_author": "por {{ author }}",
