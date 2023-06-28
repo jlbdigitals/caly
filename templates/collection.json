@@ -179,7 +179,7 @@
         "d67bfedd-740f-4dbd-ac3a-9bd51964d9fa"
       ],
       "settings": {
-        "full": false,
+        "full": true,
         "spacing_both_ends": false,
         "social_media_enable": false,
         "margin": "0,0",
