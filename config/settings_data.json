@@ -974,20 +974,20 @@
           "eca2e29f-66b5-4161-a1a9-c2d3c01af5a5": {
             "type": "content",
             "settings": {
-              "image": "shopify:\/\/shop_images\/2.jpg",
+              "image": "shopify:\/\/shop_images\/G_L3232.jpg",
               "font_icon": "",
-              "title": "Origen",
-              "text": "En 1989, el Dr. José Zarhi, destacado cirujano plástico chileno, adquirió el fundo de 60 hectáreas “Santa Cruz de Coya”. Al enterarse que hacia 1920 el campo había sido generoso en plantaciones de vid, decide iniciar una aventura vitivinícola, reemplazando frutales por parras de Chardonnay.\nLuego de un estudio de suelos y de condiciones climáticas, las características del campo resultaron ser óptimas para la elaboración de vinos de alta gama.",
+              "title": "Terroir",
+              "text": "Bodegas y viñedos de Calyptra se encuentran en la zona precordillerana de Coya, en el Valle de Alto Cachapoal. A 27 km. al este de Rancagua. «Un clima mediterráneo moderado provee fuertes lluvias y temperaturas bajas con ocasionales nevazones en invierno, que se contraponen a veranos de días cálidos con tardes de vientos cordilleranos que encuentran su escape por la cuenca del Río Cachapoal.",
               "reverse_column": false
             }
           },
           "4bdd8e8a-ef7f-4ad9-9d8a-d5fd43d8383d": {
             "type": "content",
             "settings": {
-              "image": "shopify:\/\/shop_images\/15.jpg",
+              "image": "shopify:\/\/shop_images\/G_L3232.jpg",
               "font_icon": "",
-              "title": "Así nace Calyptra",
-              "text": "Un suelo que recupera su raíz para dar origen a vinos de excepción, únicos, honestos. Reflejo de la elevada expresión del terroir cordillerano más alto del Valle de Cachapoal.",
+              "title": "Esta diferencia climática es uno de los elementos únicos de nuestro terroir que ayuda a crear ejemplares genuinos e irrepetibles.",
+              "text": "",
               "reverse_column": true
             }
           },
@@ -997,15 +997,48 @@
               "image": "shopify:\/\/shop_images\/hojas.jpg",
               "font_icon": "",
               "title": "",
-              "text": "Fruto de la Honestidad. Aislamiento geográfico. Agricultura sustentable.\n<br>\nProcesos de vinificación que combinan tradición e innovación. Detalle, constancia y paciencia puesta en cada una de las barricas.\nUna manera de hacer única, que decanta en vinos con raíces. Singulares y auténticos. Con origen en el respeto al suelo, la calidad de las uvas, la rigurosidad en el proceso y la dedicación de nuestro equipo.",
+              "text": "Situado en una ubicación privilegiada: en el cajón del Valle de Alto Cachapoal. A casi 1000 Mts. sobre el nivel del mar, las 43 hectáreas plantadas de Calyptra se convierten en el viñedo más oriental de Chile.\n\nEl campo presenta una exposición sur, con pendientes suaves colindantes a la rivera norte del río Cachapoal. Otro límite natural que aporta condiciones de aislamiento geográfico al terruño.\n\nEstas barreras naturales son vitales para la ausencia de plagas o enfermedades agresivas y potencian un territorio generoso para nuestros grandes vinos.",
               "reverse_column": false
+            }
+          },
+          "7b82e326-350e-447d-ad13-17caac5eddd4": {
+            "type": "content",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/G_L3232.jpg",
+              "font_icon": "",
+              "title": "UN TRATO ENTRE EL CIELO, EL SUELO Y EL HOMBRE",
+              "text": "",
+              "reverse_column": true
+            }
+          },
+          "4385ba4f-d09c-46f3-97da-46a6c68a8df9": {
+            "type": "content",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/G_L3232.jpg",
+              "font_icon": "",
+              "title": "",
+              "text": "Chardonnay, Sauvignon Blanc, Pinot Noir, Cabernet Sauvignon, Merlot y Syrah crecen en 7 terrazas aluviales calcáreas y coluviales.\nEstos suelos originados por los macizos andinos y por material fluvial-glacial que desciende desde la cordillera generaron tierras con abundante cantidad de roca y baja fertilidad.",
+              "reverse_column": false
+            }
+          },
+          "77c53fa4-2f3d-4f82-a715-3b50f1cfe6ce": {
+            "type": "content",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/G_L3232.jpg",
+              "font_icon": "",
+              "title": "",
+              "text": "Para optimizar su rendimiento, utilizamos un sistema agrícola sustentable y respetuoso de estas condiciones únicas, usando productos naturales, interviniendo de forma armónica un viñedo orgánico, donde el trabajo en equipo entre hombre y naturaleza, lleva a la denominación ¨vinos de altura¨ a un  nivel superior.",
+              "reverse_column": true
             }
           }
         },
         "block_order": [
           "eca2e29f-66b5-4161-a1a9-c2d3c01af5a5",
           "4bdd8e8a-ef7f-4ad9-9d8a-d5fd43d8383d",
-          "2e7957df-7b24-4573-9980-150cc811d2dc"
+          "2e7957df-7b24-4573-9980-150cc811d2dc",
+          "7b82e326-350e-447d-ad13-17caac5eddd4",
+          "4385ba4f-d09c-46f3-97da-46a6c68a8df9",
+          "77c53fa4-2f3d-4f82-a715-3b50f1cfe6ce"
         ],
         "settings": {
           "enable": true,
