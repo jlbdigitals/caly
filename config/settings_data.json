@@ -974,10 +974,10 @@
           "eca2e29f-66b5-4161-a1a9-c2d3c01af5a5": {
             "type": "content",
             "settings": {
-              "image": "shopify:\/\/shop_images\/19.jpg",
+              "image": "shopify:\/\/shop_images\/2.jpg",
               "font_icon": "",
-              "title": "Fresh coffee for your life",
-              "text": "Netus et malesuada fames ac. Libero volutpat sed cras ornare arcu. Ultrices neque ornare aenean euismod. Nec sagittis aliquam malesuada bibendum arcu non odio",
+              "title": "Origen",
+              "text": "En 1989, el Dr. José Zarhi, destacado cirujano plástico chileno, adquirió el fundo de 60 hectáreas “Santa Cruz de Coya”. Al enterarse que hacia 1920 el campo había sido generoso en plantaciones de vid, decide iniciar una aventura vitivinícola, reemplazando frutales por parras de Chardonnay.\nLuego de un estudio de suelos y de condiciones climáticas, las características del campo resultaron ser óptimas para la elaboración de vinos de alta gama.",
               "reverse_column": false
             }
           },
@@ -986,8 +986,8 @@
             "settings": {
               "image": "shopify:\/\/shop_images\/15.jpg",
               "font_icon": "",
-              "title": "Love at the first sip",
-              "text": "Sed vestibulum nulla elementum auctor tincidunt. Aliquam sit amet cursus mauris. Sed vitae mattis ipsum. Vestibulum enim nulla, sollicitudin ac hendrerit nec, tempor quis nisl",
+              "title": "Así nace Calyptra",
+              "text": "Un suelo que recupera su raíz para dar origen a vinos de excepción, únicos, honestos. Reflejo de la elevada expresión del terroir cordillerano más alto del Valle de Cachapoal.",
               "reverse_column": true
             }
           }
@@ -1020,8 +1020,8 @@
           "section_button_hover_bg_color": "",
           "section_button_hover_text_color": "",
           "heading_position": "text-center",
-          "block_bg": "#fbce70",
-          "block_heading_color": "#523021",
+          "block_bg": "#000000",
+          "block_heading_color": "#000000",
           "block_description_color": "#646464",
           "block_icon_color": ""
         }
