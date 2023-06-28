@@ -342,7 +342,7 @@
         "settings": {
           "full": false,
           "spacing_both_ends": false,
-          "padding": "160,10",
+          "padding": "50,10",
           "top_space": 0,
           "footer_bg_clr": "#151515",
           "color_opacity": 1,
