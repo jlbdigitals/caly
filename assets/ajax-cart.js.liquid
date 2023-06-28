@@ -260,7 +260,7 @@ var ajaxCart = (function(module, $) {
     // Show empty cart
     if (cart.item_count === 0) {
       $cartContainer
-        .append('<p class="cart-content"> Your cart is currently empty. <a class="dt-sc-btn" href="/collections/all">Continue Shopping</a></p>');
+        .append('<p class="cart-content"> Tu carrito esta vacío. <a class="dt-sc-btn" href="/collections/all">Continue Shopping</a></p>');
       cartCallback(cart);
       return;
     }
