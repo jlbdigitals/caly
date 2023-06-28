@@ -277,7 +277,7 @@ div[class*="sidebar"] .sidebar.list_style .filter-panel li:before{ content: "\f1
 .blog-sidebar-panel .recent_article li { gap: calc(.5*var(--DTGutter_Width)); display: block; margin-bottom: 20px; grid-template-columns: auto 2fr; align-items: flex-start; }
 .blog-sidebar-panel .recent_article li:last-child{ margin-bottom:0;}
 .blog-sidebar-panel .recent_article li .article-image { width:100%; }
-.blog-sidebar-panel .recent_article li .article-image .article__grid-image { height: 100%; width: 100%; object-fit: cover; border-radius: var(--DTRadius); }
+.blog-sidebar-panel .recent_article li .article-image .article__grid-image { height: 100%; width: 100%; object-fit: cover; border-radius: none; }
 .blog-sidebar-panel .recent_article li .article-description h6 { margin: 0 0 10px; }
 .blog-sidebar-panel .recent_article li .article-description p { line-height: normal; }
 
