@@ -2305,11 +2305,33 @@
               "text": "",
               "reverse_column": true
             }
+          },
+          "73a0c38a-759d-4fe3-a961-7d8e7b6f3ec7": {
+            "type": "content",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/24.jpg",
+              "font_icon": "",
+              "title": "",
+              "text": "Procesos de vinificación que combinan tradición e innovación. Detalle, constancia y paciencia puesta en cada una de las barricas.\nUna manera de hacer única, que decanta en vinos con raíces. Singulares y auténticos. Con origen en el respeto al suelo, la calidad de las uvas, la rigurosidad en el proceso y la dedicación de nuestro equipo.",
+              "reverse_column": false
+            }
+          },
+          "4f93429e-b370-46f2-80c5-0602111381c3": {
+            "type": "content",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/24.jpg",
+              "font_icon": "",
+              "title": "Fruto de la Honestidad. Aislamiento geográfico. Agricultura sustentable.",
+              "text": "",
+              "reverse_column": true
+            }
           }
         },
         "block_order": [
           "149ea454-f282-4480-a953-70da8b65d17d",
-          "8c14f4c1-1ddf-48d1-9725-c8d101e27873"
+          "8c14f4c1-1ddf-48d1-9725-c8d101e27873",
+          "73a0c38a-759d-4fe3-a961-7d8e7b6f3ec7",
+          "4f93429e-b370-46f2-80c5-0602111381c3"
         ],
         "settings": {
           "enable": true,
