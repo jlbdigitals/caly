@@ -990,11 +990,22 @@
               "text": "Un suelo que recupera su raíz para dar origen a vinos de excepción, únicos, honestos. Reflejo de la elevada expresión del terroir cordillerano más alto del Valle de Cachapoal.",
               "reverse_column": true
             }
+          },
+          "2e7957df-7b24-4573-9980-150cc811d2dc": {
+            "type": "content",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/hojas.jpg",
+              "font_icon": "",
+              "title": "",
+              "text": "Fruto de la Honestidad. Aislamiento geográfico. Agricultura sustentable.\n<br>\nProcesos de vinificación que combinan tradición e innovación. Detalle, constancia y paciencia puesta en cada una de las barricas.\nUna manera de hacer única, que decanta en vinos con raíces. Singulares y auténticos. Con origen en el respeto al suelo, la calidad de las uvas, la rigurosidad en el proceso y la dedicación de nuestro equipo.",
+              "reverse_column": false
+            }
           }
         },
         "block_order": [
           "eca2e29f-66b5-4161-a1a9-c2d3c01af5a5",
-          "4bdd8e8a-ef7f-4ad9-9d8a-d5fd43d8383d"
+          "4bdd8e8a-ef7f-4ad9-9d8a-d5fd43d8383d",
+          "2e7957df-7b24-4573-9980-150cc811d2dc"
         ],
         "settings": {
           "enable": true,
