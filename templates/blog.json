@@ -52,8 +52,8 @@
       ],
       "settings": {
         "blog_results_per_page": 6,
-        "blog_show_author": false,
-        "blog_show_date": false,
+        "blog_show_author": true,
+        "blog_show_date": true,
         "blog_comments": false,
         "blog_show_tag": false,
         "blog_show_button": true,
