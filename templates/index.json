@@ -5,7 +5,7 @@
       "settings": {
         "full": true,
         "spacing_both_ends": false,
-        "padding": "50,50",
+        "padding": "0,0",
         "margin": "0,0",
         "show_background_image": false,
         "background_style": "fixed",
@@ -36,7 +36,7 @@
         "video_format": "video",
         "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/ae1939bfa51e4ca38e93db03e2534263.mp4",
         "iframe_url": "https:\/\/www.youtube.com\/embed\/JJMPKgyCoSY",
-        "video_height": "700",
+        "video_height": "900",
         "overlay_style": "with-overlay",
         "enable_box_shadow": false,
         "border_radius": "0",
