@@ -79,7 +79,7 @@
         "4f39b208-07be-415c-8cae-3f083f5dbc39": {
           "type": "Slider",
           "settings": {
-            "image": "shopify:\/\/shop_images\/3.png",
+            "image": "shopify:\/\/shop_images\/Banner_ofertas_prueba.jpg",
             "mobile_bg_clr": "",
             "text_alignment": "text-center",
             "content_position": "dt-sc-flex-center",
@@ -110,6 +110,7 @@
         },
         "1202544d-3610-42e3-b223-7efdbf855a1e": {
           "type": "Slider",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/2.png",
             "mobile_bg_clr": "",
@@ -142,6 +143,7 @@
         },
         "d67bfedd-740f-4dbd-ac3a-9bd51964d9fa": {
           "type": "Slider",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/1.png",
             "mobile_bg_clr": "",
