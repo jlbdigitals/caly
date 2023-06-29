@@ -91,17 +91,88 @@
     },
     "recently-viewed-products": {
       "type": "recently-viewed-products",
+      "disabled": true,
       "settings": {
-        "show_product_recently": true,
+        "show_product_recently": false,
         "title": "Vinos Vistos",
         "heading_position": "text-center",
         "items_to_show": "4"
+      }
+    },
+    "0544ed29-53ea-4d4c-83e5-9a5b869dfe6c": {
+      "type": "slideshow",
+      "blocks": {
+        "553ceee2-e127-41eb-8631-f25e007e79cb": {
+          "type": "Slider",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Banner_ofertas_prueba.jpg",
+            "mobile_bg_clr": "",
+            "text_alignment": "text-center",
+            "content_position": "dt-sc-flex-center",
+            "show_image": false,
+            "title_2": "",
+            "subheading_color": "",
+            "subheading_size": "",
+            "title": "",
+            "heading_color": "",
+            "heading_size": "",
+            "desc": "",
+            "desc_color": "",
+            "desc_size": "",
+            "button": "",
+            "link": "",
+            "btn_bg_color": "",
+            "btn_txt_color": "",
+            "btn_hoverbg_color": "",
+            "btn_hovertxt_color": "",
+            "button_2": "",
+            "link_2": "",
+            "btn_bg_color_2": "",
+            "btn_txt_color_2": "",
+            "btn_hoverbg_color_2": "",
+            "btn_hovertxt_color_2": "",
+            "slide_content_bg": ""
+          }
+        }
+      },
+      "block_order": [
+        "553ceee2-e127-41eb-8631-f25e007e79cb"
+      ],
+      "settings": {
+        "full": true,
+        "spacing_both_ends": false,
+        "social_media_enable": false,
+        "margin": "0,0",
+        "slider_height": 430,
+        "slider_height_lap": 430,
+        "slider_height_tab": 600,
+        "slider_height_mobile": 350,
+        "content_within_container": false,
+        "enable_box_shadow": false,
+        "border_radius": "0",
+        "content_border_radius": "0",
+        "autoplay": false,
+        "slideshow_speed": "5000",
+        "dots": false,
+        "carousel_pagination_alignment": "center_pagination",
+        "carousel_pagination_bottom_alignment": "inside_element",
+        "arrows": false,
+        "nav_arrow_position": "navigation-bottom-center",
+        "center_nav_arrow_alignment": "inside_container",
+        "navigation_button_color": "",
+        "navigation_button_icon_color": "",
+        "navigation_button_hover_color": "",
+        "navigation_button_hover_icon_color": "",
+        "navigation_dot_color": "",
+        "navigation_dot_active_color": "",
+        "custom_class_name": ""
       }
     }
   },
   "order": [
     "main",
     "product-recommendations",
-    "recently-viewed-products"
+    "recently-viewed-products",
+    "0544ed29-53ea-4d4c-83e5-9a5b869dfe6c"
   ]
 }
