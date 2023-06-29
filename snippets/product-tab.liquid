@@ -20,7 +20,7 @@
   </div>
   {% endif %} 
 </div>
-{% if section.settings.enable_enquiry %}
+{% comment %} {% if section.settings.enable_enquiry %}
 <div class="text-center dt-sc-enquiry-form">
   <h4>
     <svg height="439pt" viewBox="0 0 439.57422 439" width="439pt" xmlns="http://www.w3.org/2000/svg">
@@ -33,7 +33,7 @@
     </svg>
     <a id="trigger-enquiry">{{ 'enquiry.form.heading' | t }}</a></h4>
 </div>
-{% endif %}
+{% endif %} {% endcomment %}
 <script>
   function openTab(evt, TabName) {
     var i, tabcontent, tablinks;
