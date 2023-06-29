@@ -87,8 +87,8 @@
           "settings": {
             "block_heading": "Petit Inédito",
             "block_sub_heading": "<i>– Excelente balance<\/i>",
-            "block_description": "Petit Inedito, es la última etiqueta incorporada a nuestro portafolio, ofrece el carácter y potencia de nuestro ensamblaje premium, en balance con frescura y frutosidad, gracias a la crianza en barricas de roble francés y tanques de acero inoxidable.",
-            "block_button_text": "",
+            "block_description": "Petit Inedito, es la última etiqueta incorporada a nuestro portafolio, ofrece el carácter y potencia de nuestro ensamblaje premium, en balance con frescura y frutosidad, gracias a la crianza en barricas de roble francés y tanques de acero inoxidable. <br><br>AÑADA 2018   <br>ORIGEN Alto Cachapoal   <br>COMPOSICIÓN Cabernet Sauvignon: 70%, Syrah: 22%, Merlot: 8%,    <br>PRODUCCIÓN 2018 12.500 Botellas   <br>NOTA DE CATA Es un vino aromático y jugoso, con notas de cerezas y ciruelas frescas, cassis, violeta y toque especiado. Tiene taninos firmes y buen balance.",
+            "block_button_text": "Comprar",
             "block_button_link": "",
             "heading_position": "text-start",
             "image_1_border_radius": "",
@@ -98,10 +98,10 @@
             "block_heading_color": "#ffffff",
             "block_sub_heading_color": "#ffffff",
             "block_description_color": "#ffffff",
-            "block_button_bg_color": "",
-            "block_button_text_color": "",
-            "block_button_hover_bg_color": "",
-            "block_button_hover_text_color": ""
+            "block_button_bg_color": "#d8000c",
+            "block_button_text_color": "#ffffff",
+            "block_button_hover_bg_color": "#8f1025",
+            "block_button_hover_text_color": "#ffffff"
           }
         }
       },
