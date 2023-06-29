@@ -116,7 +116,7 @@
         "margin": "0,0",
         "show_background_image": true,
         "background_image": "shopify:\/\/shop_images\/Diseno_sin_titulo.jpg",
-        "background_style": "parallax",
+        "background_style": "fixed",
         "enable_overlay": false,
         "background_color": "#000000",
         "overlay_transparency": "1",
