@@ -155,7 +155,6 @@
             "block_button_text": "",
             "block_button_link": "",
             "heading_position": "text-start",
-            "block_img_1": "shopify:\/\/shop_images\/1_abee704f-3bfd-42e0-8b0f-c6b90a683930.jpg",
             "image_1_border_radius": "0",
             "image_2_border_radius": "",
             "reverse_column": false,
@@ -196,13 +195,17 @@
         "74ddecb8-69ba-4a5b-9812-13610427601a",
         "8d1b7f90-ee8c-42eb-a341-17ee96af5a6b"
       ],
+      "custom_css": [
+
+      ],
       "settings": {
         "full": false,
         "spacing_both_ends": false,
         "padding": "40,0",
-        "margin": "0,0",
-        "show_background_image": false,
-        "background_style": "default",
+        "margin": "0,50",
+        "show_background_image": true,
+        "background_image": "shopify:\/\/shop_images\/wall2.jpg",
+        "background_style": "parallax",
         "enable_overlay": false,
         "background_color": "",
         "overlay_transparency": "0.5",
