@@ -978,13 +978,24 @@
               "image": "shopify:\/\/shop_images\/2_13744339-d959-432e-b4b1-7921a743d507.jpg",
               "font_icon": "",
               "title": "Esta diferencia climática es uno de los elementos únicos de nuestro terroir que ayuda a crear ejemplares genuinos e irrepetibles.",
-              "text": "Situado en una ubicación privilegiada: en el cajón del Valle de Alto Cachapoal. A casi 1000 Mts. sobre el nivel del mar, las 43 hectáreas plantadas de Calyptra se convierten en el viñedo más oriental de Chile.",
+              "text": "<br><br>Situado en una ubicación privilegiada: en el cajón del Valle de Alto Cachapoal. A casi 1000 Mts. sobre el nivel del mar, las 43 hectáreas plantadas de Calyptra se convierten en el viñedo más oriental de Chile.<br><br>\nEl campo presenta una exposición sur, con pendientes suaves colindantes a la rivera norte del río Cachapoal. Otro límite natural que aporta condiciones de aislamiento geográfico al terruño.\n\nEstas barreras naturales son vitales para la ausencia de plagas o enfermedades agresivas y potencian un territorio generoso para nuestros grandes vinos.",
               "reverse_column": false
+            }
+          },
+          "ef6ef3b4-5db6-4d4b-9275-a3225d0f7334": {
+            "type": "content",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/1_abee704f-3bfd-42e0-8b0f-c6b90a683930.jpg",
+              "font_icon": "",
+              "title": "UN TRATO ENTRE EL CIELO, EL SUELO Y EL HOMBRE",
+              "text": "<br><br>Chardonnay, Sauvignon Blanc, Pinot Noir, Cabernet Sauvignon, Merlot y Syrah crecen en 7 terrazas aluviales calcáreas y coluviales.<br><br>\nEstos suelos originados por los macizos andinos y por material fluvial-glacial que desciende desde la cordillera generaron tierras con abundante cantidad de roca y baja fertilidad.<br><br>\nPara optimizar su rendimiento, utilizamos un sistema agrícola sustentable y respetuoso de estas condiciones únicas, usando productos naturales, interviniendo de forma armónica un viñedo orgánico, donde el trabajo en equipo entre hombre y naturaleza, lleva a la denominación ¨vinos de altura¨ a un  nivel superior.",
+              "reverse_column": true
             }
           }
         },
         "block_order": [
-          "4bdd8e8a-ef7f-4ad9-9d8a-d5fd43d8383d"
+          "4bdd8e8a-ef7f-4ad9-9d8a-d5fd43d8383d",
+          "ef6ef3b4-5db6-4d4b-9275-a3225d0f7334"
         ],
         "settings": {
           "enable": true,
@@ -997,7 +1008,7 @@
           "enable_overlay": true,
           "background_color": "#f5f5f5",
           "overlay_transparency": "0.5",
-          "section_heading": "Terroir",
+          "section_heading": "TERROIR",
           "section_sub_heading": "",
           "section_description": "Bodegas y viñedos de Calyptra se encuentran en la zona precordillerana de Coya, en el Valle de Alto Cachapoal. A 27 km. al este de Rancagua. «Un clima mediterráneo moderado provee fuertes lluvias y temperaturas bajas con ocasionales nevazones en invierno, que se contraponen a veranos de días cálidos con tardes de vientos cordilleranos que encuentran su escape por la cuenca del Río Cachapoal.",
           "section_button_text": "",
