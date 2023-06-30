@@ -201,8 +201,8 @@
       "settings": {
         "full": false,
         "spacing_both_ends": false,
-        "padding": "140,0",
-        "margin": "0,0",
+        "padding": "0,0",
+        "margin": "40,40",
         "show_background_image": true,
         "background_image": "shopify:\/\/shop_images\/wall2.jpg",
         "background_style": "fixed",
