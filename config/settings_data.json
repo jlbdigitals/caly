@@ -981,43 +981,10 @@
               "text": "Situado en una ubicación privilegiada: en el cajón del Valle de Alto Cachapoal. A casi 1000 Mts. sobre el nivel del mar, las 43 hectáreas plantadas de Calyptra se convierten en el viñedo más oriental de Chile.",
               "reverse_column": true
             }
-          },
-          "7b82e326-350e-447d-ad13-17caac5eddd4": {
-            "type": "content",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/G_L3232.jpg",
-              "font_icon": "",
-              "title": "UN TRATO ENTRE EL CIELO, EL SUELO Y EL HOMBRE",
-              "text": "",
-              "reverse_column": true
-            }
-          },
-          "4385ba4f-d09c-46f3-97da-46a6c68a8df9": {
-            "type": "content",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/G_L3232.jpg",
-              "font_icon": "",
-              "title": "",
-              "text": "Chardonnay, Sauvignon Blanc, Pinot Noir, Cabernet Sauvignon, Merlot y Syrah crecen en 7 terrazas aluviales calcáreas y coluviales.\nEstos suelos originados por los macizos andinos y por material fluvial-glacial que desciende desde la cordillera generaron tierras con abundante cantidad de roca y baja fertilidad.",
-              "reverse_column": false
-            }
-          },
-          "77c53fa4-2f3d-4f82-a715-3b50f1cfe6ce": {
-            "type": "content",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/G_L3232.jpg",
-              "font_icon": "",
-              "title": "",
-              "text": "Para optimizar su rendimiento, utilizamos un sistema agrícola sustentable y respetuoso de estas condiciones únicas, usando productos naturales, interviniendo de forma armónica un viñedo orgánico, donde el trabajo en equipo entre hombre y naturaleza, lleva a la denominación ¨vinos de altura¨ a un  nivel superior.",
-              "reverse_column": true
-            }
           }
         },
         "block_order": [
-          "4bdd8e8a-ef7f-4ad9-9d8a-d5fd43d8383d",
-          "7b82e326-350e-447d-ad13-17caac5eddd4",
-          "4385ba4f-d09c-46f3-97da-46a6c68a8df9",
-          "77c53fa4-2f3d-4f82-a715-3b50f1cfe6ce"
+          "4bdd8e8a-ef7f-4ad9-9d8a-d5fd43d8383d"
         ],
         "settings": {
           "enable": true,
