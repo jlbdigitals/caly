@@ -9,7 +9,7 @@
     "b7306bea-85ff-4102-89c1-c994510fefdf": {
       "type": "home-video-banner",
       "settings": {
-        "full": true,
+        "full": false,
         "spacing_both_ends": false,
         "padding": "0,0",
         "margin": "0,0",
