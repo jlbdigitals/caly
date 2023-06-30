@@ -67,6 +67,7 @@
     </script>
   </head>
   <body id="{{ page_title | handle }}" class="{% if settings.home_sidebar   %}{% endif %} {% if settings.enable_boxed %}body-boxed {% endif %}{% if customer %}customer-logged-in {% endif %}template-{{ template | replace: '.', ' ' | truncatewords: 1, '' | handle }} {% unless tempate contains 'index' %} others {% endunless %}" style="{% if settings.boxed_bg_image != blank %}background-image:url('{{ settings.boxed_bg_image | img_url: 'master' }}');background-attachment:fixed;background-repeat:no-repeat;background-position:center center;{% endif %}">
+{% include 'agechecker' %}
     {% if settings.preloader_enable %}
     <div class="se-pre-con"></div>
     {% endif %}
