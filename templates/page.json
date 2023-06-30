@@ -8,7 +8,6 @@
     },
     "10d66f2d-321e-43df-a78b-b378698853a4": {
       "type": "home-custom-section",
-      "disabled": true,
       "blocks": {
         "template--19365956124979__10d66f2d-321e-43df-a78b-b378698853a4-16867775467a0d01cd-0": {
           "type": "content",
@@ -65,8 +64,7 @@
         "spacing_both_ends": false,
         "padding": "0,0",
         "margin": "0,0",
-        "show_background_image": true,
-        "background_image": "shopify:\/\/shop_images\/24.jpg",
+        "show_background_image": false,
         "background_style": "default",
         "enable_overlay": false,
         "background_color": "",
