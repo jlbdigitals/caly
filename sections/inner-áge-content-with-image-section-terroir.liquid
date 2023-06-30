@@ -21,8 +21,6 @@
         {% if section.blocks.size > 0 %}    
         {% for block in section.blocks %}    
         <div class="dt-sc-image-section-wrapper {% if block.settings.reverse_column %}dt-sc-reverse-columns{% endif %}">
-
-            PLPLPLPLPLPL
           {% if block.settings.image != blank %}
           <div class="dt-sc-image">          
             {%- assign img_url = block.settings.image | img_url: '1x1' | replace: '_1x1.', '_{width}x.' -%}
