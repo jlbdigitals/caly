@@ -975,21 +975,11 @@
           "4bdd8e8a-ef7f-4ad9-9d8a-d5fd43d8383d": {
             "type": "content",
             "settings": {
-              "image": "shopify:\/\/shop_images\/G_L3232.jpg",
+              "image": "shopify:\/\/shop_images\/2_13744339-d959-432e-b4b1-7921a743d507.jpg",
               "font_icon": "",
               "title": "Esta diferencia climática es uno de los elementos únicos de nuestro terroir que ayuda a crear ejemplares genuinos e irrepetibles.",
-              "text": "",
+              "text": "Situado en una ubicación privilegiada: en el cajón del Valle de Alto Cachapoal. A casi 1000 Mts. sobre el nivel del mar, las 43 hectáreas plantadas de Calyptra se convierten en el viñedo más oriental de Chile.",
               "reverse_column": true
-            }
-          },
-          "2e7957df-7b24-4573-9980-150cc811d2dc": {
-            "type": "content",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/hojas.jpg",
-              "font_icon": "",
-              "title": "",
-              "text": "Situado en una ubicación privilegiada: en el cajón del Valle de Alto Cachapoal. A casi 1000 Mts. sobre el nivel del mar, las 43 hectáreas plantadas de Calyptra se convierten en el viñedo más oriental de Chile.\n\nEl campo presenta una exposición sur, con pendientes suaves colindantes a la rivera norte del río Cachapoal. Otro límite natural que aporta condiciones de aislamiento geográfico al terruño.\n\nEstas barreras naturales son vitales para la ausencia de plagas o enfermedades agresivas y potencian un territorio generoso para nuestros grandes vinos.",
-              "reverse_column": false
             }
           },
           "7b82e326-350e-447d-ad13-17caac5eddd4": {
@@ -1025,7 +1015,6 @@
         },
         "block_order": [
           "4bdd8e8a-ef7f-4ad9-9d8a-d5fd43d8383d",
-          "2e7957df-7b24-4573-9980-150cc811d2dc",
           "7b82e326-350e-447d-ad13-17caac5eddd4",
           "4385ba4f-d09c-46f3-97da-46a6c68a8df9",
           "77c53fa4-2f3d-4f82-a715-3b50f1cfe6ce"
