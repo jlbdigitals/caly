@@ -979,7 +979,7 @@
               "font_icon": "",
               "title": "Esta diferencia climática es uno de los elementos únicos de nuestro terroir que ayuda a crear ejemplares genuinos e irrepetibles.",
               "text": "Situado en una ubicación privilegiada: en el cajón del Valle de Alto Cachapoal. A casi 1000 Mts. sobre el nivel del mar, las 43 hectáreas plantadas de Calyptra se convierten en el viñedo más oriental de Chile.",
-              "reverse_column": true
+              "reverse_column": false
             }
           }
         },
@@ -990,7 +990,7 @@
           "enable": true,
           "full": false,
           "spacing_both_ends": false,
-          "padding": "100,100",
+          "padding": "50,50",
           "margin": "0,0",
           "show_background_image": false,
           "background_style": "default",
