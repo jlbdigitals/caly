@@ -1,5 +1,6 @@
 {
   "current": {
+    "favicon": "shopify:\/\/shop_images\/favicon.jpg",
     "preloader_enable": false,
     "preloader": "shopify:\/\/shop_images\/prelaoder.gif",
     "header_font": "alegreya_n4",
