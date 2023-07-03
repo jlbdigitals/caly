@@ -471,7 +471,7 @@
         "settings": {
           "display_recent_purchase": true,
           "placement": "right",
-          "text": "Comprados recientemente"
+          "text": "Pedido"
         }
       },
       "home-featured-product": {
