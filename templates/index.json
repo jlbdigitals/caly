@@ -86,10 +86,10 @@
           "type": "content",
           "settings": {
             "block_heading": "<br><br>ZAHIR",
-            "block_sub_heading": "<i>- Calyptra en su máxima expresión.<\/i>",
-            "block_description": "Nuestros vinos Ícono y Premium representan lo mejor de la producción limitada de Calyptra. Elaborados a partir de uvas seleccionadas con rendimiento bajo y hechos a base del mejor Cabernet Sauvignon de nuestros viñedos orgánicos, las líneas Icono y Premium son representantes de nuestro excelente terroir. Vinos de carácter, únicos y con gran potencial de guarda. <br><br><br><br>AÑADA 2012   <br>ORIGEN Alto Cachapoal   <br>COMPOSICIÓN Cabernet Sauvignon: 70%, Syrah: 22%, Merlot: 8%,    <br>PRODUCCIÓN 2018 12.500 Botellas   <br>NOTA DE CATA Es un vino aromático y jugoso, con notas de cerezas y ciruelas frescas, cassis, violeta y toque especiado. Tiene taninos firmes y buen balance.<br><br><br>",
+            "block_sub_heading": "<i>- Calyptra en su máxima expresión.<\/i><br>",
+            "block_description": "<br>Nuestros vinos Ícono y Premium representan lo mejor de la producción limitada de Calyptra. Elaborados a partir de uvas seleccionadas con rendimiento bajo y hechos a base del mejor Cabernet Sauvignon de nuestros viñedos orgánicos, las líneas Icono y Premium son representantes de nuestro excelente terroir. Vinos de carácter, únicos y con gran potencial de guarda. <br><br><br><br>AÑADA 2012   <br>ORIGEN Alto Cachapoal   <br>COMPOSICIÓN Cabernet Sauvignon 100%,    <br>PRODUCCIÓN 2012 2.200 Botellas   <br>NOTA DE CATA Es excelente ejemplo de expresión de nuestro terroir de Alto Cachapoal, elaborado a partir de nuestros mejores cuarteles de Cabernet Sauvignon, más antiguos y de menor producción.<br><br><br>",
             "block_button_text": "COMPRAR",
-            "block_button_link": "https:\/\/calyptra-dev.myshopify.com\/collections\/petit-inedido\/products\/petit-inedito",
+            "block_button_link": "https:\/\/calyptra-dev.myshopify.com\/collections\/icono-premium\/products\/zahir",
             "heading_position": "text-start",
             "image_1_border_radius": "",
             "image_2_border_radius": "",
