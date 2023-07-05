@@ -2,10 +2,25 @@
   <div class="dt-sc-overlay-section dt-sc-column">
     {{ page.content }}
     {% section 'inner-page-content-with-image-section' %}
+
+    <img class="lazyload"
+      src="{{ 'loading.gif' | asset_url }}"
+      data-src="{{ img_url }}"
+      data-widths="[180, 360, 470, 600, 770, 970, 1060, 1280, 1512, 1728, 2048]"
+      data-aspectratio="{{ block.settings.image.aspect_ratio }}"
+      data-sizes="auto"            
+      class="thumbnail"
+      alt="{{ block.settings.block_image.alt | escape }}">
+
   </div>
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/simple-parallax-js@5.5.1/dist/simpleParallax.min.js"></script>
+
+<script>
+  var image = document.getElementsByClassName('thumbnail');
+  new simpleParallax(image);
+</script>
 
 
 {% comment %} 
