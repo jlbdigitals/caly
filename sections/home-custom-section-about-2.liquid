@@ -15,18 +15,7 @@
 {% assign lazyScript = "lazyload" %}
 {% endif %}
 {% endif %}
-<div class="dt-sc-section-wrapper {{lazyScript}} {{section_overlay}} {% if section.settings.background_style == 'parallax' %} parallax-initiated{% endif %}" style="{% render 'bg-color-image-padding' %}" data-style="parallax" {{background_style}} {% include 'bg_image' %}>  
-<script src="https://cdn.jsdelivr.net/npm/simple-parallax-js@5.5.1/dist/simpleParallax.min.js"></script>
-
-                <img src="https://www.adslzone.net/app/uploads-adslzone.net/2019/04/borrar-fondo-imagen-1200x675.jpg" alt="Girl in a jacket" width="500" height="600" class="thumbnail">
-                
-                <script>
-                  var image = document.getElementsByClassName('thumbnail');
-                  new simpleParallax(image, {
-                    overflow: true,
-                    scale: 2,
-                  });
-                </script>  
+<div class="dt-sc-section-wrapper {{lazyScript}} {{section_overlay}} {% if section.settings.background_style == 'parallax' %} parallax-initiated{% endif %}" style="{% render 'bg-color-image-padding' %}" data-style="parallax" {{background_style}} {% include 'bg_image' %}>                    
 <div class="{% render 'container-settings' %}"> 
     <div class="row {{ section.settings.custom_class_name }}"> 
       {% render 'section-heading', class: section.id %} 
@@ -56,7 +45,15 @@
 
           {% if block.settings.block_img_1 or block.settings.block_img_2 != blank %}
             <div class="dt-sc-image-gallery">
-
+                <script src="https://cdn.jsdelivr.net/npm/simple-parallax-js@5.5.1/dist/simpleParallax.min.js"></script>
+                <img src="https://www.adslzone.net/app/uploads-adslzone.net/2019/04/borrar-fondo-imagen-1200x675.jpg" alt="Girl in a jacket" width="500" height="600" class="thumbnail">                
+                <script>
+                  var image = document.getElementsByClassName('thumbnail');
+                  new simpleParallax(image, {
+                    overflow: true,
+                    scale: 2,
+                  });
+                </script>
                 
 
 
