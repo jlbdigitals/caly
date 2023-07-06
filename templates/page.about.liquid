@@ -21,7 +21,9 @@
   
   <script>
     var image = document.getElementsByClassName('thumbnail');
-    new simpleParallax(image);
+    new simpleParallax(image, {
+	  overflow: true
+    });
   </script>
 
 
