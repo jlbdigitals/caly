@@ -20,6 +20,17 @@
     <div class="row {{ section.settings.custom_class_name }}"> 
       {% render 'section-heading', class: section.id %} 
       <div class="home-custom-section-wrapper dt-sc-column">
+        <script src="https://cdn.jsdelivr.net/npm/simple-parallax-js@5.5.1/dist/simpleParallax.min.js"></script>
+
+                <img src="https://www.adslzone.net/app/uploads-adslzone.net/2019/04/borrar-fondo-imagen-1200x675.jpg" alt="Girl in a jacket" width="500" height="600" class="thumbnail">
+                
+                <script>
+                  var image = document.getElementsByClassName('thumbnail');
+                  new simpleParallax(image, {
+                    overflow: true,
+                  scale: 2
+                  });
+                </script>
         {% for block in section.blocks %}
         <div class="dt-sc-custom-block {{block.type}}-{{block.id}} {% if block.settings.reverse_column %}dt-sc-reverse-columns{% endif %}">
           {% if block.settings.block_heading != blank or block.settings.block_sub_heading != blank or block.settings.block_description != blank or block.settings.block_button_text or block.settings.block_button_link != blank %}
