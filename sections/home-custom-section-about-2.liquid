@@ -70,18 +70,7 @@
               </noscript>
               {% endif %}
 
-              {% if block.settings.block_img_2 != blank   %}
-              <img class="dt-sc-block-image lazyload"
-                   src="{{ 'loading.gif' | asset_url }}"
-                   data-src="{{ block.settings.block_img_2 | img_url: 'master' }}"
-                   data-widths="[180, 360, 470, 600, 770, 970, 1060, 1280, 1512, 1728, 2048]"
-                   data-aspectratio="{{ block.settings.block_img_2.aspect_ratio }}"
-                   data-sizes="auto"            
-                   data-alt="{{ block.settings.title }}">
-              <noscript>
-                {{ block.settings.block_img_2 | img_url: '480x480', scale: 2 | img_tag: block.settings.block_img_2.alt, 'dt-sc-noscript-image' }}
-              </noscript>
-              {% endif %}
+              
             </div>
             {% endif %}
 
