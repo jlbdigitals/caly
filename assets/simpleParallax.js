@@ -1,8 +1,8 @@
-import isSupportedBrowser from './helpers/isSupportedBrowser';
-import { viewport } from './helpers/viewport';
-import convertToArray from './helpers/convertToArray';
+import isSupportedBrowser from 'isSupportedBrowser';
+import { viewport } from 'viewport';
+import convertToArray from 'convertToArray';
 
-import ParallaxInstance from './instances/parallax';
+import ParallaxInstance from 'parallax';
 
 let isInit = false;
 let instances = [];
