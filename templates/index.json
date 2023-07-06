@@ -56,6 +56,88 @@
         "custom_class_name": ""
       }
     },
+    "be7f10bf-fe40-45dd-83c4-98d915750729": {
+      "type": "home-custom-section",
+      "blocks": {
+        "template--19365956550963__be7f10bf-fe40-45dd-83c4-98d915750729-1688652626b895e0c2-0": {
+          "type": "content",
+          "settings": {
+            "block_heading": "",
+            "block_sub_heading": "",
+            "block_description": "",
+            "block_button_text": "",
+            "block_button_link": "",
+            "heading_position": "text-start",
+            "image_1_border_radius": "",
+            "image_2_border_radius": "",
+            "reverse_column": false,
+            "fullwidth_images": false,
+            "block_heading_color": "",
+            "block_sub_heading_color": "",
+            "block_description_color": "",
+            "block_button_bg_color": "",
+            "block_button_text_color": "",
+            "block_button_hover_bg_color": "",
+            "block_button_hover_text_color": ""
+          }
+        },
+        "template--19365956550963__be7f10bf-fe40-45dd-83c4-98d915750729-1688652626b895e0c2-1": {
+          "type": "content",
+          "disabled": true,
+          "settings": {
+            "block_heading": "Main Heading",
+            "block_sub_heading": "Sub Heading",
+            "block_description": "Use this text to share the information which you like!.",
+            "block_button_text": "",
+            "block_button_link": "",
+            "heading_position": "text-start",
+            "image_1_border_radius": "",
+            "image_2_border_radius": "",
+            "reverse_column": false,
+            "fullwidth_images": false,
+            "block_heading_color": "",
+            "block_sub_heading_color": "",
+            "block_description_color": "",
+            "block_button_bg_color": "",
+            "block_button_text_color": "",
+            "block_button_hover_bg_color": "",
+            "block_button_hover_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19365956550963__be7f10bf-fe40-45dd-83c4-98d915750729-1688652626b895e0c2-0",
+        "template--19365956550963__be7f10bf-fe40-45dd-83c4-98d915750729-1688652626b895e0c2-1"
+      ],
+      "settings": {
+        "full": false,
+        "spacing_both_ends": false,
+        "padding": "80,0",
+        "margin": "0,0",
+        "show_background_image": false,
+        "background_style": "default",
+        "enable_overlay": true,
+        "background_color": "#e9e9e9",
+        "overlay_transparency": "1",
+        "section_heading": "",
+        "section_sub_heading": "En Calyptra producimos vinos singulares y auténticos,<br>ocupándonos de demostrar la gran calidad de nuestras uvas.",
+        "section_description": "En cada botella de nuestro vino se encuentra la expresión máxima de varietal.<br>Se percibe el detalle, la constancia y paciencia puesta en cada barricase refleja el suelo, el origen, dedicación y pasión de todo el equipo de nuestra viña.",
+        "section_button_text": "",
+        "section_button_link": "",
+        "section_heading_color": "",
+        "section_sub_heading_color": "",
+        "section_description_color": "",
+        "section_button_bg_color": "",
+        "section_button_text_color": "",
+        "section_button_hover_bg_color": "",
+        "section_button_hover_text_color": "",
+        "heading_position": "text-center",
+        "column_gap": "30",
+        "border_radius": "",
+        "content_width": "50\/50",
+        "lap_content_width": "40\/60"
+      }
+    },
     "9a18635d-a8bd-43a3-806f-d348214f6f9b": {
       "type": "home-custom-section",
       "blocks": {
@@ -119,8 +201,8 @@
         "show_background_image": false,
         "background_style": "default",
         "enable_overlay": true,
-        "background_color": "#4F8A10",
-        "overlay_transparency": "1",
+        "background_color": "#4f8a10",
+        "overlay_transparency": "0.5",
         "section_heading": "",
         "section_sub_heading": "En Calyptra producimos vinos singulares y auténticos, <br>ocupandonos de demostrar la gran calidad de nuestras uvas.",
         "section_description": "<br><be>En cada botella de nuestro vino se encuentra la expresión máxima de varietal. <br>Se percibe el detalle, la constancia y paciencia puesta en cada barrica donde <br>se refleja el suelo, el origen y dedicación y pasión de todo el equipo de nuestra viña.<br><br><\/be>",
@@ -669,6 +751,7 @@
   },
   "order": [
     "ea4b52f7-66a8-482d-94c7-bdfbc409b826",
+    "be7f10bf-fe40-45dd-83c4-98d915750729",
     "9a18635d-a8bd-43a3-806f-d348214f6f9b",
     "9876b918-2ee5-422a-bb47-9e4f5e2357f3",
     "16305701682495e701",
