@@ -139,6 +139,89 @@
         "lap_content_width": "40\/60"
       }
     },
+    "9876b918-2ee5-422a-bb47-9e4f5e2357f3": {
+      "type": "home-custom-section",
+      "blocks": {
+        "887b2c34-1679-4d33-928b-d0e0e451a223": {
+          "type": "content",
+          "settings": {
+            "block_heading": "",
+            "block_sub_heading": "",
+            "block_description": "",
+            "block_button_text": "",
+            "block_button_link": "",
+            "heading_position": "text-start",
+            "block_img_1": "shopify:\/\/shop_images\/Zahir-2012-1.png",
+            "image_1_border_radius": "",
+            "image_2_border_radius": "",
+            "reverse_column": false,
+            "fullwidth_images": true,
+            "block_heading_color": "",
+            "block_sub_heading_color": "",
+            "block_description_color": "",
+            "block_button_bg_color": "",
+            "block_button_text_color": "",
+            "block_button_hover_bg_color": "",
+            "block_button_hover_text_color": ""
+          }
+        },
+        "12f53c06-d4d6-4e1b-a9f7-cf069da28006": {
+          "type": "content",
+          "settings": {
+            "block_heading": "<br><br>ZAHIR",
+            "block_sub_heading": "<i>- Calyptra en su máxima expresión.<\/i><br>",
+            "block_description": "<br>Nuestros vinos Ícono y Premium representan lo mejor de la producción limitada de Calyptra. Elaborados a partir de uvas seleccionadas con rendimiento bajo y hechos a base del mejor Cabernet Sauvignon de nuestros viñedos orgánicos, las líneas Icono y Premium son representantes de nuestro excelente terroir. Vinos de carácter, únicos y con gran potencial de guarda. <br><br><br><br>AÑADA 2012   <br>ORIGEN Alto Cachapoal   <br>COMPOSICIÓN Cabernet Sauvignon 100%,    <br>PRODUCCIÓN 2012 2.200 Botellas   <br>NOTA DE CATA Es excelente ejemplo de expresión de nuestro terroir de Alto Cachapoal, elaborado a partir de nuestros mejores cuarteles de Cabernet Sauvignon, más antiguos y de menor producción.<br><br><br>",
+            "block_button_text": "COMPRAR",
+            "block_button_link": "https:\/\/calyptra-dev.myshopify.com\/collections\/icono-premium\/products\/zahir",
+            "heading_position": "text-start",
+            "image_1_border_radius": "",
+            "image_2_border_radius": "",
+            "reverse_column": false,
+            "fullwidth_images": false,
+            "block_heading_color": "#141313",
+            "block_sub_heading_color": "#141313",
+            "block_description_color": "#646464",
+            "block_button_bg_color": "#d8000c",
+            "block_button_text_color": "#ffffff",
+            "block_button_hover_bg_color": "#8f1025",
+            "block_button_hover_text_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "887b2c34-1679-4d33-928b-d0e0e451a223",
+        "12f53c06-d4d6-4e1b-a9f7-cf069da28006"
+      ],
+      "settings": {
+        "full": false,
+        "spacing_both_ends": false,
+        "padding": "80,0",
+        "margin": "0,0",
+        "show_background_image": true,
+        "background_image": "shopify:\/\/shop_images\/wall-3.jpg",
+        "background_style": "parallax",
+        "enable_overlay": false,
+        "background_color": "#f3f3f3",
+        "overlay_transparency": "1",
+        "section_heading": "",
+        "section_sub_heading": "En Calyptra producimos vinos singulares y auténticos, <br>ocupandonos de demostrar la gran calidad de nuestras uvas.",
+        "section_description": "<br><be>En cada botella de nuestro vino se encuentra la expresión máxima de varietal. <br>Se percibe el detalle, la constancia y paciencia puesta en cada barrica donde <br>se refleja el suelo, el origen y dedicación y pasión de todo el equipo de nuestra viña.<br><br><\/be>",
+        "section_button_text": "",
+        "section_button_link": "",
+        "section_heading_color": "",
+        "section_sub_heading_color": "#141313",
+        "section_description_color": "#646464",
+        "section_button_bg_color": "",
+        "section_button_text_color": "",
+        "section_button_hover_bg_color": "",
+        "section_button_hover_text_color": "",
+        "heading_position": "text-center",
+        "column_gap": "30",
+        "border_radius": "",
+        "content_width": "50\/50",
+        "lap_content_width": "40\/60"
+      }
+    },
     "16305701682495e701": {
       "type": "home-product-carousel",
       "blocks": {
@@ -587,6 +670,7 @@
   "order": [
     "ea4b52f7-66a8-482d-94c7-bdfbc409b826",
     "9a18635d-a8bd-43a3-806f-d348214f6f9b",
+    "9876b918-2ee5-422a-bb47-9e4f5e2357f3",
     "16305701682495e701",
     "743a593f-f9f6-423c-b968-6ba222e59b28",
     "de052d95-619f-433f-85aa-0e00a488ff7c",
