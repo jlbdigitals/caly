@@ -2513,7 +2513,7 @@
         "settings": {
           "full": true,
           "spacing_both_ends": true,
-          "padding": "100,50",
+          "padding": "0,0",
           "margin": "30,30",
           "show_background_image": false,
           "background_style": "default",
