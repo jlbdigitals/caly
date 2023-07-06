@@ -47,15 +47,6 @@
           {% if block.settings.block_img_1 or block.settings.block_img_2 != blank %}
             <div class="dt-sc-image-gallery">
               {% if block.settings.block_img_1 != blank   %}
-                <script src="https://cdn.jsdelivr.net/npm/simple-parallax-js@5.5.1/dist/simpleParallax.min.js"></script>
-                <img src="https://cdn.shopify.com/s/files/1/0774/9140/5107/files/25.jpg?v=1686066478" class="thumbnail">                
-                <script>
-                  var image = document.getElementsByClassName('thumbnail');
-                  new simpleParallax(image, {
-                    overflow: true,
-                    scale: 1.5,
-                  });
-                </script>
               <img class="dt-sc-block-image lazyload"
                    src="{{ 'loading.gif' | asset_url }}"
                    data-src="{{ block.settings.block_img_1 | img_url: 'master' }}"
@@ -82,6 +73,17 @@
               {% endif %}
             </div>
             {% endif %}
+
+            <script src="https://cdn.jsdelivr.net/npm/simple-parallax-js@5.5.1/dist/simpleParallax.min.js"></script>
+                <img src="https://cdn.shopify.com/s/files/1/0774/9140/5107/files/25.jpg?v=1686066478" class="thumbnail">                
+                <script>
+                  var image = document.getElementsByClassName('thumbnail');
+                  new simpleParallax(image, {
+                    overflow: true,
+                    scale: 1.5,
+                  });
+                </script>
+
         </div>
         {% endfor %}
       </div>
