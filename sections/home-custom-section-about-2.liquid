@@ -27,7 +27,8 @@
                 <script>
                   var image = document.getElementsByClassName('thumbnail');
                   new simpleParallax(image, {
-                    overflow: true,
+                    overflow: false,
+                    scale: 4,
                   });
                 </script>
         {% for block in section.blocks %}
