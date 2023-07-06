@@ -2327,9 +2327,31 @@
           "f021c4cc-d89b-4df8-a45d-1d212742a2dd": {
             "type": "content",
             "settings": {
-              "block_heading": "Main Heading",
-              "block_sub_heading": "Sub Heading",
-              "block_description": "Use this text to share the information which you like!.",
+              "block_heading": "Origen",
+              "block_sub_heading": "",
+              "block_description": "",
+              "block_button_text": "",
+              "block_button_link": "",
+              "heading_position": "text-start",
+              "image_1_border_radius": "",
+              "image_2_border_radius": "",
+              "reverse_column": false,
+              "fullwidth_images": false,
+              "block_heading_color": "",
+              "block_sub_heading_color": "",
+              "block_description_color": "",
+              "block_button_bg_color": "",
+              "block_button_text_color": "",
+              "block_button_hover_bg_color": "",
+              "block_button_hover_text_color": ""
+            }
+          },
+          "5f3c0700-5397-4fdc-a399-76c860b3dd2f": {
+            "type": "content",
+            "settings": {
+              "block_heading": "",
+              "block_sub_heading": "",
+              "block_description": "En 1989, el Dr. José Zarhi, destacado cirujano plástico chileno, adquirió el fundo de 60 hectáreas “Santa Cruz de Coya”. Al enterarse que hacia 1920 el campo había sido generoso en plantaciones de vid, decide iniciar una aventura vitivinícola, reemplazando frutales por parras de Chardonnay. Luego de un estudio de suelos y de condiciones climáticas, las características del campo resultaron ser óptimas para la elaboración de vinos de alta gama.",
               "block_button_text": "",
               "block_button_link": "",
               "heading_position": "text-start",
@@ -2348,21 +2370,22 @@
           }
         },
         "block_order": [
-          "f021c4cc-d89b-4df8-a45d-1d212742a2dd"
+          "f021c4cc-d89b-4df8-a45d-1d212742a2dd",
+          "5f3c0700-5397-4fdc-a399-76c860b3dd2f"
         ],
         "settings": {
           "full": false,
           "spacing_both_ends": false,
-          "padding": "0,0",
+          "padding": "50,0",
           "margin": "0,0",
           "show_background_image": false,
           "background_style": "default",
           "enable_overlay": false,
           "background_color": "",
           "overlay_transparency": "0.5",
-          "section_heading": "Custom section",
-          "section_sub_heading": "Sub Heading",
-          "section_description": "Use this text to share the information which you like!.",
+          "section_heading": "",
+          "section_sub_heading": "",
+          "section_description": "",
           "section_button_text": "",
           "section_button_link": "",
           "section_heading_color": "",
@@ -2375,7 +2398,7 @@
           "heading_position": "text-center",
           "column_gap": "30",
           "border_radius": "",
-          "content_width": "50\/50",
+          "content_width": "30\/70",
           "lap_content_width": "40\/60"
         }
       }
