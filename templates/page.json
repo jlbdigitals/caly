@@ -173,7 +173,7 @@
           "settings": {
             "block_heading": "",
             "block_sub_heading": "ASÍ NACE CALYPTRA",
-            "block_description": "<br>Reflejo de la elevada expresión del terroir cordillerano más alto del Valle de Cachapoal, condiciones climáticas, las características del campo resultaron ser óptimas para la elaboración de vinos de alta gama. Fruto de la Honestidad. Aislamiento geográfico. Agricultura sustentable.Procesos de vinificación que combinan tradición e innovación. Detalle, constancia y paciencia puesta en cada una de las barricas.Una manera de hacer única, que decanta en vinos con raíces. Singulares y auténticos. Con origen en el respeto al suelo, la calidad de las uvas, la rigurosidad en el proceso y la dedicación de nuestro equipo.",
+            "block_description": "Un suelo que recupera su raíz para dar origen a vinos de excepción, únicos, honestos. Reflejo de la elevada expresión del terroir cordillerano más alto del Valle de Cachapoal.",
             "block_button_text": "",
             "block_button_link": "",
             "heading_position": "text-start",
@@ -202,7 +202,7 @@
         "full": false,
         "spacing_both_ends": false,
         "padding": "100,100",
-        "margin": "0,0",
+        "margin": "50,50",
         "show_background_image": false,
         "background_style": "fixed",
         "enable_overlay": true,
