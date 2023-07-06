@@ -256,8 +256,8 @@
           "type": "content",
           "settings": {
             "block_heading": "",
-            "block_sub_heading": "UN SUELO QUE RECUPERA SU RAÍZ PARA DAR ORIGEN A VINOS DE EXCEPCIÓN, ÚNICOS, HONESTOS.",
-            "block_description": "Reflejo de la elevada expresión del terroir cordillerano más alto del Valle de Cachapoal, condiciones climáticas, las características del campo resultaron ser óptimas para la elaboración de vinos de alta gama. Fruto de la Honestidad. Aislamiento geográfico. Agricultura sustentable.Procesos de vinificación que combinan tradición e innovación. Detalle, constancia y paciencia puesta en cada una de las barricas.Una manera de hacer única, que decanta en vinos con raíces. Singulares y auténticos. Con origen en el respeto al suelo, la calidad de las uvas, la rigurosidad en el proceso y la dedicación de nuestro equipo.",
+            "block_sub_heading": "FRUTO DE LA HONESTIDAD. AISLAMIENTO GEOGRÁFICO. AGRICULTURA SUSTENTABLE.",
+            "block_description": "Procesos de vinificación que combinan tradición e innovación. Detalle, constancia y paciencia puesta en cada una de las barricas.Una manera de hacer única, que decanta en vinos con raíces. Singulares y auténticos. Con origen en el respeto al suelo, la calidad de las uvas, la rigurosidad en el proceso y la dedicación de nuestro equipo.",
             "block_button_text": "",
             "block_button_link": "",
             "heading_position": "text-start",
@@ -305,8 +305,8 @@
         "heading_position": "text-center",
         "column_gap": "30",
         "border_radius": "",
-        "content_width": "20\/80",
-        "lap_content_width": "30\/70"
+        "content_width": "30\/70",
+        "lap_content_width": "40\/60"
       }
     }
   },
