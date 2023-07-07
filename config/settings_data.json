@@ -2990,9 +2990,9 @@
           "0eb9cd4f-3b7e-4657-bff5-67eff2e29645": {
             "type": "content",
             "settings": {
-              "block_heading": "Main Heading",
-              "block_sub_heading": "Sub Heading",
-              "block_description": "Use this text to share the information which you like!.",
+              "block_heading": "",
+              "block_sub_heading": "",
+              "block_description": "",
               "block_button_text": "",
               "block_button_link": "",
               "heading_position": "text-start",
@@ -3012,9 +3012,9 @@
           "c9cec579-298d-44af-be49-e48f2f8430e8": {
             "type": "content",
             "settings": {
-              "block_heading": "Main Heading",
-              "block_sub_heading": "Sub Heading",
-              "block_description": "Use this text to share the information which you like!.",
+              "block_heading": "",
+              "block_sub_heading": "",
+              "block_description": "",
               "block_button_text": "",
               "block_button_link": "",
               "heading_position": "text-start",
@@ -3039,11 +3039,11 @@
         "settings": {
           "full": false,
           "spacing_both_ends": false,
-          "padding": "200,200",
+          "padding": "00,200",
           "margin": "0,0",
           "show_background_image": false,
           "background_style": "default",
-          "enable_overlay": true,
+          "enable_overlay": false,
           "background_color": "#8f1025",
           "overlay_transparency": "0.5",
           "section_heading": "",
