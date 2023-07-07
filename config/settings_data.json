@@ -3090,7 +3090,7 @@
           "section_button_hover_bg_color": "",
           "section_button_hover_text_color": "",
           "heading_position": "text-center",
-          "html": "<!--<div id='video-terroir'><\/div>-->",
+          "html": "<!--<div id='video-terroir'>\n<video controls>\n    <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/12fe5e8164c64a4384a650ba8ec3fbae.mp4\" type=\"video\/mp4\">\n  <\/video>\n<\/div>-->",
           "custom_class_name": ""
         }
       }
