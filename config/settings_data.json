@@ -2321,10 +2321,10 @@
           "block_icon_color": ""
         }
       },
-      "home-custom-section-about": {
-        "type": "home-custom-section-about",
+      "about-custom-section": {
+        "type": "about-custom-section",
         "blocks": {
-          "f021c4cc-d89b-4df8-a45d-1d212742a2dd": {
+          "0ff3df28-96b1-4a54-a759-1317ce6ade8b": {
             "type": "content",
             "settings": {
               "block_heading": "ORIGEN",
@@ -2346,12 +2346,12 @@
               "block_button_hover_text_color": ""
             }
           },
-          "5f3c0700-5397-4fdc-a399-76c860b3dd2f": {
+          "cf4726f3-21eb-456c-bc34-99a29aef954b": {
             "type": "content",
             "settings": {
               "block_heading": "",
               "block_sub_heading": "",
-              "block_description": "1989, el Dr. José Zarhi, destacado cirujano plástico chileno, adquirió el fundo de 60 hectáreas “Santa Cruz de Coya”. Al enterarse que hacia 1920 el campo había sido generoso en plantaciones de vid, decide iniciar una aventura vitivinícola, reemplazando frutales por parras de Chardonnay. Luego de un estudio de suelos y de condiciones climáticas, las características del campo resultaron ser óptimas para la elaboración de vinos de alta gama.",
+              "block_description": "En 1989, el Dr. José Zarhi, destacado cirujano plástico chileno, adquirió el fundo de 60 hectáreas “Santa Cruz de Coya”. Al enterarse que hacia 1920 el campo había sido generoso en plantaciones de vid, decide iniciar una aventura vitivinícola, reemplazando frutales por parras de Chardonnay. Luego de un estudio de suelos y de condiciones climáticas, las características del campo resultaron ser óptimas para la elaboración de vinos de alta gama.",
               "block_button_text": "",
               "block_button_link": "",
               "heading_position": "text-start",
@@ -2370,8 +2370,8 @@
           }
         },
         "block_order": [
-          "f021c4cc-d89b-4df8-a45d-1d212742a2dd",
-          "5f3c0700-5397-4fdc-a399-76c860b3dd2f"
+          "0ff3df28-96b1-4a54-a759-1317ce6ade8b",
+          "cf4726f3-21eb-456c-bc34-99a29aef954b"
         ],
         "settings": {
           "full": false,
@@ -2398,12 +2398,12 @@
           "heading_position": "text-center",
           "column_gap": "30",
           "border_radius": "",
-          "content_width": "30\/70",
+          "content_width": "40\/60",
           "lap_content_width": "40\/60"
         }
       },
-      "aboutus-video-banner": {
-        "type": "aboutus-video-banner",
+      "about-video-banner": {
+        "type": "about-video-banner",
         "settings": {
           "full": false,
           "spacing_both_ends": false,
@@ -2437,7 +2437,7 @@
           "show_image": true,
           "video_format": "video",
           "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/668889f121bd4077a10afc03545ffd18.mp4",
-          "iframe_url": "",
+          "iframe_url": "https:\/\/www.youtube.com\/embed\/JJMPKgyCoSY",
           "video_height": "500",
           "overlay_style": "with-overlay",
           "enable_box_shadow": false,
@@ -2458,71 +2458,52 @@
           "custom_class_name": ""
         }
       },
-      "home-custom-section-about-2": {
-        "type": "home-custom-section-about-2",
-        "blocks": {
-          "b4c0b652-d644-4919-99af-822b981c1378": {
-            "type": "content",
-            "settings": {
-              "block_heading": "",
-              "block_sub_heading": "",
-              "block_description": "",
-              "block_button_text": "",
-              "block_button_link": "",
-              "heading_position": "text-start",
-              "image_1_border_radius": "0",
-              "image_2_border_radius": "",
-              "reverse_column": false,
-              "fullwidth_images": false,
-              "block_heading_color": "",
-              "block_sub_heading_color": "",
-              "block_description_color": "",
-              "block_button_bg_color": "",
-              "block_button_text_color": "",
-              "block_button_hover_bg_color": "",
-              "block_button_hover_text_color": ""
-            }
-          },
-          "4e3c3d9c-9328-4097-9afd-bb0fab94b765": {
-            "type": "content",
-            "settings": {
-              "block_heading": "ASÍ NACE CALYPTRA",
-              "block_sub_heading": "",
-              "block_description": "Un suelo que recupera su raíz para dar origen a vinos de excepción, únicos, honestos. Reflejo de la elevada expresión del terroir cordillerano más alto del Valle de Cachapoal.",
-              "block_button_text": "",
-              "block_button_link": "",
-              "heading_position": "text-start",
-              "image_1_border_radius": "",
-              "image_2_border_radius": "",
-              "reverse_column": false,
-              "fullwidth_images": false,
-              "block_heading_color": "#ffffff",
-              "block_sub_heading_color": "",
-              "block_description_color": "",
-              "block_button_bg_color": "",
-              "block_button_text_color": "",
-              "block_button_hover_bg_color": "",
-              "block_button_hover_text_color": ""
-            }
-          }
-        },
-        "block_order": [
-          "b4c0b652-d644-4919-99af-822b981c1378",
-          "4e3c3d9c-9328-4097-9afd-bb0fab94b765"
-        ],
+      "about-custom-section-2": {
+        "type": "about-custom-section-2",
         "settings": {
-          "full": true,
-          "spacing_both_ends": true,
-          "padding": "150,50",
-          "margin": "30,30",
+          "full": false,
+          "spacing_both_ends": false,
+          "padding": "0,0",
+          "margin": "0,0",
           "show_background_image": false,
           "background_style": "default",
-          "enable_overlay": true,
-          "background_color": "#191919",
-          "overlay_transparency": "1",
-          "section_heading": "",
-          "section_sub_heading": "",
-          "section_description": "",
+          "enable_overlay": false,
+          "background_color": "",
+          "overlay_transparency": "0.5",
+          "section_heading": "Custom section",
+          "section_sub_heading": "Sub Heading",
+          "section_description": "Use this text to share the information which you like!.",
+          "section_button_text": "",
+          "section_button_link": "",
+          "section_heading_color": "",
+          "section_sub_heading_color": "",
+          "section_description_color": "",
+          "section_button_bg_color": "",
+          "section_button_text_color": "",
+          "section_button_hover_bg_color": "",
+          "section_button_hover_text_color": "",
+          "heading_position": "text-center",
+          "column_gap": "30",
+          "border_radius": "",
+          "content_width": "50\/50",
+          "lap_content_width": "40\/60"
+        }
+      },
+      "about-custom-section-3": {
+        "type": "about-custom-section-3",
+        "settings": {
+          "full": false,
+          "spacing_both_ends": false,
+          "padding": "0,0",
+          "margin": "0,0",
+          "show_background_image": false,
+          "background_style": "default",
+          "enable_overlay": false,
+          "background_color": "",
+          "overlay_transparency": "0.5",
+          "section_heading": "Custom section",
+          "section_sub_heading": "Sub Heading",
+          "section_description": "Use this text to share the information which you like!.",
           "section_button_text": "",
           "section_button_link": "",
           "section_heading_color": "",
