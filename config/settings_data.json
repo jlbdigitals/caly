@@ -3205,7 +3205,7 @@
           "block_description": "",
           "block_button_text": "",
           "block_button_link": "",
-          "content_position": "center",
+          "content_position": "center-right",
           "block_text_align": "text-center",
           "show_image": true,
           "video_format": "video",
