@@ -2541,6 +2541,56 @@
       },
       "about-custom-section-3": {
         "type": "about-custom-section-3",
+        "blocks": {
+          "82cf06c9-9068-4d3d-9d33-624537f406d0": {
+            "type": "content",
+            "settings": {
+              "block_heading": "",
+              "block_sub_heading": "",
+              "block_description": "",
+              "block_button_text": "",
+              "block_button_link": "",
+              "heading_position": "text-start",
+              "image_1_border_radius": "",
+              "image_2_border_radius": "",
+              "reverse_column": false,
+              "fullwidth_images": false,
+              "block_heading_color": "",
+              "block_sub_heading_color": "",
+              "block_description_color": "",
+              "block_button_bg_color": "",
+              "block_button_text_color": "",
+              "block_button_hover_bg_color": "",
+              "block_button_hover_text_color": ""
+            }
+          },
+          "10a37a77-47d4-487a-b2a1-4ee6c7cc49ef": {
+            "type": "content",
+            "settings": {
+              "block_heading": "",
+              "block_sub_heading": "Fruto de la Honestidad. Aislamiento geográfico. Agricultura sustentable.",
+              "block_description": "Procesos de vinificación que combinan tradición e innovación. Detalle, constancia y paciencia puesta en cada una de las barricas. Una manera de hacer única, que decanta en vinos con raíces. Singulares y auténticos. Con origen en el respeto al suelo, la calidad de las uvas, la rigurosidad en el proceso y la dedicación de nuestro equipo.",
+              "block_button_text": "",
+              "block_button_link": "",
+              "heading_position": "text-start",
+              "image_1_border_radius": "",
+              "image_2_border_radius": "",
+              "reverse_column": false,
+              "fullwidth_images": false,
+              "block_heading_color": "",
+              "block_sub_heading_color": "",
+              "block_description_color": "",
+              "block_button_bg_color": "",
+              "block_button_text_color": "",
+              "block_button_hover_bg_color": "",
+              "block_button_hover_text_color": ""
+            }
+          }
+        },
+        "block_order": [
+          "82cf06c9-9068-4d3d-9d33-624537f406d0",
+          "10a37a77-47d4-487a-b2a1-4ee6c7cc49ef"
+        ],
         "settings": {
           "full": false,
           "spacing_both_ends": false,
@@ -2551,9 +2601,9 @@
           "enable_overlay": false,
           "background_color": "",
           "overlay_transparency": "0.5",
-          "section_heading": "Custom section",
-          "section_sub_heading": "Sub Heading",
-          "section_description": "Use this text to share the information which you like!.",
+          "section_heading": "",
+          "section_sub_heading": "",
+          "section_description": "",
           "section_button_text": "",
           "section_button_link": "",
           "section_heading_color": "",
