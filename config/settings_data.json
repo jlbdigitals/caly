@@ -3061,7 +3061,7 @@
           "heading_position": "text-center",
           "column_gap": "30",
           "border_radius": "",
-          "content_width": "90\/10",
+          "content_width": "50\/60",
           "lap_content_width": "40\/60"
         }
       },
