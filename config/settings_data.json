@@ -3064,6 +3064,35 @@
           "content_width": "50\/50",
           "lap_content_width": "40\/60"
         }
+      },
+      "terroir-html-text": {
+        "type": "terroir-html-text",
+        "settings": {
+          "full": false,
+          "spacing_both_ends": false,
+          "padding": "0,0",
+          "margin": "0,0",
+          "show_background_image": false,
+          "background_style": "default",
+          "enable_overlay": false,
+          "background_color": "",
+          "overlay_transparency": "0.5",
+          "section_heading": "Html Text",
+          "section_sub_heading": "Sub Heading",
+          "section_description": "Use this text to share the information which you like!.",
+          "section_button_text": "",
+          "section_button_link": "",
+          "section_heading_color": "",
+          "section_sub_heading_color": "",
+          "section_description_color": "",
+          "section_button_bg_color": "",
+          "section_button_text_color": "",
+          "section_button_hover_bg_color": "",
+          "section_button_hover_text_color": "",
+          "heading_position": "text-center",
+          "html": "<!--<div id='video-terroir'>\n<video controls>\n    <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/12fe5e8164c64a4384a650ba8ec3fbae.mp4\" type=\"video\/mp4\">\n  <\/video>\n<\/div>-->",
+          "custom_class_name": ""
+        }
       }
     },
     "content_for_index": [
