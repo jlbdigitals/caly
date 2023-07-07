@@ -2327,7 +2327,7 @@
           "f021c4cc-d89b-4df8-a45d-1d212742a2dd": {
             "type": "content",
             "settings": {
-              "block_heading": "Origen",
+              "block_heading": "ORIGEN",
               "block_sub_heading": "",
               "block_description": "",
               "block_button_text": "",
@@ -2376,7 +2376,7 @@
         "settings": {
           "full": false,
           "spacing_both_ends": false,
-          "padding": "50,0",
+          "padding": "80,0",
           "margin": "0,0",
           "show_background_image": false,
           "background_style": "default",
