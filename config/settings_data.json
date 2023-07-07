@@ -3237,7 +3237,7 @@
           "226127a8-fb4a-413d-8c51-10e655984807": {
             "type": "content",
             "settings": {
-              "block_heading": "",
+              "block_heading": "Situado en una ubicación privilegiada: en el cajón del Valle de Alto Cachapoal. A casi 1000 Mts. sobre el nivel del mar, las 43 hectáreas plantadas de Calyptra se convierten en el viñedo más oriental de Chile.p",
               "block_sub_heading": "El campo presenta una exposición sur, con pendientes suaves colindantes a la rivera norte del río Cachapoal. Otro límite natural que aporta condiciones de aislamiento geográfico al terruño.  Estas barreras naturales son vitales para la ausencia de plagas o enfermedades agresivas y potencian un territorio generoso para nuestros grandes vinos.",
               "block_description": "",
               "block_button_text": "",
@@ -3255,10 +3255,33 @@
               "block_button_hover_bg_color": "",
               "block_button_hover_text_color": ""
             }
+          },
+          "3bc0fd55-b476-43ce-bdef-9244b28d71bd": {
+            "type": "content",
+            "settings": {
+              "block_heading": "",
+              "block_sub_heading": "",
+              "block_description": "",
+              "block_button_text": "",
+              "block_button_link": "",
+              "heading_position": "text-start",
+              "image_1_border_radius": "",
+              "image_2_border_radius": "",
+              "reverse_column": false,
+              "fullwidth_images": false,
+              "block_heading_color": "",
+              "block_sub_heading_color": "",
+              "block_description_color": "",
+              "block_button_bg_color": "",
+              "block_button_text_color": "",
+              "block_button_hover_bg_color": "",
+              "block_button_hover_text_color": ""
+            }
           }
         },
         "block_order": [
-          "226127a8-fb4a-413d-8c51-10e655984807"
+          "226127a8-fb4a-413d-8c51-10e655984807",
+          "3bc0fd55-b476-43ce-bdef-9244b28d71bd"
         ],
         "settings": {
           "full": false,
@@ -3271,7 +3294,7 @@
           "background_color": "",
           "overlay_transparency": "0.5",
           "section_heading": "",
-          "section_sub_heading": "Situado en una ubicación privilegiada: en el cajón del Valle de Alto Cachapoal. A casi 1000 Mts. sobre el nivel del mar, las 43 hectáreas plantadas de Calyptra se convierten en el viñedo más oriental de Chile.p",
+          "section_sub_heading": "",
           "section_description": "",
           "section_button_text": "",
           "section_button_link": "",
@@ -3285,8 +3308,8 @@
           "heading_position": "text-center",
           "column_gap": "30",
           "border_radius": "",
-          "content_width": "50\/50",
-          "lap_content_width": "40\/60"
+          "content_width": "80\/20",
+          "lap_content_width": "80\/20"
         }
       }
     },
