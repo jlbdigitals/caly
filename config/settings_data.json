@@ -2980,7 +2980,7 @@
           "heading_position": "text-center",
           "column_gap": "30",
           "border_radius": "",
-          "content_width": "30\/70",
+          "content_width": "20\/80",
           "lap_content_width": "40\/60"
         }
       },
@@ -3037,7 +3037,7 @@
           "c9cec579-298d-44af-be49-e48f2f8430e8"
         ],
         "settings": {
-          "full": false,
+          "full": true,
           "spacing_both_ends": false,
           "padding": "00,200",
           "margin": "0,0",
