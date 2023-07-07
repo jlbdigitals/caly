@@ -2327,7 +2327,7 @@
           "f021c4cc-d89b-4df8-a45d-1d212742a2dd": {
             "type": "content",
             "settings": {
-              "block_heading": "Origen",
+              "block_heading": "ORIGEN",
               "block_sub_heading": "",
               "block_description": "",
               "block_button_text": "",
@@ -2351,7 +2351,7 @@
             "settings": {
               "block_heading": "",
               "block_sub_heading": "",
-              "block_description": "En 1989, el Dr. José Zarhi, destacado cirujano plástico chileno, adquirió el fundo de 60 hectáreas “Santa Cruz de Coya”. Al enterarse que hacia 1920 el campo había sido generoso en plantaciones de vid, decide iniciar una aventura vitivinícola, reemplazando frutales por parras de Chardonnay. Luego de un estudio de suelos y de condiciones climáticas, las características del campo resultaron ser óptimas para la elaboración de vinos de alta gama.",
+              "block_description": "1989, el Dr. José Zarhi, destacado cirujano plástico chileno, adquirió el fundo de 60 hectáreas “Santa Cruz de Coya”. Al enterarse que hacia 1920 el campo había sido generoso en plantaciones de vid, decide iniciar una aventura vitivinícola, reemplazando frutales por parras de Chardonnay. Luego de un estudio de suelos y de condiciones climáticas, las características del campo resultaron ser óptimas para la elaboración de vinos de alta gama.",
               "block_button_text": "",
               "block_button_link": "",
               "heading_position": "text-start",
@@ -2376,7 +2376,7 @@
         "settings": {
           "full": false,
           "spacing_both_ends": false,
-          "padding": "50,0",
+          "padding": "80,0",
           "margin": "0,0",
           "show_background_image": false,
           "background_style": "default",
@@ -2513,7 +2513,7 @@
         "settings": {
           "full": true,
           "spacing_both_ends": true,
-          "padding": "0,0",
+          "padding": "150,50",
           "margin": "30,30",
           "show_background_image": false,
           "background_style": "default",
