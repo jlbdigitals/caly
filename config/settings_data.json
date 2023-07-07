@@ -2460,6 +2460,56 @@
       },
       "about-custom-section-2": {
         "type": "about-custom-section-2",
+        "blocks": {
+          "6646b535-ae92-413f-8b1e-4b7466e1ea06": {
+            "type": "content",
+            "settings": {
+              "block_heading": "",
+              "block_sub_heading": "",
+              "block_description": "",
+              "block_button_text": "",
+              "block_button_link": "",
+              "heading_position": "text-start",
+              "image_1_border_radius": "",
+              "image_2_border_radius": "",
+              "reverse_column": false,
+              "fullwidth_images": false,
+              "block_heading_color": "",
+              "block_sub_heading_color": "",
+              "block_description_color": "",
+              "block_button_bg_color": "",
+              "block_button_text_color": "",
+              "block_button_hover_bg_color": "",
+              "block_button_hover_text_color": ""
+            }
+          },
+          "4f3fb256-6226-4c38-b536-6c5ce29348e8": {
+            "type": "content",
+            "settings": {
+              "block_heading": "ASÍ NACE CALYPTRA",
+              "block_sub_heading": "",
+              "block_description": "Un suelo que recupera su raíz para dar origen a vinos de excepción, únicos, honestos. Reflejo de la elevada expresión del terroir cordillerano más alto del Valle de Cachapoal.",
+              "block_button_text": "",
+              "block_button_link": "",
+              "heading_position": "text-center",
+              "image_1_border_radius": "",
+              "image_2_border_radius": "",
+              "reverse_column": false,
+              "fullwidth_images": false,
+              "block_heading_color": "",
+              "block_sub_heading_color": "",
+              "block_description_color": "",
+              "block_button_bg_color": "",
+              "block_button_text_color": "",
+              "block_button_hover_bg_color": "",
+              "block_button_hover_text_color": ""
+            }
+          }
+        },
+        "block_order": [
+          "6646b535-ae92-413f-8b1e-4b7466e1ea06",
+          "4f3fb256-6226-4c38-b536-6c5ce29348e8"
+        ],
         "settings": {
           "full": false,
           "spacing_both_ends": false,
@@ -2467,9 +2517,9 @@
           "margin": "0,0",
           "show_background_image": false,
           "background_style": "default",
-          "enable_overlay": false,
-          "background_color": "",
-          "overlay_transparency": "0.5",
+          "enable_overlay": true,
+          "background_color": "#252525",
+          "overlay_transparency": "1",
           "section_heading": "Custom section",
           "section_sub_heading": "Sub Heading",
           "section_description": "Use this text to share the information which you like!.",
