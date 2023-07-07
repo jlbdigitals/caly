@@ -2806,7 +2806,7 @@
           "banner_button_text_color": "",
           "banner_button_hover_bg_color": "",
           "banner_button_hover_text_color": "",
-          "video_overlay_color": "",
+          "video_overlay_color": "#000000",
           "video_overlay_transparency": "0.5",
           "icon_bg_color": "",
           "icon_color": "",
