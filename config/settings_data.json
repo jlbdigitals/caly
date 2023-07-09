@@ -3344,7 +3344,7 @@
         "settings": {
           "full": false,
           "spacing_both_ends": false,
-          "padding": "0,0",
+          "padding": "200,150",
           "margin": "0,0",
           "show_background_image": true,
           "background_image": "shopify:\/\/shop_images\/1.jpg",
