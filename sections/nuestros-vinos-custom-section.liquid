@@ -19,16 +19,6 @@
 <div class="dt-sc-section-wrapper {{lazyScript}} {{section_overlay}} {% if section.settings.background_style == 'parallax' %} parallax-initiated{% endif %}" style="{% render 'bg-color-image-padding' %}" data-style="parallax" {{background_style}} {% include 'bg_image' %}>                    
 <div class="{% render 'container-settings' %}"> 
     <div class="row {{ section.settings.custom_class_name }}">
-       <script src="https://cdn.jsdelivr.net/npm/simple-parallax-js@5.5.1/dist/simpleParallax.min.js"></script>
-                <img src="https://cdn.shopify.com/s/files/1/0774/9140/5107/files/1_abee704f-3bfd-42e0-8b0f-c6b90a683930.jpg?v=1686069814" class="thumbnail" width="320" style="position: absolute; margin-left: 15em;">                
-                <script>
-                  var image = document.getElementsByClassName('thumbnail');
-                  new simpleParallax(image, {
-                    overflow: true,
-                    scale: 3,
-                  });
-                </script>
-
       {% render 'section-heading', class: section.id %} 
       <div class="home-custom-section-wrapper dt-sc-column">
         {% for block in section.blocks %}
@@ -61,8 +51,7 @@
                    data-src="{{ block.settings.block_img_1 | img_url: 'master' }}"
                    data-widths="[180, 360, 470, 600, 770, 970, 1060, 1280, 1512, 1728, 2048]"
                    data-aspectratio="{{ block.settings.block_img_1.aspect_ratio }}"
-                   data-sizes="auto"
-                   class="thumbnail"            
+                   data-sizes="auto"          
                    data-alt="{{ block.settings.title }}">
               <noscript>
                 {{ block.settings.block_img_1 | img_url: '480x480', scale: 2 | img_tag: block.settings.block_img_1.alt, 'dt-sc-noscript-image' }}
