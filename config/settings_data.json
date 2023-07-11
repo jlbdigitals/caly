@@ -341,6 +341,9 @@
           "afe7727a-c1b7-446e-bf14-9b4a603361a7",
           "d588ba90-3502-439f-a5a1-c2c679ebebf6"
         ],
+        "custom_css": [
+          "footer {z-index: 1000;}"
+        ],
         "settings": {
           "full": false,
           "spacing_both_ends": false,
