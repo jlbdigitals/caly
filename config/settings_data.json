@@ -3622,6 +3622,87 @@
           "content_width": "50\/50",
           "lap_content_width": "40\/60"
         }
+      },
+      "nuestros-vinos-custom-section-6": {
+        "type": "nuestros-vinos-custom-section-6",
+        "blocks": {
+          "5d744b00-e75d-4700-8dea-55512f724b27": {
+            "type": "content",
+            "settings": {
+              "block_heading": "Gran Reserva",
+              "block_sub_heading": "<i> – Singularidad en cada entrega<\/i>",
+              "block_description": "<br>​La línea Gran Reserva de Calyptra nos ofrece vinos complejos, de gran volumen, carácter y cremosidad. La potencia de nuestra uva, la influencia de su año de elaboración y su crianza en barricas dan origen a vinos irrepetibles entre una añada y la otra.<br><br> <a href=\"#\">Sauvignon Blanc Gran Reserva<\/a><br> <a href=\"#\">Chardonnay Gran Reserva<\/a><br> <a href=\"\">Pinot Noir Gran Reserva<\/a><br> <a href=\"\">Cabernet Sauvignon Gran Reserva<\/a><br> <a href=\"\">Assemblage Gran Reserva<\/a>",
+              "block_button_text": "",
+              "block_button_link": "",
+              "heading_position": "text-end",
+              "image_1_border_radius": "",
+              "image_2_border_radius": "",
+              "reverse_column": false,
+              "fullwidth_images": false,
+              "block_heading_color": "#ffffff",
+              "block_sub_heading_color": "#ffffff",
+              "block_description_color": "#ffffff",
+              "block_button_bg_color": "",
+              "block_button_text_color": "",
+              "block_button_hover_bg_color": "",
+              "block_button_hover_text_color": ""
+            }
+          },
+          "b1714f76-3fe7-403b-9c68-a61aa8ca7ca3": {
+            "type": "content",
+            "settings": {
+              "block_heading": "",
+              "block_sub_heading": "",
+              "block_description": "",
+              "block_button_text": "",
+              "block_button_link": "",
+              "heading_position": "text-start",
+              "image_1_border_radius": "",
+              "image_2_border_radius": "",
+              "reverse_column": false,
+              "fullwidth_images": false,
+              "block_heading_color": "",
+              "block_sub_heading_color": "",
+              "block_description_color": "",
+              "block_button_bg_color": "",
+              "block_button_text_color": "",
+              "block_button_hover_bg_color": "",
+              "block_button_hover_text_color": ""
+            }
+          }
+        },
+        "block_order": [
+          "5d744b00-e75d-4700-8dea-55512f724b27",
+          "b1714f76-3fe7-403b-9c68-a61aa8ca7ca3"
+        ],
+        "settings": {
+          "full": false,
+          "spacing_both_ends": false,
+          "padding": "50,0",
+          "margin": "0,0",
+          "show_background_image": false,
+          "background_style": "default",
+          "enable_overlay": true,
+          "background_color": "#222222",
+          "overlay_transparency": "1",
+          "section_heading": "",
+          "section_sub_heading": "",
+          "section_description": "",
+          "section_button_text": "",
+          "section_button_link": "",
+          "section_heading_color": "#ffffff",
+          "section_sub_heading_color": "#ffffff",
+          "section_description_color": "#ffffff",
+          "section_button_bg_color": "",
+          "section_button_text_color": "",
+          "section_button_hover_bg_color": "",
+          "section_button_hover_text_color": "",
+          "heading_position": "text-center",
+          "column_gap": "30",
+          "border_radius": "",
+          "content_width": "50\/50",
+          "lap_content_width": "50\/50"
+        }
       }
     },
     "content_for_index": [
