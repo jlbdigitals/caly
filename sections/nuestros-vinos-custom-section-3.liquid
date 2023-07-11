@@ -49,12 +49,10 @@
 
           {% if block.settings.block_img_1 or block.settings.block_img_2 != blank %}
             <div class="dt-sc-image-gallery">
-              <img src="https://cdn.shopify.com/s/files/1/0774/9140/5107/files/1_266acdb0-02a5-4cf6-ae09-87aa7840fdbd.png?v=1689094217" class="" width="600" style="">                
-              
-
-{% comment %} 
               {% if block.settings.block_img_1 != blank   %}
-              <img class="dt-sc-block-image lazyload"
+              <img src="https://cdn.shopify.com/s/files/1/0774/9140/5107/files/1_266acdb0-02a5-4cf6-ae09-87aa7840fdbd.png?v=1689094217" class="" width="600" style="">                
+
+              {% comment %} <img class="dt-sc-block-image lazyload"
                    src="{{ 'loading.gif' | asset_url }}"
                    data-src="{{ block.settings.block_img_1 | img_url: 'master' }}"
                    data-widths="[180, 360, 470, 600, 770, 970, 1060, 1280, 1512, 1728, 2048]"
@@ -63,10 +61,8 @@
                    data-alt="{{ block.settings.title }}">
               <noscript>
                 {{ block.settings.block_img_1 | img_url: '480x480', scale: 2 | img_tag: block.settings.block_img_1.alt, 'dt-sc-noscript-image' }}
-              </noscript>
-              {% endif %} {% endcomment %}
-
-
+              </noscript> {% endcomment %}
+              {% endif %}
             </div>
             {% endif %}
 
