@@ -3100,8 +3100,8 @@
           "db22d85c-6401-4d92-aa53-9240a948537e": {
             "type": "content",
             "settings": {
-              "block_heading": "",
-              "block_sub_heading": "Esta diferencia climática es uno de los elementos únicos de nuestro terroir que ayuda a crear ejemplares genuinos e irrepetibles.",
+              "block_heading": "Esta diferencia climática es uno de los elementos únicos de nuestro terroir que ayuda a crear ejemplares genuinos e irrepetibles.",
+              "block_sub_heading": "",
               "block_description": "",
               "block_button_text": "",
               "block_button_link": "",
@@ -3237,9 +3237,9 @@
           "226127a8-fb4a-413d-8c51-10e655984807": {
             "type": "content",
             "settings": {
-              "block_heading": "Situado en una ubicación privilegiada: en el cajón del Valle de Alto Cachapoal. A casi 1000 Mts. sobre el nivel del mar, las 43 hectáreas plantadas de Calyptra se convierten en el viñedo más oriental de Chile.",
-              "block_sub_heading": "<br>El campo presenta una exposición sur, con pendientes suaves colindantes a la rivera norte del río Cachapoal. Otro límite natural que aporta condiciones de aislamiento geográfico al terruño.  Estas barreras naturales son vitales para la ausencia de plagas o enfermedades agresivas y potencian un territorio generoso para nuestros grandes vinos.",
-              "block_description": "",
+              "block_heading": "",
+              "block_sub_heading": "Situado en una ubicación privilegiada: en el cajón del Valle de Alto Cachapoal. A casi 1000 Mts. sobre el nivel del mar, las 43 hectáreas plantadas de Calyptra se convierten en el viñedo más oriental de Chile.",
+              "block_description": "El campo presenta una exposición sur, con pendientes suaves colindantes a la rivera norte del río Cachapoal. Otro límite natural que aporta condiciones de aislamiento geográfico al terruño.  Estas barreras naturales son vitales para la ausencia de plagas o enfermedades agresivas y potencian un territorio generoso para nuestros grandes vinos.",
               "block_button_text": "",
               "block_button_link": "",
               "heading_position": "text-start",
@@ -3258,6 +3258,7 @@
           },
           "3bc0fd55-b476-43ce-bdef-9244b28d71bd": {
             "type": "content",
+            "disabled": true,
             "settings": {
               "block_heading": "",
               "block_sub_heading": "",
