@@ -3543,7 +3543,7 @@
           "show_background_image": false,
           "background_style": "default",
           "enable_overlay": true,
-          "background_color": "#111111",
+          "background_color": "#222222",
           "overlay_transparency": "1",
           "section_heading": "",
           "section_sub_heading": "",
