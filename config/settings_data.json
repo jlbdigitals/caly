@@ -3629,28 +3629,6 @@
       "nuestros-vinos-custom-section-6": {
         "type": "nuestros-vinos-custom-section-6",
         "blocks": {
-          "5d744b00-e75d-4700-8dea-55512f724b27": {
-            "type": "content",
-            "settings": {
-              "block_heading": "Gran Reserva",
-              "block_sub_heading": "<i> – Singularidad en cada entrega<\/i>",
-              "block_description": "<br>​La línea Gran Reserva de Calyptra nos ofrece vinos complejos, de gran volumen, carácter y cremosidad. La potencia de nuestra uva, la influencia de su año de elaboración y su crianza en barricas dan origen a vinos irrepetibles entre una añada y la otra.<br><br> <a href=\"#\">Sauvignon Blanc Gran Reserva<\/a><br> <a href=\"#\">Chardonnay Gran Reserva<\/a><br> <a href=\"\">Pinot Noir Gran Reserva<\/a><br> <a href=\"\">Cabernet Sauvignon Gran Reserva<\/a><br> <a href=\"\">Assemblage Gran Reserva<\/a>",
-              "block_button_text": "",
-              "block_button_link": "",
-              "heading_position": "text-end",
-              "image_1_border_radius": "",
-              "image_2_border_radius": "",
-              "reverse_column": false,
-              "fullwidth_images": false,
-              "block_heading_color": "#ffffff",
-              "block_sub_heading_color": "#ffffff",
-              "block_description_color": "#ffffff",
-              "block_button_bg_color": "",
-              "block_button_text_color": "",
-              "block_button_hover_bg_color": "",
-              "block_button_hover_text_color": ""
-            }
-          },
           "b1714f76-3fe7-403b-9c68-a61aa8ca7ca3": {
             "type": "content",
             "settings": {
@@ -3672,11 +3650,33 @@
               "block_button_hover_bg_color": "",
               "block_button_hover_text_color": ""
             }
+          },
+          "5d744b00-e75d-4700-8dea-55512f724b27": {
+            "type": "content",
+            "settings": {
+              "block_heading": "Gran Reserva",
+              "block_sub_heading": "<i> – Singularidad en cada entrega<\/i>",
+              "block_description": "<br>​La línea Gran Reserva de Calyptra nos ofrece vinos complejos, de gran volumen, carácter y cremosidad. La potencia de nuestra uva, la influencia de su año de elaboración y su crianza en barricas dan origen a vinos irrepetibles entre una añada y la otra.<br><br> <a href=\"#\">Sauvignon Blanc Gran Reserva<\/a><br> <a href=\"#\">Chardonnay Gran Reserva<\/a><br> <a href=\"\">Pinot Noir Gran Reserva<\/a><br> <a href=\"\">Cabernet Sauvignon Gran Reserva<\/a><br> <a href=\"\">Assemblage Gran Reserva<\/a>",
+              "block_button_text": "",
+              "block_button_link": "",
+              "heading_position": "text-end",
+              "image_1_border_radius": "",
+              "image_2_border_radius": "",
+              "reverse_column": false,
+              "fullwidth_images": false,
+              "block_heading_color": "#ffffff",
+              "block_sub_heading_color": "#ffffff",
+              "block_description_color": "#ffffff",
+              "block_button_bg_color": "",
+              "block_button_text_color": "",
+              "block_button_hover_bg_color": "",
+              "block_button_hover_text_color": ""
+            }
           }
         },
         "block_order": [
-          "5d744b00-e75d-4700-8dea-55512f724b27",
-          "b1714f76-3fe7-403b-9c68-a61aa8ca7ca3"
+          "b1714f76-3fe7-403b-9c68-a61aa8ca7ca3",
+          "5d744b00-e75d-4700-8dea-55512f724b27"
         ],
         "settings": {
           "full": false,
