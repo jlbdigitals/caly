@@ -3877,7 +3877,7 @@
           "padding": "0,0",
           "margin": "0,0",
           "show_background_image": false,
-          "background_style": "default",
+          "background_style": "fixed",
           "enable_overlay": false,
           "background_color": "",
           "overlay_transparency": "0.5",
