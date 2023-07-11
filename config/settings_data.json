@@ -3408,28 +3408,6 @@
       "nuestros-vinos-custom-section-3": {
         "type": "nuestros-vinos-custom-section-3",
         "blocks": {
-          "eaacf582-1dec-43f5-bd56-22a8b5a481d8": {
-            "type": "content",
-            "settings": {
-              "block_heading": "Vivendo Reserva",
-              "block_sub_heading": "<i>– Expresión natural<\/i>",
-              "block_description": "<br>La línea reserva Vivendo de Calyptra nos presenta vinos frescos, versátiles y frutados, sin crianza en barricas. Potencia e intensidad pura del aporte de nuestro terruño a los varietales, cultivados en el rigor del clima andino. <br><br> <a href=\"#\">Sauvignon Blanc Vivendo<br><\/a> <a href=\"#\">Chardonnay Vivendo<br><\/a> <a href=\"#\">Pinot Noir Vivendo<br><\/a> <a href=\"#\">Rose Vivendo<br><\/a> <a href=\"#\">Assemblage Vivendos<\/a>",
-              "block_button_text": "",
-              "block_button_link": "#",
-              "heading_position": "text-end",
-              "image_1_border_radius": "",
-              "image_2_border_radius": "",
-              "reverse_column": false,
-              "fullwidth_images": false,
-              "block_heading_color": "#ffffff",
-              "block_sub_heading_color": "#ffffff",
-              "block_description_color": "#ffffff",
-              "block_button_bg_color": "",
-              "block_button_text_color": "#ffffff",
-              "block_button_hover_bg_color": "",
-              "block_button_hover_text_color": ""
-            }
-          },
           "8654fb51-bec3-4f09-98c8-458459bda792": {
             "type": "content",
             "settings": {
@@ -3451,11 +3429,33 @@
               "block_button_hover_bg_color": "",
               "block_button_hover_text_color": ""
             }
+          },
+          "eaacf582-1dec-43f5-bd56-22a8b5a481d8": {
+            "type": "content",
+            "settings": {
+              "block_heading": "Vivendo Reserva",
+              "block_sub_heading": "<i>– Expresión natural<\/i>",
+              "block_description": "<br>La línea reserva Vivendo de Calyptra nos presenta vinos frescos, versátiles y frutados, sin crianza en barricas. Potencia e intensidad pura del aporte de nuestro terruño a los varietales, cultivados en el rigor del clima andino. <br><br> <a href=\"#\">Sauvignon Blanc Vivendo<br><\/a> <a href=\"#\">Chardonnay Vivendo<br><\/a> <a href=\"#\">Pinot Noir Vivendo<br><\/a> <a href=\"#\">Rose Vivendo<br><\/a> <a href=\"#\">Assemblage Vivendos<\/a>",
+              "block_button_text": "",
+              "block_button_link": "#",
+              "heading_position": "text-end",
+              "image_1_border_radius": "",
+              "image_2_border_radius": "",
+              "reverse_column": false,
+              "fullwidth_images": false,
+              "block_heading_color": "#ffffff",
+              "block_sub_heading_color": "#ffffff",
+              "block_description_color": "#ffffff",
+              "block_button_bg_color": "",
+              "block_button_text_color": "#ffffff",
+              "block_button_hover_bg_color": "",
+              "block_button_hover_text_color": ""
+            }
           }
         },
         "block_order": [
-          "eaacf582-1dec-43f5-bd56-22a8b5a481d8",
-          "8654fb51-bec3-4f09-98c8-458459bda792"
+          "8654fb51-bec3-4f09-98c8-458459bda792",
+          "eaacf582-1dec-43f5-bd56-22a8b5a481d8"
         ],
         "settings": {
           "full": true,
