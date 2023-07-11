@@ -40,13 +40,8 @@
           </div>
           {% endif %}
 
-          
 
-
-          {% if block.settings.block_img_1 or block.settings.block_img_2 != blank %}
-            <div class="dt-sc-image-gallery">
-
-              <script src="https://cdn.jsdelivr.net/npm/simple-parallax-js@5.5.1/dist/simpleParallax.min.js"></script>
+          <script src="https://cdn.jsdelivr.net/npm/simple-parallax-js@5.5.1/dist/simpleParallax.min.js"></script>
                 <img src="https://cdn.shopify.com/s/files/1/0774/9140/5107/files/G_L3458.jpg?v=1686066477" class="thumbnail" width="720" style="position: absolute; margin-left: 25em;">                
                 <script>
                   var image = document.getElementsByClassName('thumbnail');
@@ -55,6 +50,13 @@
                     scale: 3,
                   });
                 </script>
+          
+
+
+          {% if block.settings.block_img_1 or block.settings.block_img_2 != blank %}
+            <div class="dt-sc-image-gallery">
+
+              
 
 {% comment %} 
               {% if block.settings.block_img_1 != blank   %}
