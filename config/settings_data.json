@@ -3762,7 +3762,7 @@
         "settings": {
           "full": false,
           "spacing_both_ends": false,
-          "padding": "50,0",
+          "padding": "50,100",
           "margin": "0,0",
           "show_background_image": false,
           "background_style": "default",
@@ -3784,35 +3784,13 @@
           "heading_position": "text-center",
           "column_gap": "30",
           "border_radius": "",
-          "content_width": "50\/50",
-          "lap_content_width": "50\/50"
+          "content_width": "40\/60",
+          "lap_content_width": "40\/60"
         }
       },
       "nuestros-vinos-custom-section-8": {
         "type": "nuestros-vinos-custom-section-8",
         "blocks": {
-          "3631c383-15d2-463d-b711-067210d32b19": {
-            "type": "content",
-            "settings": {
-              "block_heading": "Dulces y Espumosos",
-              "block_sub_heading": "<i>– La elegancia de los aromas frutales<\/i>",
-              "block_description": "<br>Para amantes de espumosos elegantes, presentamos nuestra Hera Blanc de Blanc método tradicional 100% elaborado de uva Chardonnay. Vinos dulces están representados por Solvita Late Harvest de Sauvignon Blanc 100% botritizado y fortificado FORT obtenido por co-fermentación de Cabernet Sauvignon, Syrah y Merlot y con una crianza en barricas durante 60 meses.<br><br> <a href=\"#\">Hera<\/a><br> <a href=\"#\">Fort<\/a><br> <a href=\"#\">SolVita<\/a>",
-              "block_button_text": "",
-              "block_button_link": "",
-              "heading_position": "text-end",
-              "image_1_border_radius": "",
-              "image_2_border_radius": "",
-              "reverse_column": false,
-              "fullwidth_images": false,
-              "block_heading_color": "#ffffff",
-              "block_sub_heading_color": "#ffffff",
-              "block_description_color": "#ffffff",
-              "block_button_bg_color": "",
-              "block_button_text_color": "",
-              "block_button_hover_bg_color": "",
-              "block_button_hover_text_color": ""
-            }
-          },
           "ef17a349-6227-4630-83ce-ecd9012e24d6": {
             "type": "content",
             "settings": {
@@ -3834,16 +3812,38 @@
               "block_button_hover_bg_color": "",
               "block_button_hover_text_color": ""
             }
+          },
+          "3631c383-15d2-463d-b711-067210d32b19": {
+            "type": "content",
+            "settings": {
+              "block_heading": "Dulces y Espumosos",
+              "block_sub_heading": "<i>– La elegancia de los aromas frutales<\/i>",
+              "block_description": "<br>Para amantes de espumosos elegantes, presentamos nuestra Hera Blanc de Blanc método tradicional 100% elaborado de uva Chardonnay. Vinos dulces están representados por Solvita Late Harvest de Sauvignon Blanc 100% botritizado y fortificado FORT obtenido por co-fermentación de Cabernet Sauvignon, Syrah y Merlot y con una crianza en barricas durante 60 meses.<br><br> <a href=\"#\">Hera<\/a><br> <a href=\"#\">Fort<\/a><br> <a href=\"#\">SolVita<\/a>",
+              "block_button_text": "",
+              "block_button_link": "",
+              "heading_position": "text-start",
+              "image_1_border_radius": "",
+              "image_2_border_radius": "",
+              "reverse_column": false,
+              "fullwidth_images": false,
+              "block_heading_color": "#ffffff",
+              "block_sub_heading_color": "#ffffff",
+              "block_description_color": "#ffffff",
+              "block_button_bg_color": "",
+              "block_button_text_color": "",
+              "block_button_hover_bg_color": "",
+              "block_button_hover_text_color": ""
+            }
           }
         },
         "block_order": [
-          "3631c383-15d2-463d-b711-067210d32b19",
-          "ef17a349-6227-4630-83ce-ecd9012e24d6"
+          "ef17a349-6227-4630-83ce-ecd9012e24d6",
+          "3631c383-15d2-463d-b711-067210d32b19"
         ],
         "settings": {
           "full": false,
           "spacing_both_ends": false,
-          "padding": "50,0",
+          "padding": "50,100",
           "margin": "0,0",
           "show_background_image": false,
           "background_style": "default",
@@ -3865,8 +3865,8 @@
           "heading_position": "text-center",
           "column_gap": "30",
           "border_radius": "",
-          "content_width": "50\/50",
-          "lap_content_width": "50\/50"
+          "content_width": "60\/40",
+          "lap_content_width": "60\/40"
         }
       },
       "nuestros-vinos-video-banner-2": {
