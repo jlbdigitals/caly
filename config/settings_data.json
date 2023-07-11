@@ -3681,7 +3681,7 @@
         "settings": {
           "full": false,
           "spacing_both_ends": false,
-          "padding": "50,0",
+          "padding": "50,120",
           "margin": "0,0",
           "show_background_image": false,
           "background_style": "default",
@@ -3703,8 +3703,8 @@
           "heading_position": "text-center",
           "column_gap": "30",
           "border_radius": "",
-          "content_width": "50\/50",
-          "lap_content_width": "50\/50"
+          "content_width": "60\/40",
+          "lap_content_width": "60\/40"
         }
       },
       "nuestros-vinos-custom-section-7": {
