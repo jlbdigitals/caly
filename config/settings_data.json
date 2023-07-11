@@ -472,7 +472,7 @@
           "8dbb4b4f-d9ca-4553-b804-4271607154ff"
         ],
         "settings": {
-          "display_recent_purchase": true,
+          "display_recent_purchase": false,
           "placement": "right",
           "text": "Pedido"
         }
@@ -4035,9 +4035,9 @@
           "4500dfdd-88f2-4a44-8052-5699404c0794": {
             "type": "content",
             "settings": {
-              "block_heading": "Main Heading",
-              "block_sub_heading": "Sub Heading",
-              "block_description": "Use this text to share the information which you like!.",
+              "block_heading": "",
+              "block_sub_heading": "",
+              "block_description": "AÑADA: 2019<br> ORIGEN: Alto Cachapoal<br> COMPOSICIÓN: Sauvignon Blanc 100%<br> NOTA DE CATA: Con aromas a pera y manzana verde, frutas tropicales como piña y maracuyá, flores blancas y un toque cítrico dulce. Es un vino delicado, suave y con buena textura.<br> MARIDAJE: Platos frescos, mariscos y pescados crudos, ensaladas verdes.<br><br>  <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0774\/9140\/5107\/files\/SAUVIGNON-BLANC-VIVENDO-2019.pdf?v=1689114454\">Descargar Ficha Técnica<\/a> <br> <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0774\/9140\/5107\/files\/Sauvignon-Blanc-Viviendo-2019-Actualizado-Ingles.pdf?v=1689114454\">Descargar Ficha Técnica Inglés<\/a>",
               "block_button_text": "",
               "block_button_link": "",
               "heading_position": "text-start",
@@ -4062,7 +4062,7 @@
         "settings": {
           "full": false,
           "spacing_both_ends": false,
-          "padding": "0,0",
+          "padding": "50,200",
           "margin": "0,0",
           "show_background_image": false,
           "background_style": "default",
@@ -4084,8 +4084,8 @@
           "heading_position": "text-center",
           "column_gap": "30",
           "border_radius": "",
-          "content_width": "50\/50",
-          "lap_content_width": "40\/60"
+          "content_width": "30\/70",
+          "lap_content_width": "30\/70"
         }
       }
     },
