@@ -3872,13 +3872,13 @@
       "nuestros-vinos-video-banner-2": {
         "type": "nuestros-vinos-video-banner-2",
         "settings": {
-          "full": true,
+          "full": false,
           "spacing_both_ends": true,
           "padding": "0,0",
           "margin": "0,0",
           "show_background_image": false,
           "background_style": "fixed",
-          "enable_overlay": true,
+          "enable_overlay": false,
           "background_color": "#222222",
           "overlay_transparency": "1",
           "section_heading": "",
