@@ -3984,7 +3984,7 @@
           "margin": "0,0",
           "show_background_image": true,
           "background_image": "shopify:\/\/shop_images\/22.jpg",
-          "background_style": "fixed",
+          "background_style": "parallax",
           "enable_overlay": true,
           "background_color": "#000000",
           "overlay_transparency": "0.3",
