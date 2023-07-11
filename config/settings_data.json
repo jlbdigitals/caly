@@ -3248,7 +3248,7 @@
               "reverse_column": false,
               "fullwidth_images": false,
               "block_heading_color": "",
-              "block_sub_heading_color": "#646464",
+              "block_sub_heading_color": "#000000",
               "block_description_color": "",
               "block_button_bg_color": "",
               "block_button_text_color": "",
