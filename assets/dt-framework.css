@@ -755,7 +755,7 @@ button.mfp-close:before,
 /*Grid Section*/
 /***********************************************************************************/
 
-.dt-sc-column{display:grid;width:100%;grid-gap:var(--DTGutter_Width);margin-bottom:30px;margin-left:0;padding:0;grid-auto-flow:row dense}
+.dt-sc-column{display:grid;width:100%;grid-gap:var(--DTGutter_Width);margin-bottom:0px;margin-left:0;padding:0;grid-auto-flow:row dense}
 .dt-sc-column.two-column{grid-template-columns:repeat(2,1fr)}
 .dt-sc-column.three-column{grid-template-columns:repeat(3,1fr)}
 .dt-sc-column.four-column{grid-template-columns:repeat(4,1fr)}
