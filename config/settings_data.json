@@ -4250,6 +4250,118 @@
           "content_width": "50\/50",
           "lap_content_width": "40\/60"
         }
+      },
+      "nv-pinot-noir-custom-section": {
+        "type": "nv-pinot-noir-custom-section",
+        "settings": {
+          "full": false,
+          "spacing_both_ends": false,
+          "padding": "0,0",
+          "margin": "0,0",
+          "show_background_image": false,
+          "background_style": "default",
+          "enable_overlay": false,
+          "background_color": "",
+          "overlay_transparency": "0.5",
+          "section_heading": "Custom section",
+          "section_sub_heading": "Sub Heading",
+          "section_description": "Use this text to share the information which you like!.",
+          "section_button_text": "",
+          "section_button_link": "",
+          "section_heading_color": "",
+          "section_sub_heading_color": "",
+          "section_description_color": "",
+          "section_button_bg_color": "",
+          "section_button_text_color": "",
+          "section_button_hover_bg_color": "",
+          "section_button_hover_text_color": "",
+          "heading_position": "text-center",
+          "column_gap": "30",
+          "border_radius": "",
+          "content_width": "50\/50",
+          "lap_content_width": "40\/60"
+        }
+      },
+      "nv-pinot-noir-custom-section-2": {
+        "type": "nv-pinot-noir-custom-section-2",
+        "blocks": {
+          "f39213b2-1c5c-4527-b7cb-f76195e7765a": {
+            "type": "content",
+            "settings": {
+              "block_heading": "",
+              "block_sub_heading": "",
+              "block_description": "",
+              "block_button_text": "",
+              "block_button_link": "",
+              "heading_position": "text-start",
+              "image_1_border_radius": "",
+              "image_2_border_radius": "",
+              "reverse_column": false,
+              "fullwidth_images": false,
+              "block_heading_color": "",
+              "block_sub_heading_color": "",
+              "block_description_color": "",
+              "block_button_bg_color": "",
+              "block_button_text_color": "",
+              "block_button_hover_bg_color": "",
+              "block_button_hover_text_color": ""
+            }
+          },
+          "90f4b8ec-e415-41c1-98a2-78e696196681": {
+            "type": "content",
+            "settings": {
+              "block_heading": "",
+              "block_sub_heading": "",
+              "block_description": "<b>AÑADA:<\/b> 2017<br> <b>ORIGEN:<\/b> Alto Cachapoal<br> <b>COMPOSICIÓN:<\/b> Pinot Noir 100%<br> <b>NOTA DE CATA:<\/b> Con notas de cereza negra, ciruela, frutos del bosque con un dejo herbal y mineral. Es un Pinot Noir elegante, fresco y con carácter mineral y expresión de varietal.<br> <b>MARIDAJE:<\/b> Pescados azules, patés, risotto de hongos, quesos suaves.<br><br> <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0774\/9140\/5107\/files\/Pinot-Noir-Vivendo-2017-ESP.Pdf?v=1689197353\" target=\"_blank\" style=\"color: #ffffff\">     Descargar Ficha Técnica Español<\/a> <br> <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0774\/9140\/5107\/files\/Pinot-Noir-Vivendo-2017-ENG.Pdf?v=1689197354\" target=\"_blank\" style=\" color: #ffffff\">     Descargar Ficha Técnica Inglés<\/a> <br><br>",
+              "block_button_text": "",
+              "block_button_link": "",
+              "heading_position": "text-start",
+              "image_1_border_radius": "",
+              "image_2_border_radius": "",
+              "reverse_column": false,
+              "fullwidth_images": false,
+              "block_heading_color": "",
+              "block_sub_heading_color": "",
+              "block_description_color": "",
+              "block_button_bg_color": "",
+              "block_button_text_color": "",
+              "block_button_hover_bg_color": "",
+              "block_button_hover_text_color": ""
+            }
+          }
+        },
+        "block_order": [
+          "f39213b2-1c5c-4527-b7cb-f76195e7765a",
+          "90f4b8ec-e415-41c1-98a2-78e696196681"
+        ],
+        "settings": {
+          "full": false,
+          "spacing_both_ends": false,
+          "padding": "0,0",
+          "margin": "0,0",
+          "show_background_image": false,
+          "background_style": "default",
+          "enable_overlay": false,
+          "background_color": "",
+          "overlay_transparency": "0.5",
+          "section_heading": "",
+          "section_sub_heading": "",
+          "section_description": "",
+          "section_button_text": "",
+          "section_button_link": "",
+          "section_heading_color": "",
+          "section_sub_heading_color": "",
+          "section_description_color": "",
+          "section_button_bg_color": "",
+          "section_button_text_color": "",
+          "section_button_hover_bg_color": "",
+          "section_button_hover_text_color": "",
+          "heading_position": "text-center",
+          "column_gap": "30",
+          "border_radius": "",
+          "content_width": "50\/50",
+          "lap_content_width": "40\/60"
+        }
       }
     },
     "content_for_index": [
