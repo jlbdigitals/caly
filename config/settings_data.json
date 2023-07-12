@@ -4477,6 +4477,56 @@
       },
       "nv-assemblage-custom-section": {
         "type": "nv-assemblage-custom-section",
+        "blocks": {
+          "67c18bd8-9880-4b21-89ab-22beb81e13ff": {
+            "type": "content",
+            "settings": {
+              "block_heading": "Main Heading",
+              "block_sub_heading": "Sub Heading",
+              "block_description": "Use this text to share the information which you like!.",
+              "block_button_text": "",
+              "block_button_link": "",
+              "heading_position": "text-start",
+              "image_1_border_radius": "",
+              "image_2_border_radius": "",
+              "reverse_column": false,
+              "fullwidth_images": false,
+              "block_heading_color": "",
+              "block_sub_heading_color": "",
+              "block_description_color": "",
+              "block_button_bg_color": "",
+              "block_button_text_color": "",
+              "block_button_hover_bg_color": "",
+              "block_button_hover_text_color": ""
+            }
+          },
+          "907c918d-f0aa-4587-aed3-9d482b595408": {
+            "type": "content",
+            "settings": {
+              "block_heading": "Main Heading",
+              "block_sub_heading": "Sub Heading",
+              "block_description": "Use this text to share the information which you like!.",
+              "block_button_text": "",
+              "block_button_link": "",
+              "heading_position": "text-start",
+              "image_1_border_radius": "",
+              "image_2_border_radius": "",
+              "reverse_column": false,
+              "fullwidth_images": false,
+              "block_heading_color": "",
+              "block_sub_heading_color": "",
+              "block_description_color": "",
+              "block_button_bg_color": "",
+              "block_button_text_color": "",
+              "block_button_hover_bg_color": "",
+              "block_button_hover_text_color": ""
+            }
+          }
+        },
+        "block_order": [
+          "67c18bd8-9880-4b21-89ab-22beb81e13ff",
+          "907c918d-f0aa-4587-aed3-9d482b595408"
+        ],
         "settings": {
           "full": false,
           "spacing_both_ends": false,
@@ -4487,9 +4537,9 @@
           "enable_overlay": false,
           "background_color": "",
           "overlay_transparency": "0.5",
-          "section_heading": "Custom section",
-          "section_sub_heading": "Sub Heading",
-          "section_description": "Use this text to share the information which you like!.",
+          "section_heading": "",
+          "section_sub_heading": "Assemblage",
+          "section_description": "",
           "section_button_text": "",
           "section_button_link": "",
           "section_heading_color": "",
