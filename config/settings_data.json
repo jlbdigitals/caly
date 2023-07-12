@@ -3435,7 +3435,7 @@
             "settings": {
               "block_heading": "Vivendo Reserva",
               "block_sub_heading": "<i>– Expresión natural<\/i>",
-              "block_description": "<br>La línea reserva Vivendo de Calyptra nos presenta vinos frescos, versátiles y frutados, sin crianza en barricas. Potencia e intensidad pura del aporte de nuestro terruño a los varietales, cultivados en el rigor del clima andino. <br><br> <a href=\"https:\/\/calyptra-dev.myshopify.com\/pages\/sauvignon-blanc-vivendo\">Sauvignon Blanc Vivendo<\/a><br> <a href=\"#\">Chardonnay Vivendo<\/a><br> <a href=\"#\">Pinot Noir Vivendo<\/a><br> <a href=\"#\">Rose Vivendo<\/a><br> <a href=\"#\">Assemblage Vivendos<\/a>",
+              "block_description": "<br>La línea reserva Vivendo de Calyptra nos presenta vinos frescos, versátiles y frutados, sin crianza en barricas. Potencia e intensidad pura del aporte de nuestro terruño a los varietales, cultivados en el rigor del clima andino. <br><br> <a href=\"https:\/\/calyptra-dev.myshopify.com\/pages\/sauvignon-blanc-vivendo\" style=\"color: #ffffff;\">Sauvignon Blanc Vivendo<\/a><br> <a href=\"#\" style=\"color: #ffffff;\">Chardonnay Vivendo<\/a><br> <a href=\"#\" style=\"color: #ffffff;\">Pinot Noir Vivendo<\/a><br> <a href=\"#\" style=\"color: #ffffff;\">Rose Vivendo<\/a><br> <a href=\"#\" style=\"color: #ffffff;\">Assemblage Vivendos<\/a>",
               "block_button_text": "",
               "block_button_link": "#",
               "heading_position": "text-start",
@@ -4037,7 +4037,7 @@
             "settings": {
               "block_heading": "",
               "block_sub_heading": "",
-              "block_description": "<b>AÑADA:<\/b> 2019<br> <b>ORIGEN:<\/b> Alto Cachapoal<br> <b>COMPOSICIÓN:<\/b> Sauvignon Blanc 100%<br> <b>NOTA DE CATA:<\/b> Con aromas a pera y manzana verde, frutas tropicales como piña y maracuyá, flores blancas y un toque cítrico dulce. Es un vino delicado, suave y con buena textura.<br> <b>MARIDAJE:<\/b> Platos frescos, mariscos y pescados crudos, ensaladas verdes.<br><br>  <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0774\/9140\/5107\/files\/SAUVIGNON-BLANC-VIVENDO-2019.pdf?v=1689114454\" target=\"_blank\">Descargar Ficha Técnica Español<\/a> <br> <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0774\/9140\/5107\/files\/Sauvignon-Blanc-Viviendo-2019-Actualizado-Ingles.pdf?v=1689114454\" target=\"_blank\">Descargar Ficha Técnica Inglés<\/a>  <br><br>",
+              "block_description": "<b>AÑADA:<\/b> 2019<br> <b>ORIGEN:<\/b> Alto Cachapoal<br> <b>COMPOSICIÓN:<\/b> Sauvignon Blanc 100%<br> <b>NOTA DE CATA:<\/b> Con aromas a pera y manzana verde, frutas tropicales como piña y maracuyá, flores blancas y un toque cítrico dulce. Es un vino delicado, suave y con buena textura.<br> <b>MARIDAJE:<\/b> Platos frescos, mariscos y pescados crudos, ensaladas verdes.<br><br>  <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0774\/9140\/5107\/files\/SAUVIGNON-BLANC-VIVENDO-2019.pdf?v=1689114454\" target=\"_blank\" style=\"color: #ffffff\">     Descargar Ficha Técnica Español<\/a> <br> <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0774\/9140\/5107\/files\/Sauvignon-Blanc-Viviendo-2019-Actualizado-Ingles.pdf?v=1689114454\" target=\"_blank\" style=\" color: #ffffff\">     Descargar Ficha Técnica Inglés<\/a>  <br><br>",
               "block_button_text": "Comprar",
               "block_button_link": "#",
               "heading_position": "text-start",
@@ -4049,8 +4049,8 @@
               "block_sub_heading_color": "",
               "block_description_color": "#ffffff",
               "block_button_bg_color": "",
-              "block_button_text_color": "",
-              "block_button_hover_bg_color": "",
+              "block_button_text_color": "#ffffff",
+              "block_button_hover_bg_color": "#8f1025",
               "block_button_hover_text_color": ""
             }
           }
