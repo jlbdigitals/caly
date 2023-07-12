@@ -4063,7 +4063,7 @@
           "full": false,
           "spacing_both_ends": false,
           "padding": "100,300",
-          "margin": "0,0",
+          "margin": "-30,-50",
           "show_background_image": false,
           "background_style": "default",
           "enable_overlay": true,
