@@ -3494,7 +3494,7 @@
             "settings": {
               "block_heading": "Petit Inédido",
               "block_sub_heading": "<i>– Excelente balance<\/i>",
-              "block_description": "<br>Petit Inedito, es la última etiqueta incorporada a nuestro portafolio, ofrece el carácter y potencia de nuestro ensamblaje premium, en balance con frescura y frutosidad, gracias a la crianza en barricas de roble francés y tanques de acero inoxidable. <br><br> <a href=\"#\">Petit Inédito<\/a><br>",
+              "block_description": "<br>Petit Inedito, es la última etiqueta incorporada a nuestro portafolio, ofrece el carácter y potencia de nuestro ensamblaje premium, en balance con frescura y frutosidad, gracias a la crianza en barricas de roble francés y tanques de acero inoxidable. <br><br> <a href=\"#\" style=\"color: #ffffff;\">Petit Inédito<\/a><br>",
               "block_button_text": "",
               "block_button_link": "",
               "heading_position": "text-end",
@@ -3656,7 +3656,7 @@
             "settings": {
               "block_heading": "Gran Reserva",
               "block_sub_heading": "<i> – Singularidad en cada entrega<\/i>",
-              "block_description": "<br>​La línea Gran Reserva de Calyptra nos ofrece vinos complejos, de gran volumen, carácter y cremosidad. La potencia de nuestra uva, la influencia de su año de elaboración y su crianza en barricas dan origen a vinos irrepetibles entre una añada y la otra.<br><br> <a href=\"#\">Sauvignon Blanc Gran Reserva<\/a><br> <a href=\"#\">Chardonnay Gran Reserva<\/a><br> <a href=\"\">Pinot Noir Gran Reserva<\/a><br> <a href=\"\">Cabernet Sauvignon Gran Reserva<\/a><br> <a href=\"\">Assemblage Gran Reserva<\/a>",
+              "block_description": "<br>​La línea Gran Reserva de Calyptra nos ofrece vinos complejos, de gran volumen, carácter y cremosidad. La potencia de nuestra uva, la influencia de su año de elaboración y su crianza en barricas dan origen a vinos irrepetibles entre una añada y la otra.<br><br> <a href=\"#\" style=\"color: #ffffff;\">Sauvignon Blanc Gran Reserva<\/a><br> <a href=\"#\" style=\"color: #ffffff;\">Chardonnay Gran Reserva<\/a><br> <a href=\"#\" style=\"color: #ffffff;\">Pinot Noir Gran Reserva<\/a><br> <a href=\"#\" style=\"color: #ffffff;\">Cabernet Sauvignon Gran Reserva<\/a><br> <a href=\"#\" style=\"color: #ffffff;\">Assemblage Gran Reserva<\/a>",
               "block_button_text": "",
               "block_button_link": "",
               "heading_position": "text-start",
@@ -3715,7 +3715,7 @@
             "settings": {
               "block_heading": "Ícono y Premium",
               "block_sub_heading": "<i>– Calyptra en su máxima expresión.<\/i>",
-              "block_description": "<br>Nuestros vinos Ícono y Premium representan lo mejor de la producción limitada de Calyptra. Elaborados a partir de uvas seleccionadas con rendimiento bajo y hechos a base del mejor Cabernet Sauvignon de nuestros viñedos orgánicos, las líneas Icono y Premium son representantes de nuestro excelente terroir. Vinos de carácter, únicos y con gran potencial de guarda.<br><br> <a href=\"#\">Inédito<\/a><br> <a href=\"#\">ZAHIR<\/a>",
+              "block_description": "<br>Nuestros vinos Ícono y Premium representan lo mejor de la producción limitada de Calyptra. Elaborados a partir de uvas seleccionadas con rendimiento bajo y hechos a base del mejor Cabernet Sauvignon de nuestros viñedos orgánicos, las líneas Icono y Premium son representantes de nuestro excelente terroir. Vinos de carácter, únicos y con gran potencial de guarda.<br><br> <a href=\"#\" style=\"color: #ffffff;\">Inédito<\/a><br> <a href=\"#\" style=\"color: #ffffff;\">ZAHIR<\/a>",
               "block_button_text": "",
               "block_button_link": "",
               "heading_position": "text-end",
@@ -3818,7 +3818,7 @@
             "settings": {
               "block_heading": "Dulces y Espumosos",
               "block_sub_heading": "<i>– La elegancia de los aromas frutales<\/i>",
-              "block_description": "<br>Para amantes de espumosos elegantes, presentamos nuestra Hera Blanc de Blanc método tradicional 100% elaborado de uva Chardonnay. Vinos dulces están representados por Solvita Late Harvest de Sauvignon Blanc 100% botritizado y fortificado FORT obtenido por co-fermentación de Cabernet Sauvignon, Syrah y Merlot y con una crianza en barricas durante 60 meses.<br><br> <a href=\"#\">Hera<\/a><br> <a href=\"#\">Fort<\/a><br> <a href=\"#\">SolVita<\/a>",
+              "block_description": "<br>Para amantes de espumosos elegantes, presentamos nuestra Hera Blanc de Blanc método tradicional 100% elaborado de uva Chardonnay. Vinos dulces están representados por Solvita Late Harvest de Sauvignon Blanc 100% botritizado y fortificado FORT obtenido por co-fermentación de Cabernet Sauvignon, Syrah y Merlot y con una crianza en barricas durante 60 meses.<br><br> <a href=\"#\" style=\"color: #ffffff;\">Hera<\/a><br> <a href=\"#\" style=\"color: #ffffff;\">Fort<\/a><br> <a href=\"#\" style=\"color: #ffffff;\">SolVita<\/a>",
               "block_button_text": "",
               "block_button_link": "",
               "heading_position": "text-start",
