@@ -4094,9 +4094,9 @@
           "d79a3c66-738b-4520-8c00-1b47fe18d275": {
             "type": "content",
             "settings": {
-              "block_heading": "Main Heading",
-              "block_sub_heading": "Sub Heading",
-              "block_description": "Use this text to share the information which you like!.",
+              "block_heading": "",
+              "block_sub_heading": "",
+              "block_description": "",
               "block_button_text": "",
               "block_button_link": "",
               "heading_position": "text-start",
@@ -4116,9 +4116,9 @@
           "045c0218-1a6c-4d98-93e5-bf46d7d0a8a8": {
             "type": "content",
             "settings": {
-              "block_heading": "Main Heading",
-              "block_sub_heading": "Sub Heading",
-              "block_description": "Use this text to share the information which you like!.",
+              "block_heading": "",
+              "block_sub_heading": "",
+              "block_description": "",
               "block_button_text": "",
               "block_button_link": "",
               "heading_position": "text-start",
@@ -4151,9 +4151,9 @@
           "enable_overlay": false,
           "background_color": "",
           "overlay_transparency": "0.5",
-          "section_heading": "Custom section",
-          "section_sub_heading": "Sub Heading",
-          "section_description": "Use this text to share the information which you like!.",
+          "section_heading": "",
+          "section_sub_heading": "Vivendo<br>Chardonnay",
+          "section_description": "",
           "section_button_text": "",
           "section_button_link": "",
           "section_heading_color": "",
