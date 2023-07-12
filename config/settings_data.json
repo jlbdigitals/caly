@@ -4481,9 +4481,9 @@
           "67c18bd8-9880-4b21-89ab-22beb81e13ff": {
             "type": "content",
             "settings": {
-              "block_heading": "Main Heading",
-              "block_sub_heading": "Sub Heading",
-              "block_description": "Use this text to share the information which you like!.",
+              "block_heading": "",
+              "block_sub_heading": "",
+              "block_description": "",
               "block_button_text": "",
               "block_button_link": "",
               "heading_position": "text-start",
@@ -4503,9 +4503,9 @@
           "907c918d-f0aa-4587-aed3-9d482b595408": {
             "type": "content",
             "settings": {
-              "block_heading": "Main Heading",
-              "block_sub_heading": "Sub Heading",
-              "block_description": "Use this text to share the information which you like!.",
+              "block_heading": "",
+              "block_sub_heading": "",
+              "block_description": "",
               "block_button_text": "",
               "block_button_link": "",
               "heading_position": "text-start",
