@@ -4172,6 +4172,56 @@
       },
       "nv-chardonnay-custom-section-2": {
         "type": "nv-chardonnay-custom-section-2",
+        "blocks": {
+          "210754ba-d1f1-47e5-858c-0b32df25d193": {
+            "type": "content",
+            "settings": {
+              "block_heading": "",
+              "block_sub_heading": "",
+              "block_description": "",
+              "block_button_text": "",
+              "block_button_link": "",
+              "heading_position": "text-start",
+              "image_1_border_radius": "",
+              "image_2_border_radius": "",
+              "reverse_column": false,
+              "fullwidth_images": false,
+              "block_heading_color": "",
+              "block_sub_heading_color": "",
+              "block_description_color": "",
+              "block_button_bg_color": "",
+              "block_button_text_color": "",
+              "block_button_hover_bg_color": "",
+              "block_button_hover_text_color": ""
+            }
+          },
+          "d48b6048-6253-4bad-aa86-88b9cb7780fd": {
+            "type": "content",
+            "settings": {
+              "block_heading": "Main Heading",
+              "block_sub_heading": "Sub Heading",
+              "block_description": "Use this text to share the information which you like!.",
+              "block_button_text": "",
+              "block_button_link": "",
+              "heading_position": "text-start",
+              "image_1_border_radius": "",
+              "image_2_border_radius": "",
+              "reverse_column": false,
+              "fullwidth_images": false,
+              "block_heading_color": "",
+              "block_sub_heading_color": "",
+              "block_description_color": "",
+              "block_button_bg_color": "",
+              "block_button_text_color": "",
+              "block_button_hover_bg_color": "",
+              "block_button_hover_text_color": ""
+            }
+          }
+        },
+        "block_order": [
+          "210754ba-d1f1-47e5-858c-0b32df25d193",
+          "d48b6048-6253-4bad-aa86-88b9cb7780fd"
+        ],
         "settings": {
           "full": false,
           "spacing_both_ends": false,
