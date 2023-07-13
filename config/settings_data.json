@@ -4253,6 +4253,56 @@
       },
       "nv-pinot-noir-custom-section": {
         "type": "nv-pinot-noir-custom-section",
+        "blocks": {
+          "4635335a-bd33-409d-9346-cb1427e1b173": {
+            "type": "content",
+            "settings": {
+              "block_heading": "",
+              "block_sub_heading": "",
+              "block_description": "",
+              "block_button_text": "",
+              "block_button_link": "",
+              "heading_position": "text-start",
+              "image_1_border_radius": "",
+              "image_2_border_radius": "",
+              "reverse_column": false,
+              "fullwidth_images": false,
+              "block_heading_color": "",
+              "block_sub_heading_color": "",
+              "block_description_color": "",
+              "block_button_bg_color": "",
+              "block_button_text_color": "",
+              "block_button_hover_bg_color": "",
+              "block_button_hover_text_color": ""
+            }
+          },
+          "7eca72bb-3d88-467c-9873-2af84e0b1164": {
+            "type": "content",
+            "settings": {
+              "block_heading": "",
+              "block_sub_heading": "",
+              "block_description": "",
+              "block_button_text": "",
+              "block_button_link": "",
+              "heading_position": "text-start",
+              "image_1_border_radius": "",
+              "image_2_border_radius": "",
+              "reverse_column": false,
+              "fullwidth_images": false,
+              "block_heading_color": "",
+              "block_sub_heading_color": "",
+              "block_description_color": "",
+              "block_button_bg_color": "",
+              "block_button_text_color": "",
+              "block_button_hover_bg_color": "",
+              "block_button_hover_text_color": ""
+            }
+          }
+        },
+        "block_order": [
+          "4635335a-bd33-409d-9346-cb1427e1b173",
+          "7eca72bb-3d88-467c-9873-2af84e0b1164"
+        ],
         "settings": {
           "full": false,
           "spacing_both_ends": false,
