@@ -3494,7 +3494,7 @@
             "settings": {
               "block_heading": "Petit Inédido",
               "block_sub_heading": "<i>– Excelente balance<\/i>",
-              "block_description": "<br>Petit Inedito, es la última etiqueta incorporada a nuestro portafolio, ofrece el carácter y potencia de nuestro ensamblaje premium, en balance con frescura y frutosidad, gracias a la crianza en barricas de roble francés y tanques de acero inoxidable. <br><br> <a href=\"https:\/\/calyptra-dev.myshopify.com\/pages\/petit-inedido\" style=\"color: #ffffff;\">Petit Inédito<\/a><br>",
+              "block_description": "<br>Petit Inedito, es la última etiqueta incorporada a nuestro portafolio, ofrece el carácter y potencia de nuestro ensamblaje premium, en balance con frescura y frutosidad, gracias a la crianza en barricas de roble francés y tanques de acero inoxidable. <br><br> <a href=\"https:\/\/calyptra-dev.myshopify.com\/pages\/inedito\" style=\"color: #ffffff;\">Petit Inédito<\/a><br>",
               "block_button_text": "",
               "block_button_link": "",
               "heading_position": "text-end",
@@ -3989,7 +3989,7 @@
           "background_color": "#000000",
           "overlay_transparency": "0.3",
           "section_heading": "",
-          "section_sub_heading": "PETIT INÉDITO",
+          "section_sub_heading": "PETIT INÉDITO<br>",
           "section_description": "",
           "section_button_text": "",
           "section_button_link": "",
