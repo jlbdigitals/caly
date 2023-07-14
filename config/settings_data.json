@@ -3458,7 +3458,7 @@
           "eaacf582-1dec-43f5-bd56-22a8b5a481d8"
         ],
         "settings": {
-          "full": true,
+          "full": false,
           "spacing_both_ends": true,
           "padding": "80,120",
           "margin": "0,0",
