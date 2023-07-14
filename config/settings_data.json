@@ -3844,7 +3844,7 @@
           "full": false,
           "spacing_both_ends": false,
           "padding": "50,100",
-          "margin": "0,0",
+          "margin": "0,-30",
           "show_background_image": false,
           "background_style": "default",
           "enable_overlay": true,
