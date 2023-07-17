@@ -5453,19 +5453,69 @@
       },
       "nv-cabernet-sauvignon-gran-reserva-custom-sectionx": {
         "type": "nv-cabernet-sauvignon-gran-reserva-custom-sectionx",
+        "blocks": {
+          "d2a3298f-f886-4891-b439-f09781044058": {
+            "type": "content",
+            "settings": {
+              "block_heading": "",
+              "block_sub_heading": "",
+              "block_description": "",
+              "block_button_text": "",
+              "block_button_link": "",
+              "heading_position": "text-start",
+              "image_1_border_radius": "",
+              "image_2_border_radius": "",
+              "reverse_column": false,
+              "fullwidth_images": false,
+              "block_heading_color": "",
+              "block_sub_heading_color": "",
+              "block_description_color": "",
+              "block_button_bg_color": "",
+              "block_button_text_color": "",
+              "block_button_hover_bg_color": "",
+              "block_button_hover_text_color": ""
+            }
+          },
+          "ce4b6e72-cdbb-4148-8181-c249ff7306d4": {
+            "type": "content",
+            "settings": {
+              "block_heading": "",
+              "block_sub_heading": "",
+              "block_description": "<b>AÑADA:<\/b> 2016<br> <b>ORIGEN:<\/b> Alto Cachapoal<br> <b>COMPOSICIÓN:<\/b> Cabernet Sauvignon 100%<br> <b>PRODUCCIÓN 2016:<\/b> 6.500 botellas<br> <b>NOTA DE CATA:<\/b> Un vino jugoso con textura aterciopelada y aromas a grosella negra, arándano, pimienta negra, con un toque mentolado muy suave y sutil.<br> <b>MARIDAJE:<\/b> Carnes rojas, pastas rellenas, guisos.<br><br> <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0774\/9140\/5107\/files\/Cabernet-Sauvignon-Gran-Reserva-2016-ESP.Pdf?v=1689626706\" target=\"_blank\" style=\"color: #ffffff\">     Descargar Ficha Técnica Español<\/a> <br> <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0774\/9140\/5107\/files\/Cabernet-Sauvignon-Gran-Reserva-2016-ENG.Pdf?v=1689626706\" target=\"_blank\" style=\" color: #ffffff\">     Descargar Ficha Técnica Inglés<\/a> <br><br>",
+              "block_button_text": "Comprar",
+              "block_button_link": "#",
+              "heading_position": "text-start",
+              "image_1_border_radius": "",
+              "image_2_border_radius": "",
+              "reverse_column": false,
+              "fullwidth_images": false,
+              "block_heading_color": "",
+              "block_sub_heading_color": "",
+              "block_description_color": "#ffffff",
+              "block_button_bg_color": "",
+              "block_button_text_color": "",
+              "block_button_hover_bg_color": "",
+              "block_button_hover_text_color": ""
+            }
+          }
+        },
+        "block_order": [
+          "d2a3298f-f886-4891-b439-f09781044058",
+          "ce4b6e72-cdbb-4148-8181-c249ff7306d4"
+        ],
         "settings": {
           "full": false,
           "spacing_both_ends": false,
-          "padding": "0,0",
-          "margin": "0,0",
+          "padding": "100,200",
+          "margin": "-30,-50",
           "show_background_image": false,
           "background_style": "default",
           "enable_overlay": false,
           "background_color": "",
           "overlay_transparency": "0.5",
-          "section_heading": "Custom section",
-          "section_sub_heading": "Sub Heading",
-          "section_description": "Use this text to share the information which you like!.",
+          "section_heading": "",
+          "section_sub_heading": "",
+          "section_description": "",
           "section_button_text": "",
           "section_button_link": "",
           "section_heading_color": "",
@@ -5478,7 +5528,7 @@
           "heading_position": "text-center",
           "column_gap": "30",
           "border_radius": "",
-          "content_width": "50\/50",
+          "content_width": "40\/60",
           "lap_content_width": "40\/60"
         }
       }
