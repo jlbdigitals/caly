@@ -4987,19 +4987,69 @@
       },
       "nv-sauvignon-blanc-gran-reserva-custom-section-2": {
         "type": "nv-sauvignon-blanc-gran-reserva-custom-section-2",
+        "blocks": {
+          "b03bfa64-87c6-4846-9bc9-be9d6e2a8b1b": {
+            "type": "content",
+            "settings": {
+              "block_heading": "",
+              "block_sub_heading": "",
+              "block_description": "",
+              "block_button_text": "",
+              "block_button_link": "",
+              "heading_position": "text-start",
+              "image_1_border_radius": "",
+              "image_2_border_radius": "",
+              "reverse_column": false,
+              "fullwidth_images": false,
+              "block_heading_color": "",
+              "block_sub_heading_color": "",
+              "block_description_color": "",
+              "block_button_bg_color": "",
+              "block_button_text_color": "",
+              "block_button_hover_bg_color": "",
+              "block_button_hover_text_color": ""
+            }
+          },
+          "1048c748-c5ce-4dc7-a6c7-6098e50855d0": {
+            "type": "content",
+            "settings": {
+              "block_heading": "",
+              "block_sub_heading": "",
+              "block_description": "<b>AÑADA:<\/b> 2017<br> <b>ORIGEN:<\/b> Alto Cachapoal<br> <b>COMPOSICIÓN:<\/b> Sauvignon Blanc 100%<br> <b>PRODUCCIÓN 2017:<\/b> 6.500 botellas<br> <b>NOTA DE CATA:<\/b> Es un Sauvignon Blanc muy atractivo y diferente, con acidez vibrante, notas a fruta tropical fresca, flores blancas y con una maravillosa textura cremosa<br> <b>MARIDAJE:<\/b> Ostras, pasta Alfredo con camarones, queso brie<br><br> <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0774\/9140\/5107\/files\/Sauvignon-Blanc-Gran-Reserva-2016-ESP.Pdf?v=1689266880\" target=\"_blank\" style=\"color: #ffffff\">     Descargar Ficha Técnica Español<\/a> <br> <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0774\/9140\/5107\/files\/Sauvignon-Blanc-Gran-Reserva-2016-ENG.Pdf?v=1689266879\" target=\"_blank\" style=\" color: #ffffff\">     Descargar Ficha Técnica Inglés<\/a> <br><br>",
+              "block_button_text": "Comprar",
+              "block_button_link": "#",
+              "heading_position": "text-start",
+              "image_1_border_radius": "",
+              "image_2_border_radius": "",
+              "reverse_column": false,
+              "fullwidth_images": false,
+              "block_heading_color": "",
+              "block_sub_heading_color": "",
+              "block_description_color": "#ffffff",
+              "block_button_bg_color": "",
+              "block_button_text_color": "",
+              "block_button_hover_bg_color": "",
+              "block_button_hover_text_color": ""
+            }
+          }
+        },
+        "block_order": [
+          "b03bfa64-87c6-4846-9bc9-be9d6e2a8b1b",
+          "1048c748-c5ce-4dc7-a6c7-6098e50855d0"
+        ],
         "settings": {
           "full": false,
           "spacing_both_ends": false,
-          "padding": "0,0",
-          "margin": "0,0",
+          "padding": "100,200",
+          "margin": "-30,-50",
           "show_background_image": false,
           "background_style": "default",
           "enable_overlay": false,
           "background_color": "",
           "overlay_transparency": "0.5",
-          "section_heading": "Custom section",
-          "section_sub_heading": "Sub Heading",
-          "section_description": "Use this text to share the information which you like!.",
+          "section_heading": "",
+          "section_sub_heading": "",
+          "section_description": "",
           "section_button_text": "",
           "section_button_link": "",
           "section_heading_color": "",
@@ -5012,7 +5062,7 @@
           "heading_position": "text-center",
           "column_gap": "30",
           "border_radius": "",
-          "content_width": "50\/50",
+          "content_width": "40\/60",
           "lap_content_width": "40\/60"
         }
       }
