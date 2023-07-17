@@ -5178,7 +5178,7 @@
             "settings": {
               "block_heading": "",
               "block_sub_heading": "",
-              "block_description": "<b>AÑADA:<\/b> 2018<br> <b>ORIGEN:<\/b> Alto Cachapoal<br> <b>COMPOSICIÓN:<\/b> Chardonnay 100%<br> <b>PRODUCCIÓN 2018:<\/b> 5.950 botellas<br> <b>NOTA DE CATA:<\/b> Es un Chardonnay con mucho volumen, buena acidez y con una textura suave y cremosa. Es potente pero sedoso y muy elegante.<br> <b>MARIDAJE:<\/b> <br><br> <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0774\/9140\/5107\/files\/Chardonnay-Gran-Reserva-2017-ESP.Pdf?v=1689620928\" target=\"_blank\" style=\"color: #ffffff\">     Descargar Ficha Técnica Español<\/a> <br> <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0774\/9140\/5107\/files\/Chardonnay-Gran-Reserva-2017-ENG.Pdf?v=1689620928\" target=\"_blank\" style=\" color: #ffffff\">     Descargar Ficha Técnica Inglés<\/a> <br><br>",
+              "block_description": "<b>AÑADA:<\/b> 2018<br> <b>ORIGEN:<\/b> Alto Cachapoal<br> <b>COMPOSICIÓN:<\/b> Chardonnay 100%<br> <b>PRODUCCIÓN 2018:<\/b> 5.950 botellas<br> <b>NOTA DE CATA:<\/b> Es un Chardonnay con mucho volumen, buena acidez y con una textura suave y cremosa. Es potente pero sedoso y muy elegante.<br> <b>MARIDAJE:<\/b> Mariscos “a la parmesana”, pescado blanco, pollo al curry, quesos Camembert<br><br> <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0774\/9140\/5107\/files\/Chardonnay-Gran-Reserva-2017-ESP.Pdf?v=1689620928\" target=\"_blank\" style=\"color: #ffffff\">     Descargar Ficha Técnica Español<\/a> <br> <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0774\/9140\/5107\/files\/Chardonnay-Gran-Reserva-2017-ENG.Pdf?v=1689620928\" target=\"_blank\" style=\" color: #ffffff\">     Descargar Ficha Técnica Inglés<\/a> <br><br>",
               "block_button_text": "Comprar",
               "block_button_link": "#",
               "heading_position": "text-start",
@@ -5313,19 +5313,69 @@
       },
       "nv-pinot-noir-gran-reserva-custom-section-2": {
         "type": "nv-pinot-noir-gran-reserva-custom-section-2",
+        "blocks": {
+          "893c5e5e-f531-4427-840c-cb9bf9de45ee": {
+            "type": "content",
+            "settings": {
+              "block_heading": "",
+              "block_sub_heading": "",
+              "block_description": "",
+              "block_button_text": "",
+              "block_button_link": "",
+              "heading_position": "text-start",
+              "image_1_border_radius": "",
+              "image_2_border_radius": "",
+              "reverse_column": false,
+              "fullwidth_images": false,
+              "block_heading_color": "",
+              "block_sub_heading_color": "",
+              "block_description_color": "",
+              "block_button_bg_color": "",
+              "block_button_text_color": "",
+              "block_button_hover_bg_color": "",
+              "block_button_hover_text_color": ""
+            }
+          },
+          "0f2466bf-29ec-4160-85d5-19b1147fcd83": {
+            "type": "content",
+            "settings": {
+              "block_heading": "",
+              "block_sub_heading": "",
+              "block_description": "<b>AÑADA:<\/b> 2018<br> <b>ORIGEN:<\/b>Alto Cachapoal<br> <b>COMPOSICIÓN:<\/b> Pinot Noir 100%<br> <b>PRODUCCIÓN 2018:<\/b> 5.800 botellas<br> <b>NOTA DE CATA:<\/b> Es Pinot Noir serio, estructurado y elegante, con aromas a frutas frescas, dejo mineral con toques de grafito y hierbas aromáticas.<br> <b>MARIDAJE:<\/b> Atún, pulpo a la parilla, risotto de setas, carnes magras. <br><br> <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0774\/9140\/5107\/files\/pinot-noir-gran-reserva.pdf?v=1689625951\" target=\"_blank\" style=\"color: #ffffff\">     Descargar Ficha Técnica Español<\/a> <br> <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0774\/9140\/5107\/files\/Pinot-Noir-Gran-Reserva-2017-ENG.Pdf?v=1689625952\" target=\"_blank\" style=\" color: #ffffff\">     Descargar Ficha Técnica Inglés<\/a> <br><br>",
+              "block_button_text": "Comprar",
+              "block_button_link": "#",
+              "heading_position": "text-start",
+              "image_1_border_radius": "",
+              "image_2_border_radius": "",
+              "reverse_column": false,
+              "fullwidth_images": false,
+              "block_heading_color": "",
+              "block_sub_heading_color": "",
+              "block_description_color": "#ffffff",
+              "block_button_bg_color": "",
+              "block_button_text_color": "",
+              "block_button_hover_bg_color": "",
+              "block_button_hover_text_color": ""
+            }
+          }
+        },
+        "block_order": [
+          "893c5e5e-f531-4427-840c-cb9bf9de45ee",
+          "0f2466bf-29ec-4160-85d5-19b1147fcd83"
+        ],
         "settings": {
           "full": false,
           "spacing_both_ends": false,
-          "padding": "0,0",
-          "margin": "0,0",
+          "padding": "100,200",
+          "margin": "-30,-50",
           "show_background_image": false,
           "background_style": "default",
           "enable_overlay": false,
           "background_color": "",
           "overlay_transparency": "0.5",
-          "section_heading": "Custom section",
-          "section_sub_heading": "Sub Heading",
-          "section_description": "Use this text to share the information which you like!.",
+          "section_heading": "",
+          "section_sub_heading": "",
+          "section_description": "",
           "section_button_text": "",
           "section_button_link": "",
           "section_heading_color": "",
