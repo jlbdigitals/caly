@@ -17,7 +17,7 @@
 {% endif %} 
 {%- assign current_variant = product.selected_or_first_available_variant -%}
 {%- assign featured_image = current_variant.featured_image | default: product.featured_image -%}
-kokokokokok
+
 {% assign img_size='grande' %}
 <li class="{% if sold_out %} sold-out{% endif %}{% if on_sale %} on-sale{% endif %}" 
     id="product-{{ product.id }}" {% if section.settings.collection_infinite_scrolling %}
@@ -27,7 +27,10 @@ kokokokokok
     id="product-{{ product.id }}">
 
   <div class="products">
-    <div class="product-container">      
+    <div class="product-container">   
+
+    dededededede
+    dededee   
       <a href="{{ product.url | within: collection }}" class="grid-link">                   
         <div class="ImageOverlayCa"></div>
         <img src="{{ product.featured_image.src | img_url: img_size }}" class="featured-image" alt="{{ product.featured_image.alt | escape }}">
