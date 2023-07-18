@@ -231,12 +231,30 @@
             "collection": "",
             "limit": 1
           }
+        },
+        "c2b81209-45e3-4cf7-b7f1-fe33e88c4f15": {
+          "type": "image",
+          "settings": {
+            "title": "Heading",
+            "link_text": "Shop Now",
+            "link": ""
+          }
+        },
+        "f418093f-8ee6-4eac-91e7-327f3899ea06": {
+          "type": "collection",
+          "settings": {
+            "title": "",
+            "collection": "",
+            "limit": 2
+          }
         }
       },
       "block_order": [
         "13774c76-41f2-4be4-9f86-d042e71f8e06",
         "c46d821f-34df-4d7e-afed-7f3cfe4f37c4",
-        "b8b9fac8-f331-4738-a7e9-29aa5671dffe"
+        "b8b9fac8-f331-4738-a7e9-29aa5671dffe",
+        "c2b81209-45e3-4cf7-b7f1-fe33e88c4f15",
+        "f418093f-8ee6-4eac-91e7-327f3899ea06"
       ],
       "settings": {
         "hide_breadcrumb": false,
