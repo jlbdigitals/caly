@@ -3818,7 +3818,7 @@
             "settings": {
               "block_heading": "Dulces y Espumosos",
               "block_sub_heading": "<i>– La elegancia de los aromas frutales<\/i>",
-              "block_description": "<br>Para amantes de espumosos elegantes, presentamos nuestra Hera Blanc de Blanc método tradicional 100% elaborado de uva Chardonnay. Vinos dulces están representados por Solvita Late Harvest de Sauvignon Blanc 100% botritizado y fortificado FORT obtenido por co-fermentación de Cabernet Sauvignon, Syrah y Merlot y con una crianza en barricas durante 60 meses.<br><br> <a href=\"#\" style=\"color: #ffffff;\">Hera<\/a><br> <a href=\"#\" style=\"color: #ffffff;\">Fort<\/a><br> <a href=\"#\" style=\"color: #ffffff;\">SolVita<\/a>",
+              "block_description": "<br>Para amantes de espumosos elegantes, presentamos nuestra Hera Blanc de Blanc método tradicional 100% elaborado de uva Chardonnay. Vinos dulces están representados por Solvita Late Harvest de Sauvignon Blanc 100% botritizado y fortificado FORT obtenido por co-fermentación de Cabernet Sauvignon, Syrah y Merlot y con una crianza en barricas durante 60 meses.<br><br> <a href=\"https:\/\/calyptra-dev.myshopify.com\/pages\/hera\" style=\"color: #ffffff;\">Hera<\/a><br> <a href=\"https:\/\/calyptra-dev.myshopify.com\/pages\/fort\" style=\"color: #ffffff;\">Fort<\/a><br> <a href=\"https:\/\/calyptra-dev.myshopify.com\/pages\/solvita\" style=\"color: #ffffff;\">SolVita<\/a>",
               "block_button_text": "",
               "block_button_link": "",
               "heading_position": "text-start",
@@ -5996,6 +5996,169 @@
           "full": false,
           "spacing_both_ends": false,
           "padding": "100,200",
+          "margin": "-30,-50",
+          "show_background_image": false,
+          "background_style": "default",
+          "enable_overlay": false,
+          "background_color": "",
+          "overlay_transparency": "0.5",
+          "section_heading": "",
+          "section_sub_heading": "",
+          "section_description": "",
+          "section_button_text": "",
+          "section_button_link": "",
+          "section_heading_color": "",
+          "section_sub_heading_color": "",
+          "section_description_color": "",
+          "section_button_bg_color": "",
+          "section_button_text_color": "",
+          "section_button_hover_bg_color": "",
+          "section_button_hover_text_color": "",
+          "heading_position": "text-center",
+          "column_gap": "30",
+          "border_radius": "",
+          "content_width": "50\/50",
+          "lap_content_width": "40\/60"
+        }
+      },
+      "nv-hera-custom-section": {
+        "type": "nv-hera-custom-section",
+        "blocks": {
+          "d5beaa6c-0d2e-45cb-990e-c00bef7afbe7": {
+            "type": "content",
+            "settings": {
+              "block_heading": "",
+              "block_sub_heading": "",
+              "block_description": "",
+              "block_button_text": "",
+              "block_button_link": "",
+              "heading_position": "text-start",
+              "image_1_border_radius": "",
+              "image_2_border_radius": "",
+              "reverse_column": false,
+              "fullwidth_images": false,
+              "block_heading_color": "",
+              "block_sub_heading_color": "",
+              "block_description_color": "",
+              "block_button_bg_color": "",
+              "block_button_text_color": "",
+              "block_button_hover_bg_color": "",
+              "block_button_hover_text_color": ""
+            }
+          },
+          "906ed479-3025-4294-b0c4-0e506e353b54": {
+            "type": "content",
+            "settings": {
+              "block_heading": "",
+              "block_sub_heading": "",
+              "block_description": "",
+              "block_button_text": "",
+              "block_button_link": "",
+              "heading_position": "text-start",
+              "image_1_border_radius": "",
+              "image_2_border_radius": "",
+              "reverse_column": false,
+              "fullwidth_images": false,
+              "block_heading_color": "",
+              "block_sub_heading_color": "",
+              "block_description_color": "",
+              "block_button_bg_color": "",
+              "block_button_text_color": "",
+              "block_button_hover_bg_color": "",
+              "block_button_hover_text_color": ""
+            }
+          }
+        },
+        "block_order": [
+          "d5beaa6c-0d2e-45cb-990e-c00bef7afbe7",
+          "906ed479-3025-4294-b0c4-0e506e353b54"
+        ],
+        "settings": {
+          "full": false,
+          "spacing_both_ends": false,
+          "padding": "120,100",
+          "margin": "0,0",
+          "show_background_image": true,
+          "background_image": "shopify:\/\/shop_images\/G_L3232.jpg",
+          "background_style": "default",
+          "enable_overlay": true,
+          "background_color": "#000000",
+          "overlay_transparency": "0.3",
+          "section_heading": "",
+          "section_sub_heading": "HERA",
+          "section_description": "",
+          "section_button_text": "",
+          "section_button_link": "",
+          "section_heading_color": "",
+          "section_sub_heading_color": "#ffffff",
+          "section_description_color": "",
+          "section_button_bg_color": "",
+          "section_button_text_color": "",
+          "section_button_hover_bg_color": "",
+          "section_button_hover_text_color": "",
+          "heading_position": "text-center",
+          "column_gap": "30",
+          "border_radius": "",
+          "content_width": "50\/50",
+          "lap_content_width": "40\/60"
+        }
+      },
+      "nv-hera-custom-section-2": {
+        "type": "nv-hera-custom-section-2",
+        "blocks": {
+          "4ea25d2f-1424-4d53-944a-7fb44e86aefa": {
+            "type": "content",
+            "settings": {
+              "block_heading": "",
+              "block_sub_heading": "",
+              "block_description": "",
+              "block_button_text": "",
+              "block_button_link": "",
+              "heading_position": "text-start",
+              "image_1_border_radius": "",
+              "image_2_border_radius": "",
+              "reverse_column": false,
+              "fullwidth_images": false,
+              "block_heading_color": "",
+              "block_sub_heading_color": "",
+              "block_description_color": "",
+              "block_button_bg_color": "",
+              "block_button_text_color": "",
+              "block_button_hover_bg_color": "",
+              "block_button_hover_text_color": ""
+            }
+          },
+          "f5826717-4a5b-451b-a6b6-2c95dbc08c00": {
+            "type": "content",
+            "settings": {
+              "block_heading": "",
+              "block_sub_heading": "",
+              "block_description": "<b>AÑADA:<\/b> 2013<br> <b>ORIGEN:<\/b> Alto Cachapoal<br> <b>COMPOSICIÓN:<\/b> Blanc de Blancs, Chardonnay 100%, Extra Brut<br> <b>PRODUCCIÓN 2013:<\/b> 1.900 botellas<br> <b>NOTA DE CATA:<\/b> Espumoso muy delicado hecho con 100% uva Chardonnay con método traditionnelle, tiene guarda de casi 6 años sobre lías. Se destacan aromas a manzana horneada, tilo, peras amarillas y pan brioche.<br> <b>MARIDAJE:<\/b> <br><br> <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0774\/9140\/5107\/files\/Hera-2013-ESP.Pdf?v=1689693782\" target=\"_blank\" style=\"color: #ffffff\">     Descargar Ficha Técnica Español<\/a> <br> <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0774\/9140\/5107\/files\/Hera-2013-ENG.Pdf?v=1689693782\" target=\"_blank\" style=\" color: #ffffff\">     Descargar Ficha Técnica Inglés<\/a> <br><br>",
+              "block_button_text": "Comprar",
+              "block_button_link": "#",
+              "heading_position": "text-start",
+              "image_1_border_radius": "",
+              "image_2_border_radius": "",
+              "reverse_column": false,
+              "fullwidth_images": false,
+              "block_heading_color": "",
+              "block_sub_heading_color": "",
+              "block_description_color": "",
+              "block_button_bg_color": "",
+              "block_button_text_color": "",
+              "block_button_hover_bg_color": "",
+              "block_button_hover_text_color": ""
+            }
+          }
+        },
+        "block_order": [
+          "4ea25d2f-1424-4d53-944a-7fb44e86aefa",
+          "f5826717-4a5b-451b-a6b6-2c95dbc08c00"
+        ],
+        "settings": {
+          "full": false,
+          "spacing_both_ends": false,
+          "padding": "200,100",
           "margin": "-30,-50",
           "show_background_image": false,
           "background_style": "default",
