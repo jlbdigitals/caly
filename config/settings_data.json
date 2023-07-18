@@ -6133,7 +6133,7 @@
             "settings": {
               "block_heading": "",
               "block_sub_heading": "",
-              "block_description": "<b>AÑADA:<\/b> 2013<br> <b>ORIGEN:<\/b> Alto Cachapoal<br> <b>COMPOSICIÓN:<\/b> Blanc de Blancs, Chardonnay 100%, Extra Brut<br> <b>PRODUCCIÓN 2013:<\/b> 1.900 botellas<br> <b>NOTA DE CATA:<\/b> Espumoso muy delicado hecho con 100% uva Chardonnay con método traditionnelle, tiene guarda de casi 6 años sobre lías. Se destacan aromas a manzana horneada, tilo, peras amarillas y pan brioche.<br> <b>MARIDAJE:<\/b> <br><br> <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0774\/9140\/5107\/files\/Hera-2013-ESP.Pdf?v=1689693782\" target=\"_blank\" style=\"color: #ffffff\">     Descargar Ficha Técnica Español<\/a> <br> <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0774\/9140\/5107\/files\/Hera-2013-ENG.Pdf?v=1689693782\" target=\"_blank\" style=\" color: #ffffff\">     Descargar Ficha Técnica Inglés<\/a> <br><br>",
+              "block_description": "<b>AÑADA:<\/b> 2013<br> <b>ORIGEN:<\/b> Alto Cachapoal<br> <b>COMPOSICIÓN:<\/b> Blanc de Blancs, Chardonnay 100%, Extra Brut<br> <b>PRODUCCIÓN 2013:<\/b> 1.900 botellas<br> <b>NOTA DE CATA:<\/b> Espumoso muy delicado hecho con 100% uva Chardonnay con método traditionnelle, tiene guarda de casi 6 años sobre lías. Se destacan aromas a manzana horneada, tilo, peras amarillas y pan brioche.<br> <b>MARIDAJE:<\/b> Ostras, langosta a la mantequilla, carpaccio de salmón, caviar.<br><br> <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0774\/9140\/5107\/files\/Hera-2013-ESP.Pdf?v=1689693782\" target=\"_blank\" style=\"color: #ffffff\">     Descargar Ficha Técnica Español<\/a> <br> <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0774\/9140\/5107\/files\/Hera-2013-ENG.Pdf?v=1689693782\" target=\"_blank\" style=\" color: #ffffff\">     Descargar Ficha Técnica Inglés<\/a> <br><br>",
               "block_button_text": "Comprar",
               "block_button_link": "#",
               "heading_position": "text-start",
@@ -6143,7 +6143,7 @@
               "fullwidth_images": false,
               "block_heading_color": "",
               "block_sub_heading_color": "",
-              "block_description_color": "",
+              "block_description_color": "#ffffff",
               "block_button_bg_color": "",
               "block_button_text_color": "",
               "block_button_hover_bg_color": "",
