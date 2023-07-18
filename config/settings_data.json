@@ -3737,7 +3737,7 @@
             "settings": {
               "block_heading": "Ícono y Premium",
               "block_sub_heading": "<i>– Calyptra en su máxima expresión.<\/i>",
-              "block_description": "<br>Nuestros vinos Ícono y Premium representan lo mejor de la producción limitada de Calyptra. Elaborados a partir de uvas seleccionadas con rendimiento bajo y hechos a base del mejor Cabernet Sauvignon de nuestros viñedos orgánicos, las líneas Icono y Premium son representantes de nuestro excelente terroir. Vinos de carácter, únicos y con gran potencial de guarda.<br><br> <a href=\"#\" style=\"color: #ffffff;\">Inédito<\/a><br> <a href=\"#\" style=\"color: #ffffff;\">ZAHIR<\/a>",
+              "block_description": "<br>Nuestros vinos Ícono y Premium representan lo mejor de la producción limitada de Calyptra. Elaborados a partir de uvas seleccionadas con rendimiento bajo y hechos a base del mejor Cabernet Sauvignon de nuestros viñedos orgánicos, las líneas Icono y Premium son representantes de nuestro excelente terroir. Vinos de carácter, únicos y con gran potencial de guarda.<br><br> <a href=\"https:\/\/calyptra-dev.myshopify.com\/pages\/inedito-premium\" style=\"color: #ffffff;\">Inédito<\/a><br> <a href=\"https:\/\/calyptra-dev.myshopify.com\/pages\/zahir\" style=\"color: #ffffff;\">ZAHIR<\/a>",
               "block_button_text": "",
               "block_button_link": "",
               "heading_position": "text-start",
@@ -5665,6 +5665,169 @@
         "block_order": [
           "8843e3ec-415b-421a-a9b4-0881f5b02522",
           "1c40ab4a-dd77-45fd-a6b2-de644560368a"
+        ],
+        "settings": {
+          "full": false,
+          "spacing_both_ends": false,
+          "padding": "100,200",
+          "margin": "-30,-50",
+          "show_background_image": false,
+          "background_style": "default",
+          "enable_overlay": false,
+          "background_color": "",
+          "overlay_transparency": "0.5",
+          "section_heading": "",
+          "section_sub_heading": "",
+          "section_description": "",
+          "section_button_text": "",
+          "section_button_link": "",
+          "section_heading_color": "",
+          "section_sub_heading_color": "",
+          "section_description_color": "",
+          "section_button_bg_color": "",
+          "section_button_text_color": "",
+          "section_button_hover_bg_color": "",
+          "section_button_hover_text_color": "",
+          "heading_position": "text-center",
+          "column_gap": "30",
+          "border_radius": "",
+          "content_width": "50\/50",
+          "lap_content_width": "40\/60"
+        }
+      },
+      "nv-inedito-limited-custom-section": {
+        "type": "nv-inedito-limited-custom-section",
+        "blocks": {
+          "c9aada14-d199-41d1-ab17-1910a313eda4": {
+            "type": "content",
+            "settings": {
+              "block_heading": "",
+              "block_sub_heading": "",
+              "block_description": "",
+              "block_button_text": "",
+              "block_button_link": "",
+              "heading_position": "text-start",
+              "image_1_border_radius": "",
+              "image_2_border_radius": "",
+              "reverse_column": false,
+              "fullwidth_images": false,
+              "block_heading_color": "",
+              "block_sub_heading_color": "",
+              "block_description_color": "",
+              "block_button_bg_color": "",
+              "block_button_text_color": "",
+              "block_button_hover_bg_color": "",
+              "block_button_hover_text_color": ""
+            }
+          },
+          "c2ba5dff-fef5-4077-bdf1-75cc48bbc1dc": {
+            "type": "content",
+            "settings": {
+              "block_heading": "",
+              "block_sub_heading": "",
+              "block_description": "",
+              "block_button_text": "",
+              "block_button_link": "",
+              "heading_position": "text-start",
+              "image_1_border_radius": "",
+              "image_2_border_radius": "",
+              "reverse_column": false,
+              "fullwidth_images": false,
+              "block_heading_color": "",
+              "block_sub_heading_color": "",
+              "block_description_color": "",
+              "block_button_bg_color": "",
+              "block_button_text_color": "",
+              "block_button_hover_bg_color": "",
+              "block_button_hover_text_color": ""
+            }
+          }
+        },
+        "block_order": [
+          "c9aada14-d199-41d1-ab17-1910a313eda4",
+          "c2ba5dff-fef5-4077-bdf1-75cc48bbc1dc"
+        ],
+        "settings": {
+          "full": false,
+          "spacing_both_ends": false,
+          "padding": "120,100",
+          "margin": "0,0",
+          "show_background_image": true,
+          "background_image": "shopify:\/\/shop_images\/9.jpg",
+          "background_style": "default",
+          "enable_overlay": true,
+          "background_color": "#000000",
+          "overlay_transparency": "0.3",
+          "section_heading": "",
+          "section_sub_heading": "INÉDITO PREMIUM",
+          "section_description": "",
+          "section_button_text": "",
+          "section_button_link": "",
+          "section_heading_color": "",
+          "section_sub_heading_color": "#ffffff",
+          "section_description_color": "",
+          "section_button_bg_color": "",
+          "section_button_text_color": "",
+          "section_button_hover_bg_color": "",
+          "section_button_hover_text_color": "",
+          "heading_position": "text-center",
+          "column_gap": "30",
+          "border_radius": "",
+          "content_width": "50\/50",
+          "lap_content_width": "40\/60"
+        }
+      },
+      "nv-inedito-limited-custom-section-2": {
+        "type": "nv-inedito-limited-custom-section-2",
+        "blocks": {
+          "1108057f-e733-4bb3-bdd8-e85351a3e6d5": {
+            "type": "content",
+            "settings": {
+              "block_heading": "",
+              "block_sub_heading": "",
+              "block_description": "",
+              "block_button_text": "",
+              "block_button_link": "",
+              "heading_position": "text-start",
+              "image_1_border_radius": "",
+              "image_2_border_radius": "",
+              "reverse_column": false,
+              "fullwidth_images": false,
+              "block_heading_color": "",
+              "block_sub_heading_color": "",
+              "block_description_color": "",
+              "block_button_bg_color": "",
+              "block_button_text_color": "",
+              "block_button_hover_bg_color": "",
+              "block_button_hover_text_color": ""
+            }
+          },
+          "93d8f299-989b-444c-8e6a-c3e8ff6b7212": {
+            "type": "content",
+            "settings": {
+              "block_heading": "",
+              "block_sub_heading": "",
+              "block_description": "<b>AÑADA:<\/b> 2017<br> <b>ORIGEN:<\/b> Alto Cachapoal<br> <b>COMPOSICIÓN:<\/b> Syrah 32%, Merlot 16%, Cabernet Sauvignon 52%<br> <b>PRODUCCIÓN 2017:<\/b> 2.900 botellas<br> <b>NOTA DE CATA:<\/b> Es vino con mucho carácter y nariz excepcional llena de aromas a fruta roja fresca como cereza y ciruela, frutos del bosque, bayas y un toque de grafito y violetas.<br> <b>MARIDAJE:<\/b> Carne de caza, entraña a la parrilla, risotto de cordero.<br><br> <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0774\/9140\/5107\/files\/Inedito-Limited-Edition-2016-ESP.Pdf?v=1689690729\" target=\"_blank\" style=\"color: #ffffff\">     Descargar Ficha Técnica Español<\/a> <br> <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0774\/9140\/5107\/files\/Inedito-Limited-Edition-2016-ENG.Pdf?v=1689690728\" target=\"_blank\" style=\" color: #ffffff\">     Descargar Ficha Técnica Inglés<\/a> <br><br>",
+              "block_button_text": "Comprar",
+              "block_button_link": "#",
+              "heading_position": "text-start",
+              "image_1_border_radius": "",
+              "image_2_border_radius": "",
+              "reverse_column": false,
+              "fullwidth_images": false,
+              "block_heading_color": "",
+              "block_sub_heading_color": "",
+              "block_description_color": "#ffffff",
+              "block_button_bg_color": "",
+              "block_button_text_color": "",
+              "block_button_hover_bg_color": "",
+              "block_button_hover_text_color": ""
+            }
+          }
+        },
+        "block_order": [
+          "1108057f-e733-4bb3-bdd8-e85351a3e6d5",
+          "93d8f299-989b-444c-8e6a-c3e8ff6b7212"
         ],
         "settings": {
           "full": false,
