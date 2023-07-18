@@ -5692,7 +5692,7 @@
           "heading_position": "text-center",
           "column_gap": "30",
           "border_radius": "",
-          "content_width": "50\/50",
+          "content_width": "40\/60",
           "lap_content_width": "40\/60"
         }
       },
@@ -6018,7 +6018,7 @@
           "heading_position": "text-center",
           "column_gap": "30",
           "border_radius": "",
-          "content_width": "50\/50",
+          "content_width": "40\/60",
           "lap_content_width": "40\/60"
         }
       },
