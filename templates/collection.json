@@ -189,10 +189,10 @@
       ],
       "settings": {
         "hide_breadcrumb": false,
-        "show_collection_image": true,
-        "collections_sort_enable": true,
-        "collections_view_enable": true,
-        "item_pre_view": true,
+        "show_collection_image": false,
+        "collections_sort_enable": false,
+        "collections_view_enable": false,
+        "item_pre_view": false,
         "grid": "4",
         "rows": "3"
       }
