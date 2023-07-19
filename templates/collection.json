@@ -187,6 +187,9 @@
         "c2b81209-45e3-4cf7-b7f1-fe33e88c4f15",
         "f418093f-8ee6-4eac-91e7-327f3899ea06"
       ],
+      "custom_css": [
+        ".dT_VProdWrapper {margin-top: 50px !important;}"
+      ],
       "settings": {
         "hide_breadcrumb": false,
         "show_collection_image": false,
