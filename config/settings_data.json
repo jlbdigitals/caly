@@ -6518,6 +6518,14 @@
       "16254638834e702403",
       "162546445354753e59",
       "1625464732dee99c61"
-    ]
+    ],
+    "blocks": {
+      "15119538188275799212": {
+        "type": "shopify:\/\/apps\/fontify-google-custom-fonts\/blocks\/app-embed\/334490e2-2153-4a2e-a452-e90bdeffa3cc",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    }
   }
 }
