@@ -148,11 +148,13 @@
         },
         "c46d821f-34df-4d7e-afed-7f3cfe4f37c4": {
           "type": "collection_filter",
+          "disabled": true,
           "settings": {
           }
         },
         "b8b9fac8-f331-4738-a7e9-29aa5671dffe": {
           "type": "carousel",
+          "disabled": true,
           "settings": {
             "title": "Best Sellers",
             "collection": "",
@@ -161,6 +163,7 @@
         },
         "c2b81209-45e3-4cf7-b7f1-fe33e88c4f15": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "title": "Heading",
             "link_text": "Shop Now",
@@ -169,6 +172,7 @@
         },
         "f418093f-8ee6-4eac-91e7-327f3899ea06": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "title": "",
             "collection": "",
