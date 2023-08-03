@@ -3484,8 +3484,8 @@
           "heading_position": "text-center",
           "column_gap": "30",
           "border_radius": "",
-          "content_width": "60\/40",
-          "lap_content_width": "60\/40"
+          "content_width": "50\/50",
+          "lap_content_width": "50\/50"
         }
       },
       "nuestros-vinos-custom-section-4": {
