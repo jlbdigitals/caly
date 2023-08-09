@@ -5918,11 +5918,11 @@
           "padding": "120,100",
           "margin": "0,0",
           "show_background_image": true,
-          "background_image": "shopify:\/\/shop_images\/G_L3232.jpg",
+          "background_image": "shopify:\/\/shop_images\/hojas.jpg",
           "background_style": "default",
-          "enable_overlay": false,
+          "enable_overlay": true,
           "background_color": "#000000",
-          "overlay_transparency": "0.4",
+          "overlay_transparency": "0.3",
           "section_heading": "",
           "section_sub_heading": "ÍCONO Y PREMIUM<br>ZAHIR",
           "section_description": "",
@@ -6409,7 +6409,7 @@
           "show_background_image": true,
           "background_image": "shopify:\/\/shop_images\/G_L3232.jpg",
           "background_style": "default",
-          "enable_overlay": false,
+          "enable_overlay": true,
           "background_color": "#000000",
           "overlay_transparency": "0.3",
           "section_heading": "",
@@ -6566,6 +6566,169 @@
           "icon_bg_color_hover": "",
           "icon_color_hover": "",
           "custom_class_name": ""
+        }
+      },
+      "nv-marginado-custom-section": {
+        "type": "nv-marginado-custom-section",
+        "blocks": {
+          "fc216cc3-182c-4797-8903-17d8a85040d4": {
+            "type": "content",
+            "settings": {
+              "block_heading": "",
+              "block_sub_heading": "",
+              "block_description": "",
+              "block_button_text": "",
+              "block_button_link": "",
+              "heading_position": "text-start",
+              "image_1_border_radius": "",
+              "image_2_border_radius": "",
+              "reverse_column": false,
+              "fullwidth_images": false,
+              "block_heading_color": "",
+              "block_sub_heading_color": "",
+              "block_description_color": "",
+              "block_button_bg_color": "",
+              "block_button_text_color": "",
+              "block_button_hover_bg_color": "",
+              "block_button_hover_text_color": ""
+            }
+          },
+          "c7719c4d-ac01-4fe3-a772-da10648e5240": {
+            "type": "content",
+            "settings": {
+              "block_heading": "",
+              "block_sub_heading": "",
+              "block_description": "",
+              "block_button_text": "",
+              "block_button_link": "",
+              "heading_position": "text-start",
+              "image_1_border_radius": "",
+              "image_2_border_radius": "",
+              "reverse_column": false,
+              "fullwidth_images": false,
+              "block_heading_color": "",
+              "block_sub_heading_color": "",
+              "block_description_color": "",
+              "block_button_bg_color": "",
+              "block_button_text_color": "",
+              "block_button_hover_bg_color": "",
+              "block_button_hover_text_color": ""
+            }
+          }
+        },
+        "block_order": [
+          "fc216cc3-182c-4797-8903-17d8a85040d4",
+          "c7719c4d-ac01-4fe3-a772-da10648e5240"
+        ],
+        "settings": {
+          "full": false,
+          "spacing_both_ends": false,
+          "padding": "120,100",
+          "margin": "0,0",
+          "show_background_image": true,
+          "background_image": "shopify:\/\/shop_images\/G_L3232.jpg",
+          "background_style": "default",
+          "enable_overlay": true,
+          "background_color": "#000000",
+          "overlay_transparency": "0.3",
+          "section_heading": "",
+          "section_sub_heading": "DULCES, ESPUMOSOS Y OTROS<br>MARGINADO",
+          "section_description": "",
+          "section_button_text": "",
+          "section_button_link": "",
+          "section_heading_color": "",
+          "section_sub_heading_color": "#ffffff",
+          "section_description_color": "",
+          "section_button_bg_color": "",
+          "section_button_text_color": "",
+          "section_button_hover_bg_color": "",
+          "section_button_hover_text_color": "",
+          "heading_position": "text-center",
+          "column_gap": "30",
+          "border_radius": "",
+          "content_width": "50\/50",
+          "lap_content_width": "40\/60"
+        }
+      },
+      "nv-marginado-custom-section-2": {
+        "type": "nv-marginado-custom-section-2",
+        "blocks": {
+          "9f79c829-c264-4d0f-8931-a1d71142ef14": {
+            "type": "content",
+            "settings": {
+              "block_heading": "",
+              "block_sub_heading": "",
+              "block_description": "",
+              "block_button_text": "",
+              "block_button_link": "",
+              "heading_position": "text-start",
+              "image_1_border_radius": "",
+              "image_2_border_radius": "",
+              "reverse_column": false,
+              "fullwidth_images": false,
+              "block_heading_color": "",
+              "block_sub_heading_color": "",
+              "block_description_color": "",
+              "block_button_bg_color": "",
+              "block_button_text_color": "",
+              "block_button_hover_bg_color": "",
+              "block_button_hover_text_color": ""
+            }
+          },
+          "08693bbf-b26a-4a55-abf2-9d42646678df": {
+            "type": "content",
+            "settings": {
+              "block_heading": "",
+              "block_sub_heading": "",
+              "block_description": "<b>AÑADA:<\/b> 2021<br> <b>ORIGEN:<\/b> Alto Cachapoal<br> <b>COMPOSICIÓN:<\/b> Syrah: 100%<br> <b>PRODUCCIÓN 2011:<\/b> XXXXX<br> <b>NOTA DE CATA:<\/b> Color violeta profundo con reflejos magenta. La nariz es floral y frutal, con aromas a frutos negros y rojos, complementados por notas especiadas y mentoladas. En boca posee una gran potencia y equilibrio entre frescura y taninos firmes. Final largo, jugoso y vibrante. Es un vino complejo y con muchas capas. Un Syrah nuevo y desafiante, diseñado por nuestro enólogo que otorga el 100% de pureza y expresión varietal.<br> <b>MARIDAJE:<\/b> XXXXX<br><br> <a href=\"\" target=\"_blank\" style=\"color: #ffffff\">     Descargar Ficha Técnica Español<\/a> <br> <a href=\"\" target=\"_blank\" style=\" color: #ffffff\">     Descargar Ficha Técnica Inglés<\/a> <br><br>",
+              "block_button_text": "",
+              "block_button_link": "",
+              "heading_position": "text-start",
+              "image_1_border_radius": "",
+              "image_2_border_radius": "",
+              "reverse_column": false,
+              "fullwidth_images": false,
+              "block_heading_color": "",
+              "block_sub_heading_color": "",
+              "block_description_color": "#ffffff",
+              "block_button_bg_color": "",
+              "block_button_text_color": "",
+              "block_button_hover_bg_color": "",
+              "block_button_hover_text_color": ""
+            }
+          }
+        },
+        "block_order": [
+          "9f79c829-c264-4d0f-8931-a1d71142ef14",
+          "08693bbf-b26a-4a55-abf2-9d42646678df"
+        ],
+        "settings": {
+          "full": false,
+          "spacing_both_ends": false,
+          "padding": "100,200",
+          "margin": "-30,-50",
+          "show_background_image": false,
+          "background_style": "default",
+          "enable_overlay": false,
+          "background_color": "",
+          "overlay_transparency": "0.5",
+          "section_heading": "",
+          "section_sub_heading": "",
+          "section_description": "",
+          "section_button_text": "",
+          "section_button_link": "",
+          "section_heading_color": "",
+          "section_sub_heading_color": "",
+          "section_description_color": "",
+          "section_button_bg_color": "",
+          "section_button_text_color": "",
+          "section_button_hover_bg_color": "",
+          "section_button_hover_text_color": "",
+          "heading_position": "text-center",
+          "column_gap": "30",
+          "border_radius": "",
+          "content_width": "50\/50",
+          "lap_content_width": "40\/60"
         }
       }
     },
