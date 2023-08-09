@@ -7150,6 +7150,119 @@
           "content_width": "50\/50",
           "lap_content_width": "40\/60"
         }
+      },
+      "nv-gran-syrah-custom-section": {
+        "type": "nv-gran-syrah-custom-section",
+        "blocks": {
+          "577d7654-4049-4dac-9a65-f5dea2653f18": {
+            "type": "content",
+            "settings": {
+              "block_heading": "Main Heading",
+              "block_sub_heading": "Sub Heading",
+              "block_description": "Use this text to share the information which you like!.",
+              "block_button_text": "",
+              "block_button_link": "",
+              "heading_position": "text-start",
+              "image_1_border_radius": "",
+              "image_2_border_radius": "",
+              "reverse_column": false,
+              "fullwidth_images": false,
+              "block_heading_color": "",
+              "block_sub_heading_color": "",
+              "block_description_color": "",
+              "block_button_bg_color": "",
+              "block_button_text_color": "",
+              "block_button_hover_bg_color": "",
+              "block_button_hover_text_color": ""
+            }
+          },
+          "9a6d1a13-79c9-4b06-b43b-e3b74c1d4019": {
+            "type": "content",
+            "settings": {
+              "block_heading": "Main Heading",
+              "block_sub_heading": "Sub Heading",
+              "block_description": "Use this text to share the information which you like!.",
+              "block_button_text": "",
+              "block_button_link": "",
+              "heading_position": "text-start",
+              "image_1_border_radius": "",
+              "image_2_border_radius": "",
+              "reverse_column": false,
+              "fullwidth_images": false,
+              "block_heading_color": "",
+              "block_sub_heading_color": "",
+              "block_description_color": "",
+              "block_button_bg_color": "",
+              "block_button_text_color": "",
+              "block_button_hover_bg_color": "",
+              "block_button_hover_text_color": ""
+            }
+          }
+        },
+        "block_order": [
+          "577d7654-4049-4dac-9a65-f5dea2653f18",
+          "9a6d1a13-79c9-4b06-b43b-e3b74c1d4019"
+        ],
+        "settings": {
+          "full": false,
+          "spacing_both_ends": false,
+          "padding": "0,0",
+          "margin": "0,0",
+          "show_background_image": true,
+          "background_image": "shopify:\/\/shop_images\/6.jpg",
+          "background_style": "default",
+          "enable_overlay": false,
+          "background_color": "",
+          "overlay_transparency": "0.5",
+          "section_heading": "Custom section",
+          "section_sub_heading": "Sub Heading",
+          "section_description": "Use this text to share the information which you like!.",
+          "section_button_text": "",
+          "section_button_link": "",
+          "section_heading_color": "",
+          "section_sub_heading_color": "",
+          "section_description_color": "",
+          "section_button_bg_color": "",
+          "section_button_text_color": "",
+          "section_button_hover_bg_color": "",
+          "section_button_hover_text_color": "",
+          "heading_position": "text-center",
+          "column_gap": "30",
+          "border_radius": "",
+          "content_width": "50\/50",
+          "lap_content_width": "40\/60"
+        }
+      },
+      "nv-gran-syrah-custom-section-2": {
+        "type": "nv-gran-syrah-custom-section-2",
+        "settings": {
+          "full": false,
+          "spacing_both_ends": false,
+          "padding": "0,0",
+          "margin": "0,0",
+          "show_background_image": false,
+          "background_style": "default",
+          "enable_overlay": false,
+          "background_color": "",
+          "overlay_transparency": "0.5",
+          "section_heading": "Custom section",
+          "section_sub_heading": "Sub Heading",
+          "section_description": "Use this text to share the information which you like!.",
+          "section_button_text": "",
+          "section_button_link": "",
+          "section_heading_color": "",
+          "section_sub_heading_color": "",
+          "section_description_color": "",
+          "section_button_bg_color": "",
+          "section_button_text_color": "",
+          "section_button_hover_bg_color": "",
+          "section_button_hover_text_color": "",
+          "heading_position": "text-center",
+          "column_gap": "30",
+          "border_radius": "",
+          "content_width": "50\/50",
+          "lap_content_width": "40\/60"
+        }
       }
     },
     "content_for_index": [
