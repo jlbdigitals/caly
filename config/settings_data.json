@@ -3462,7 +3462,7 @@
         "settings": {
           "full": false,
           "spacing_both_ends": true,
-          "padding": "80,120",
+          "padding": "80,80",
           "margin": "0,-30",
           "show_background_image": false,
           "background_style": "default",
@@ -3683,7 +3683,7 @@
         "settings": {
           "full": false,
           "spacing_both_ends": false,
-          "padding": "50,120",
+          "padding": "50,80",
           "margin": "0,-30",
           "show_background_image": false,
           "background_style": "default",
@@ -3764,7 +3764,7 @@
         "settings": {
           "full": false,
           "spacing_both_ends": false,
-          "padding": "50,100",
+          "padding": "60,100",
           "margin": "0,-30",
           "show_background_image": false,
           "background_style": "default",
@@ -3845,7 +3845,7 @@
         "settings": {
           "full": false,
           "spacing_both_ends": false,
-          "padding": "50,100",
+          "padding": "60,160",
           "margin": "0,-30",
           "show_background_image": false,
           "background_style": "default",
