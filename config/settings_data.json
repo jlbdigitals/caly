@@ -3715,7 +3715,7 @@
           "920bdd0f-4175-4020-9fc0-7f73f94a9474": {
             "type": "content",
             "settings": {
-              "block_heading": "ÍCONO Y PREMIUM",
+              "block_heading": "<br><br>ÍCONO Y PREMIUM",
               "block_sub_heading": "<i>– Calyptra en su máxima expresión.<\/i>",
               "block_description": "<br>Nuestros vinos Ícono y Premium representan lo mejor de la producción limitada de Calyptra. Elaborados a partir de uvas seleccionadas con rendimiento bajo y hechos a base del mejor Cabernet Sauvignon de nuestros viñedos orgánicos, las líneas Icono y Premium son representantes de nuestro excelente terroir. Vinos de carácter, únicos y con gran potencial de guarda.<br><br> <a href=\"https:\/\/calyptra-dev.myshopify.com\/pages\/inedito-limited\" style=\"color: #ffffff;\">Inédito Premium<\/a><br> <a href=\"https:\/\/calyptra-dev.myshopify.com\/pages\/zahir-1\" style=\"color: #ffffff;\">ZAHIR<\/a>",
               "block_button_text": "",
@@ -3765,7 +3765,7 @@
         "settings": {
           "full": false,
           "spacing_both_ends": false,
-          "padding": "20,20",
+          "padding": "0,0",
           "margin": "0,-30",
           "show_background_image": false,
           "background_style": "default",
@@ -3820,7 +3820,7 @@
           "3631c383-15d2-463d-b711-067210d32b19": {
             "type": "content",
             "settings": {
-              "block_heading": "DULCES, ESPUMOSOS Y OTROS",
+              "block_heading": "<br><br>DULCES, ESPUMOSOS Y OTROS",
               "block_sub_heading": "<i>– La elegancia de los aromas frutales<\/i>",
               "block_description": "<br>Para amantes de espumosos elegantes, presentamos nuestra Hera Blanc de Blanc método tradicional 100% elaborado de uva Chardonnay. Vinos dulces están representados por Solvita Late Harvest de Sauvignon Blanc 100% botritizado y fortificado FORT obtenido por co-fermentación de Cabernet Sauvignon, Syrah y Merlot y con una crianza en barricas durante 60 meses.<br><br> <a href=\"https:\/\/calyptra-dev.myshopify.com\/pages\/hera\" style=\"color: #ffffff;\">Hera<\/a><br> <a href=\"https:\/\/calyptra-dev.myshopify.com\/pages\/fort\" style=\"color: #ffffff;\">Fort<\/a><br> <a href=\"https:\/\/calyptra-dev.myshopify.com\/pages\/solvita\" style=\"color: #ffffff;\">Solvita<\/a><br> <a href=\"https:\/\/calyptra-dev.myshopify.com\/pages\/inedito\" style=\"color: #ffffff;\">Petit Inédito<\/a><br> <a href=\"https:\/\/calyptra-dev.myshopify.com\/pages\/marginado\" style=\"color: #ffffff;\">Marginado<\/a>",
               "block_button_text": "",
