@@ -3846,7 +3846,7 @@
         "settings": {
           "full": false,
           "spacing_both_ends": false,
-          "padding": "60,160",
+          "padding": "20,20",
           "margin": "0,-30",
           "show_background_image": false,
           "background_style": "default",
