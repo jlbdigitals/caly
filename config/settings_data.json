@@ -3848,7 +3848,7 @@
           "3631c383-15d2-463d-b711-067210d32b19"
         ],
         "custom_css": [
-          ".content-3631c383-15d2-463d-b711-067210d32b19>.dt-sc-heading {margin-left: 5%; margin-right: 20%;}"
+          ".content-3631c383-15d2-463d-b711-067210d32b19 > .dt-sc-heading {margin-left: 10%; margin-right: 20%;}"
         ],
         "settings": {
           "full": true,
