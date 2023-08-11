@@ -3763,13 +3763,13 @@
           "90bc59c3-c97e-4709-bcd3-9d693b7fbd23"
         ],
         "custom_css": [
-          ".content-920bdd0f-4175-4020-9fc0-7f73f94a9474>.dt-sc-heading {margin-left: 10%; padding-right: 10%;}"
+          ".content-920bdd0f-4175-4020-9fc0-7f73f94a9474 > .dt-sc-heading {margin-left: 10%; padding-right: 10%;}"
         ],
         "settings": {
           "full": true,
           "spacing_both_ends": false,
           "padding": "0,0",
-          "margin": "0,-30",
+          "margin": "0,-40",
           "show_background_image": false,
           "background_style": "default",
           "enable_overlay": true,
