@@ -3763,7 +3763,7 @@
           "90bc59c3-c97e-4709-bcd3-9d693b7fbd23"
         ],
         "settings": {
-          "full": false,
+          "full": true,
           "spacing_both_ends": false,
           "padding": "0,0",
           "margin": "0,-30",
