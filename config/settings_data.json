@@ -3807,7 +3807,7 @@
               "image_1_border_radius": "",
               "image_2_border_radius": "",
               "reverse_column": false,
-              "fullwidth_images": false,
+              "fullwidth_images": true,
               "block_heading_color": "",
               "block_sub_heading_color": "",
               "block_description_color": "",
@@ -3845,10 +3845,10 @@
           "3631c383-15d2-463d-b711-067210d32b19"
         ],
         "settings": {
-          "full": false,
+          "full": true,
           "spacing_both_ends": false,
-          "padding": "20,20",
-          "margin": "0,-30",
+          "padding": "0,0",
+          "margin": "0,0",
           "show_background_image": false,
           "background_style": "default",
           "enable_overlay": true,
@@ -3869,8 +3869,8 @@
           "heading_position": "text-center",
           "column_gap": "30",
           "border_radius": "",
-          "content_width": "40\/60",
-          "lap_content_width": "40\/60"
+          "content_width": "50\/50",
+          "lap_content_width": "50\/50"
         }
       },
       "nuestros-vinos-video-banner-2": {
