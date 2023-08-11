@@ -3847,6 +3847,9 @@
           "ef17a349-6227-4630-83ce-ecd9012e24d6",
           "3631c383-15d2-463d-b711-067210d32b19"
         ],
+        "custom_css": [
+          ".content-3631c383-15d2-463d-b711-067210d32b19>.dt-sc-heading>.text-start {}"
+        ],
         "settings": {
           "full": true,
           "spacing_both_ends": false,
