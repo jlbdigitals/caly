@@ -3763,7 +3763,7 @@
           "90bc59c3-c97e-4709-bcd3-9d693b7fbd23"
         ],
         "custom_css": [
-          ".content-920bdd0f-4175-4020-9fc0-7f73f94a9474.dt-sc-heading.text-start{margin-left: 5%; padding-right: 30%;}"
+          ".content-920bdd0f-4175-4020-9fc0-7f73f94a9474>.dt-sc-heading {margin-left: 10%; padding-right: 10%;}"
         ],
         "settings": {
           "full": true,
