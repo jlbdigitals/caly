@@ -3747,7 +3747,7 @@
               "image_1_border_radius": "",
               "image_2_border_radius": "",
               "reverse_column": false,
-              "fullwidth_images": false,
+              "fullwidth_images": true,
               "block_heading_color": "",
               "block_sub_heading_color": "",
               "block_description_color": "",
@@ -3765,7 +3765,7 @@
         "settings": {
           "full": false,
           "spacing_both_ends": false,
-          "padding": "60,100",
+          "padding": "20,20",
           "margin": "0,-30",
           "show_background_image": false,
           "background_style": "default",
