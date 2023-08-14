@@ -2354,8 +2354,9 @@
   },
   "cart": {
     "general": {
+      "total": "Total:",
       "shipping_calculator_success_at": "en",
-      "title": "CARRITO",
+      "title": "Carrito",
       "my_cart": "Mi carrito",
       "bags": "Bolsas",
       "subtotal": "Subtotal:",
@@ -2368,7 +2369,7 @@
       "savings_html": "Estás ahorrando: {{ price }}",
       "shipping_at_checkout": "El envío, los impuestos y los descuentos se calcularán al finalizar la compra.",
       "update": "Actualización de la compra",
-      "checkout": "Pasar por la caja",
+      "checkout": "Pagar",
       "view_cart": "Ver carrito",
       "empty": "No hay artículos en el carrito",
       "add_items": "Agrega los artículos que deseas comprar",
@@ -2396,8 +2397,8 @@
       "shipping_calculator_success_no_rate": "No hay tarifa de envío disponible para este pedido y destino."
     },
     "label": {
-      "product": "nombre del producto",
-      "products": "productos",
+      "product": "Nombre del producto",
+      "products": "Productos",
       "price": "Precio",
       "quantity": "Cantidad",
       "remove": "Eliminar",
