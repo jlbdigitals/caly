@@ -3633,28 +3633,6 @@
       "nuestros-vinos-custom-section-6": {
         "type": "nuestros-vinos-custom-section-6",
         "blocks": {
-          "b1714f76-3fe7-403b-9c68-a61aa8ca7ca3": {
-            "type": "content",
-            "settings": {
-              "block_heading": "",
-              "block_sub_heading": "",
-              "block_description": "",
-              "block_button_text": "",
-              "block_button_link": "",
-              "heading_position": "text-end",
-              "image_1_border_radius": "",
-              "image_2_border_radius": "",
-              "reverse_column": false,
-              "fullwidth_images": false,
-              "block_heading_color": "",
-              "block_sub_heading_color": "",
-              "block_description_color": "",
-              "block_button_bg_color": "",
-              "block_button_text_color": "",
-              "block_button_hover_bg_color": "",
-              "block_button_hover_text_color": ""
-            }
-          },
           "5d744b00-e75d-4700-8dea-55512f724b27": {
             "type": "content",
             "settings": {
@@ -3676,11 +3654,34 @@
               "block_button_hover_bg_color": "",
               "block_button_hover_text_color": ""
             }
+          },
+          "b1714f76-3fe7-403b-9c68-a61aa8ca7ca3": {
+            "type": "content",
+            "settings": {
+              "block_heading": "",
+              "block_sub_heading": "",
+              "block_description": "",
+              "block_button_text": "",
+              "block_button_link": "",
+              "heading_position": "text-end",
+              "block_img_1": "shopify:\/\/shop_images\/linea-gran.jpg",
+              "image_1_border_radius": "",
+              "image_2_border_radius": "",
+              "reverse_column": false,
+              "fullwidth_images": true,
+              "block_heading_color": "",
+              "block_sub_heading_color": "",
+              "block_description_color": "",
+              "block_button_bg_color": "",
+              "block_button_text_color": "",
+              "block_button_hover_bg_color": "",
+              "block_button_hover_text_color": ""
+            }
           }
         },
         "block_order": [
-          "b1714f76-3fe7-403b-9c68-a61aa8ca7ca3",
-          "5d744b00-e75d-4700-8dea-55512f724b27"
+          "5d744b00-e75d-4700-8dea-55512f724b27",
+          "b1714f76-3fe7-403b-9c68-a61aa8ca7ca3"
         ],
         "settings": {
           "full": false,
