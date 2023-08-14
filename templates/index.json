@@ -384,7 +384,7 @@
         "enable_list_view": false,
         "grid": "6",
         "post_limit": 4,
-        "enable_slider": false,
+        "enable_slider": true,
         "items_per_view": 4,
         "rows": 2,
         "slider_autoplay": 0,
