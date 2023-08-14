@@ -20,7 +20,7 @@
 <div class="{% render 'container-settings' %}"> 
     <div class="row {{ section.settings.custom_class_name }}">
       
-      <img src="https://cdn.shopify.com/s/files/1/0774/9140/5107/files/Linea-Gran_a4d5c95d-e455-4e8a-8fc9-ff8248034be0.jpg?v=1691598714" class="" width="700px" style="position: absolute; margin-left: ;">                
+      {% comment %} <img src="https://cdn.shopify.com/s/files/1/0774/9140/5107/files/Linea-Gran_a4d5c95d-e455-4e8a-8fc9-ff8248034be0.jpg?v=1691598714" class="" width="700px" style="position: absolute; margin-left: ;">                
       <script>
         var image = document.getElementsByClassName('thumbnail6');
           new simpleParallax(image, {
@@ -28,7 +28,7 @@
             scale: 1.5,
             orientation: 'left',
                   });
-        </script>
+        </script> {% endcomment %}
       {% render 'section-heading', class: section.id %} 
       <div class="home-custom-section-wrapper dt-sc-column">
         {% for block in section.blocks %}
