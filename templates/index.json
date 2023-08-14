@@ -387,7 +387,7 @@
         "enable_slider": true,
         "items_per_view": 5,
         "rows": 1,
-        "slider_autoplay": 0,
+        "slider_autoplay": 3,
         "enable_auto_height": true,
         "dots": true,
         "carousel_pagination_alignment": "center_pagination",
