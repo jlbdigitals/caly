@@ -21,9 +21,9 @@
     "custom_font_family_2": "",
     "custom_font_script_3": "",
     "custom_font_family_3": "",
-    "container_width": 1600,
+    "container_width": 1200,
     "tab_container_width": 960,
-    "fullwidth_gap": 5,
+    "fullwidth_gap": 20,
     "gutter_width": 30,
     "overall_border_radius": 5,
     "primary_color": "#000000",
@@ -3420,10 +3420,11 @@
               "block_button_text": "",
               "block_button_link": "",
               "heading_position": "text-start",
+              "block_img_1": "shopify:\/\/shop_images\/Linea-vivendo-2.jpg",
               "image_1_border_radius": "",
               "image_2_border_radius": "",
               "reverse_column": false,
-              "fullwidth_images": false,
+              "fullwidth_images": true,
               "block_heading_color": "",
               "block_sub_heading_color": "",
               "block_description_color": "",
@@ -3485,8 +3486,8 @@
           "heading_position": "text-center",
           "column_gap": "30",
           "border_radius": "",
-          "content_width": "60\/40",
-          "lap_content_width": "60\/40"
+          "content_width": "50\/50",
+          "lap_content_width": "50\/50"
         }
       },
       "nuestros-vinos-custom-section-4": {
