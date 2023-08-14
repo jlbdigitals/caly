@@ -2214,7 +2214,8 @@
       "submit": "Buscar",
       "see_all": "Ver todos los productos",
       "no_results": "Tu búsqueda no arrojó ningún resultado",
-      "view_results": "Ver todos los resultados"
+      "view_results": "Ver todos los resultados",
+      "error": ""
     },
     "social": {
       "share_title": "Comparte con nosotros",
@@ -2335,7 +2336,8 @@
       "heading": "Elija opciones para todos los productos seleccionados",
       "add_all_to_cart": "Añadir todo al carrito",
       "get_discount_label1": "Obtener una",
-      "get_discount_label2": "descuento comprando estos productos juntos"
+      "get_discount_label2": "descuento comprando estos productos juntos",
+      "total": ""
     }
   },
   "enquiry": {
@@ -2402,7 +2404,8 @@
       "price": "Precio",
       "quantity": "Cantidad",
       "remove": "Eliminar",
-      "add_note": "Añade una nota a tu pedido"
+      "add_note": "Añade una nota a tu pedido",
+      "total": "Total"
     }
   },
   "collections": {
@@ -2512,7 +2515,8 @@
       "date": "Fecha",
       "payment_status": "Estado de pago",
       "fulfillment_status": "Estado de cumplimiento",
-      "none": "Aún no has realizado ningún pedido."
+      "none": "Aún no has realizado ningún pedido.",
+      "total": ""
     },
     "order": {
       "title": "Pedido {{ name }}",
@@ -2530,7 +2534,9 @@
       "price": "Precio",
       "quantity": "Cantidad",
       "fulfilled_at": "Cumplido {{ date }}",
-      "subtotal": "Total parcial"
+      "subtotal": "Total parcial",
+      "sku": "",
+      "total": ""
     },
     "recover_password": {
       "title": "Restablecer su contraseña",
@@ -2573,7 +2579,8 @@
   },
   "layout": {
     "navigation": {
-      "all_categories": "todas las categorias"
+      "all_categories": "todas las categorias",
+      "menu": ""
     },
     "cart": {
       "title": "Carro"
@@ -2587,7 +2594,16 @@
     },
     "footer": {
       "twitter": "Gorjeo",
-      "fancy": "Elegante"
+      "fancy": "Elegante",
+      "facebook": "",
+      "pinterest": "",
+      "google": "",
+      "instagram": "",
+      "tumblr": "",
+      "youtube": "",
+      "vimeo": "",
+      "RSS": "",
+      "linkedin": ""
     }
   },
   "blogs": {
@@ -2596,7 +2612,8 @@
       "newer_post": "Publicación más reciente",
       "tags": "Etiquetas:",
       "by_author": "por {{ author }}",
-      "read_more": "Leer más"
+      "read_more": "Leer más",
+      "comment_meta_html": ""
     },
     "comments": {
       "title": "Deja un comentario",
@@ -2616,5 +2633,8 @@
       "recent_articles": "Artículos Recientes",
       "categories": "Categorías"
     }
+  },
+  "date_formats": {
+    "month_day_year": ""
   }
 }
