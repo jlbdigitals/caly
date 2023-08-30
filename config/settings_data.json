@@ -3443,8 +3443,8 @@
         "settings": {
           "full": true,
           "spacing_both_ends": false,
-          "padding": "80,80",
-          "margin": "0,-30",
+          "padding": "0,0",
+          "margin": "0,-60",
           "show_background_image": false,
           "background_style": "default",
           "enable_overlay": true,
