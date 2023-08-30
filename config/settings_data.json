@@ -3412,9 +3412,37 @@
       },
       "nuestros-vinos-custom-section-3": {
         "type": "nuestros-vinos-custom-section-3",
+        "blocks": {
+          "92c92802-9e6b-4a2e-91ec-a8bd3e19af1f": {
+            "type": "content",
+            "settings": {
+              "block_heading": "",
+              "block_sub_heading": "",
+              "block_description": "",
+              "block_button_text": "",
+              "block_button_link": "",
+              "heading_position": "text-start",
+              "block_img_1": "shopify:\/\/shop_images\/linea-gran.jpg",
+              "image_1_border_radius": "",
+              "image_2_border_radius": "",
+              "reverse_column": false,
+              "fullwidth_images": false,
+              "block_heading_color": "",
+              "block_sub_heading_color": "",
+              "block_description_color": "",
+              "block_button_bg_color": "",
+              "block_button_text_color": "",
+              "block_button_hover_bg_color": "",
+              "block_button_hover_text_color": ""
+            }
+          }
+        },
+        "block_order": [
+          "92c92802-9e6b-4a2e-91ec-a8bd3e19af1f"
+        ],
         "settings": {
           "full": true,
-          "spacing_both_ends": true,
+          "spacing_both_ends": false,
           "padding": "80,80",
           "margin": "0,-30",
           "show_background_image": false,
@@ -3435,8 +3463,8 @@
           "section_button_hover_bg_color": "",
           "section_button_hover_text_color": "",
           "heading_position": "text-center",
-          "column_gap": "30",
-          "border_radius": "",
+          "column_gap": "0",
+          "border_radius": "0",
           "content_width": "50\/50",
           "lap_content_width": "50\/50"
         }
@@ -3661,7 +3689,7 @@
           "section_button_hover_text_color": "",
           "heading_position": "text-center",
           "column_gap": "30",
-          "border_radius": "",
+          "border_radius": "0",
           "content_width": "50\/50",
           "lap_content_width": "50\/50"
         }
@@ -3746,7 +3774,7 @@
           "section_button_hover_text_color": "",
           "heading_position": "text-center",
           "column_gap": "0",
-          "border_radius": "",
+          "border_radius": "0",
           "content_width": "50\/50",
           "lap_content_width": "50\/50"
         }
@@ -3831,7 +3859,7 @@
           "section_button_hover_text_color": "",
           "heading_position": "text-center",
           "column_gap": "0",
-          "border_radius": "",
+          "border_radius": "0",
           "content_width": "50\/50",
           "lap_content_width": "50\/50"
         }
