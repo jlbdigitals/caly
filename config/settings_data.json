@@ -3413,6 +3413,29 @@
       "nuestros-vinos-custom-section-3": {
         "type": "nuestros-vinos-custom-section-3",
         "blocks": {
+          "6867c999-9d41-4908-b0fd-938c2a8efe0a": {
+            "type": "content",
+            "settings": {
+              "block_heading": "Main Heading",
+              "block_sub_heading": "Sub Heading",
+              "block_description": "Use this text to share the information which you like!.",
+              "block_button_text": "",
+              "block_button_link": "",
+              "heading_position": "text-start",
+              "block_img_1": "shopify:\/\/shop_images\/linea-gran.jpg",
+              "image_1_border_radius": "",
+              "image_2_border_radius": "",
+              "reverse_column": false,
+              "fullwidth_images": false,
+              "block_heading_color": "",
+              "block_sub_heading_color": "",
+              "block_description_color": "",
+              "block_button_bg_color": "",
+              "block_button_text_color": "",
+              "block_button_hover_bg_color": "",
+              "block_button_hover_text_color": ""
+            }
+          },
           "eaacf582-1dec-43f5-bd56-22a8b5a481d8": {
             "type": "content",
             "settings": {
@@ -3434,35 +3457,11 @@
               "block_button_hover_bg_color": "",
               "block_button_hover_text_color": ""
             }
-          },
-          "6867c999-9d41-4908-b0fd-938c2a8efe0a": {
-            "type": "content",
-            "settings": {
-              "block_heading": "Main Heading",
-              "block_sub_heading": "Sub Heading",
-              "block_description": "Use this text to share the information which you like!.",
-              "block_button_text": "",
-              "block_button_link": "",
-              "heading_position": "text-start",
-              "block_img_1": "shopify:\/\/shop_images\/linea-gran.jpg",
-              "image_1_border_radius": "",
-              "block_img_2": "shopify:\/\/shop_images\/linea-gran.jpg",
-              "image_2_border_radius": "",
-              "reverse_column": false,
-              "fullwidth_images": false,
-              "block_heading_color": "",
-              "block_sub_heading_color": "",
-              "block_description_color": "",
-              "block_button_bg_color": "",
-              "block_button_text_color": "",
-              "block_button_hover_bg_color": "",
-              "block_button_hover_text_color": ""
-            }
           }
         },
         "block_order": [
-          "eaacf582-1dec-43f5-bd56-22a8b5a481d8",
-          "6867c999-9d41-4908-b0fd-938c2a8efe0a"
+          "6867c999-9d41-4908-b0fd-938c2a8efe0a",
+          "eaacf582-1dec-43f5-bd56-22a8b5a481d8"
         ],
         "settings": {
           "full": false,
@@ -3644,7 +3643,7 @@
               "block_description": "<br>​La línea Gran de Calyptra nos ofrece vinos complejos, de gran volumen, carácter y cremosidad. La potencia de nuestra uva, la influencia de su año de elaboración y su crianza en barricas dan origen a vinos irrepetibles entre una añada y la otra.<br><br> <a href=\"https:\/\/calyptra-dev.myshopify.com\/pages\/sauvignon-blanc-gran-reserva\" style=\"color: #ffffff;\">Gran Sauvignon Blanc<\/a><br> <a href=\"https:\/\/calyptra-dev.myshopify.com\/pages\/chardonnay-gran-reserva\" style=\"color: #ffffff;\">Gran Chardonnay<\/a><br> <a href=\"https:\/\/calyptra-dev.myshopify.com\/pages\/pinot-noir-gran-reserva\" style=\"color: #ffffff;\">Gran Pinot Noir<\/a><br> <a href=\"https:\/\/calyptra-dev.myshopify.com\/pages\/cabernet-sauvignon-gran-reserva\" style=\"color: #ffffff;\">Gran Cabernet Sauvignon<\/a><br> <a href=\"https:\/\/calyptra-dev.myshopify.com\/pages\/assemblage-gran-reserva\" style=\"color: #ffffff;\">Gran Assemblage<\/a><br> <a href=\"https:\/\/calyptra-dev.myshopify.com\/pages\/gran-syrah\" style=\"color: #ffffff;\">Gran Syrah<\/a>",
               "block_button_text": "",
               "block_button_link": "",
-              "heading_position": "text-start",
+              "heading_position": "text-end",
               "image_1_border_radius": "",
               "image_2_border_radius": "",
               "reverse_column": false,
