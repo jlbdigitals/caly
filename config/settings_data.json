@@ -3688,7 +3688,7 @@
           "section_button_hover_bg_color": "",
           "section_button_hover_text_color": "",
           "heading_position": "text-center",
-          "column_gap": "30",
+          "column_gap": "0",
           "border_radius": "0",
           "content_width": "50\/50",
           "lap_content_width": "50\/50"
