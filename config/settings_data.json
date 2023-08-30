@@ -3423,6 +3423,28 @@
               "block_button_link": "",
               "heading_position": "text-start",
               "block_img_1": "shopify:\/\/shop_images\/linea-gran.jpg",
+              "image_1_border_radius": "0",
+              "image_2_border_radius": "",
+              "reverse_column": false,
+              "fullwidth_images": true,
+              "block_heading_color": "",
+              "block_sub_heading_color": "",
+              "block_description_color": "",
+              "block_button_bg_color": "",
+              "block_button_text_color": "",
+              "block_button_hover_bg_color": "",
+              "block_button_hover_text_color": ""
+            }
+          },
+          "dadda3b1-4978-49dd-b999-79fbd7d659c0": {
+            "type": "content",
+            "settings": {
+              "block_heading": "Main Heading",
+              "block_sub_heading": "Sub Heading",
+              "block_description": "Use this text to share the information which you like!.",
+              "block_button_text": "",
+              "block_button_link": "",
+              "heading_position": "text-start",
               "image_1_border_radius": "",
               "image_2_border_radius": "",
               "reverse_column": false,
@@ -3438,7 +3460,8 @@
           }
         },
         "block_order": [
-          "92c92802-9e6b-4a2e-91ec-a8bd3e19af1f"
+          "92c92802-9e6b-4a2e-91ec-a8bd3e19af1f",
+          "dadda3b1-4978-49dd-b999-79fbd7d659c0"
         ],
         "settings": {
           "full": true,
