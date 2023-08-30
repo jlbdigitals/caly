@@ -7390,6 +7390,9 @@
       },
       "nosotros-html-text": {
         "type": "nosotros-html-text",
+        "custom_css": [
+          "video {margin: 0px!important;}"
+        ],
         "settings": {
           "full": false,
           "spacing_both_ends": false,
