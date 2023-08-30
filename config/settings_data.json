@@ -7391,7 +7391,7 @@
       "nosotros-html-text": {
         "type": "nosotros-html-text",
         "custom_css": [
-          "video {margin: 0px 0px 0px 0px !important;}"
+          "iframe {text-align: center;}"
         ],
         "settings": {
           "full": false,
