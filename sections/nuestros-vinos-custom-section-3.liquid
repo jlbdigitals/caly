@@ -15,19 +15,9 @@
   {% assign lazyScript = "lazyload" %}
   {% endif %}
   {% endif %}
-  
-  <div class="dt-sc-section-wrapper {{lazyScript}} {{section_overlay}} {% if section.settings.background_style == 'parallax' %} parallax-initiated{% endif %}" style="{% render 'bg-color-image-padding' %}" data-style="parallax" {{background_style}} {% include 'bg_image' %}>                    
-  <div class="{% render 'container-settings' %}"> 
-      <div class="row {{ section.settings.custom_class_name }}">
-        {% comment %} <img src="https://cdn.shopify.com/s/files/1/0774/9140/5107/files/2_edbe85b4-fa64-4198-9fce-e5f7dbfacac9.jpg?v=1691593138" class="" width="400px" style="position: absolute; margin-left: ">                
-        <script>
-          var image = document.getElementsByClassName('thumbnail8');
-            new simpleParallax(image, {
-              overflow: true,
-              scale: 1.5,
-              orientation: 'left',
-                    });
-          </script> {% endcomment %}
+  <div class="dt-sc-section-wrapper {{lazyScript}} {{section_overlay}} {% if section.settings.background_style == 'parallax' %} parallax-initiated{% endif %}" style="{% render 'bg-color-image-padding' %}" data-style="parallax" {{background_style}} {% include 'bg_image' %}>  
+    <div class="{% render 'container-settings' %}"> 
+      <div class="row {{ section.settings.custom_class_name }}"> 
         {% render 'section-heading', class: section.id %} 
         <div class="home-custom-section-wrapper dt-sc-column">
           {% for block in section.blocks %}
@@ -48,10 +38,6 @@
               {%- endif -%}
             </div>
             {% endif %}
-  
-            
-  
-  
             {% if block.settings.block_img_1 or block.settings.block_img_2 != blank %}
               <div class="dt-sc-image-gallery">
                 {% if block.settings.block_img_1 != blank   %}
@@ -60,23 +46,29 @@
                      data-src="{{ block.settings.block_img_1 | img_url: 'master' }}"
                      data-widths="[180, 360, 470, 600, 770, 970, 1060, 1280, 1512, 1728, 2048]"
                      data-aspectratio="{{ block.settings.block_img_1.aspect_ratio }}"
-                     data-sizes="auto"          
+                     data-sizes="auto"            
                      data-alt="{{ block.settings.title }}">
                 <noscript>
                   {{ block.settings.block_img_1 | img_url: '480x480', scale: 2 | img_tag: block.settings.block_img_1.alt, 'dt-sc-noscript-image' }}
                 </noscript>
                 {% endif %}
   
-  
+                {% if block.settings.block_img_2 != blank   %}
+                <img class="dt-sc-block-image lazyload"
+                     src="{{ 'loading.gif' | asset_url }}"
+                     data-src="{{ block.settings.block_img_2 | img_url: 'master' }}"
+                     data-widths="[180, 360, 470, 600, 770, 970, 1060, 1280, 1512, 1728, 2048]"
+                     data-aspectratio="{{ block.settings.block_img_2.aspect_ratio }}"
+                     data-sizes="auto"            
+                     data-alt="{{ block.settings.title }}">
+                <noscript>
+                  {{ block.settings.block_img_2 | img_url: '480x480', scale: 2 | img_tag: block.settings.block_img_2.alt, 'dt-sc-noscript-image' }}
+                </noscript>
+                {% endif %}
               </div>
               {% endif %}
-  
-              
-  
           </div>
           {% endfor %}
-          
-  
         </div>
       </div>
     </div>
