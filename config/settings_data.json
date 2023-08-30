@@ -3464,7 +3464,7 @@
           "dadda3b1-4978-49dd-b999-79fbd7d659c0"
         ],
         "custom_css": [
-          ".content-dadda3b1-4978-49dd-b999-79fbd7d659c0 > .dt-sc-heading {margin-left: 10%; margin-right: 20%M;}"
+          ".content-dadda3b1-4978-49dd-b999-79fbd7d659c0 > .dt-sc-heading {margin-left: 10%; margin-right: 20%;}"
         ],
         "settings": {
           "full": true,
