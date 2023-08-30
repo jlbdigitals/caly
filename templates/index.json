@@ -349,7 +349,7 @@
         "full": true,
         "spacing_both_ends": true,
         "padding": "20,20",
-        "margin": "0,0",
+        "margin": "-30,0",
         "show_background_image": false,
         "background_style": "default",
         "enable_overlay": false,
