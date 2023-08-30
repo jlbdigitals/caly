@@ -3464,7 +3464,7 @@
           "dadda3b1-4978-49dd-b999-79fbd7d659c0"
         ],
         "custom_css": [
-          ".content-dadda3b1-4978-49dd-b999-79fbd7d659c0 > .dt-sc-heading {margin-left: 10%; margin-right: 20%M}"
+          ".content-dadda3b1-4978-49dd-b999-79fbd7d659c0 > .dt-sc-heading {margin-left: 10%; margin-right: 20%M;}"
         ],
         "settings": {
           "full": true,
@@ -3689,7 +3689,7 @@
           "b1714f76-3fe7-403b-9c68-a61aa8ca7ca3"
         ],
         "custom_css": [
-          ".content-5d744b00-e75d-4700-8dea-55512f724b27 > .dt-sc-heading {margin-left: 20px; margin-right: 20px;}"
+          ".content-5d744b00-e75d-4700-8dea-55512f724b27 > .dt-sc-heading {margin-left: 10%; margin-right: 20%;}"
         ],
         "settings": {
           "full": true,
