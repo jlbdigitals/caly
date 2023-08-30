@@ -2,6 +2,9 @@
   "sections": {
     "ea4b52f7-66a8-482d-94c7-bdfbc409b826": {
       "type": "home-video-banner",
+      "custom_css": [
+        ".hero {height: 100vh;}"
+      ],
       "settings": {
         "full": true,
         "spacing_both_ends": false,
@@ -53,7 +56,7 @@
         "icon_color": "",
         "icon_bg_color_hover": "",
         "icon_color_hover": "",
-        "custom_class_name": ""
+        "custom_class_name": "hero"
       }
     },
     "be7f10bf-fe40-45dd-83c4-98d915750729": {
