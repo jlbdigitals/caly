@@ -36,7 +36,7 @@
         "video_format": "video",
         "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/ae1939bfa51e4ca38e93db03e2534263.mp4",
         "iframe_url": "https:\/\/www.youtube.com\/embed\/JJMPKgyCoSY",
-        "video_height": "900",
+        "video_height": "100%",
         "overlay_style": "with-overlay",
         "enable_box_shadow": false,
         "border_radius": "0",
