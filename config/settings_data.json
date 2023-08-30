@@ -7416,7 +7416,7 @@
           "section_button_hover_bg_color": "",
           "section_button_hover_text_color": "",
           "heading_position": "text-center",
-          "html": "<iframe width=\"1920\" height=\"1080\" src=\"https:\/\/www.youtube.com\/embed\/Ggt16QlULso?si=p7OWDE0GA6gNofkH\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\"><\/iframe>",
+          "html": "<iframe width=\"1920\" height=\"800\" src=\"https:\/\/www.youtube.com\/embed\/Ggt16QlULso?si=p7OWDE0GA6gNofkH\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\"><\/iframe>",
           "custom_class_name": ""
         }
       }
