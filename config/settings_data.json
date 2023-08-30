@@ -3463,6 +3463,9 @@
           "92c92802-9e6b-4a2e-91ec-a8bd3e19af1f",
           "dadda3b1-4978-49dd-b999-79fbd7d659c0"
         ],
+        "custom_css": [
+          ".dt-sc-custom-block content-dadda3b1-4978-49dd-b999-79fbd7d659c0 > .dt-sc-heading {margin-left: 20px; margin-right: 10px;}"
+        ],
         "settings": {
           "full": true,
           "spacing_both_ends": false,
