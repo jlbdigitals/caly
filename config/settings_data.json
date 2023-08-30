@@ -81,7 +81,7 @@
     "show_quick_shop_product_link": true,
     "show_quick_shop_desc": true,
     "show_wislist": false,
-    "enable_scroll_to_top": true,
+    "enable_scroll_to_top": false,
     "collections_show_sale_circle": true,
     "collections_show_sold_out_circle": true,
     "secondary_image_use": false,
