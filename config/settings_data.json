@@ -3773,7 +3773,7 @@
           "full": true,
           "spacing_both_ends": false,
           "padding": "0,0",
-          "margin": "0,-40",
+          "margin": "0,-60",
           "show_background_image": false,
           "background_style": "default",
           "enable_overlay": true,
@@ -3792,7 +3792,7 @@
           "section_button_hover_bg_color": "",
           "section_button_hover_text_color": "",
           "heading_position": "text-center",
-          "column_gap": "30",
+          "column_gap": "0",
           "border_radius": "",
           "content_width": "50\/50",
           "lap_content_width": "50\/50"
@@ -3877,7 +3877,7 @@
           "section_button_hover_bg_color": "",
           "section_button_hover_text_color": "",
           "heading_position": "text-center",
-          "column_gap": "30",
+          "column_gap": "0",
           "border_radius": "",
           "content_width": "50\/50",
           "lap_content_width": "50\/50"
