@@ -3412,59 +3412,8 @@
       },
       "nuestros-vinos-custom-section-3": {
         "type": "nuestros-vinos-custom-section-3",
-        "blocks": {
-          "6867c999-9d41-4908-b0fd-938c2a8efe0a": {
-            "type": "content",
-            "settings": {
-              "block_heading": "",
-              "block_sub_heading": "",
-              "block_description": "",
-              "block_button_text": "",
-              "block_button_link": "",
-              "heading_position": "text-start",
-              "block_img_1": "shopify:\/\/shop_images\/linea-gran.jpg",
-              "image_1_border_radius": "",
-              "image_2_border_radius": "",
-              "reverse_column": false,
-              "fullwidth_images": true,
-              "block_heading_color": "",
-              "block_sub_heading_color": "",
-              "block_description_color": "",
-              "block_button_bg_color": "",
-              "block_button_text_color": "",
-              "block_button_hover_bg_color": "",
-              "block_button_hover_text_color": ""
-            }
-          },
-          "eaacf582-1dec-43f5-bd56-22a8b5a481d8": {
-            "type": "content",
-            "settings": {
-              "block_heading": "LÍNEA VIVENDO",
-              "block_sub_heading": "<i>– Expresión natural<\/i>",
-              "block_description": "<br>La línea Vivendo de Calyptra nos presenta vinos frescos, versátiles y frutados, sin crianza en barricas. Potencia e intensidad pura del aporte de nuestro terruño a los varietales, cultivados en el rigor del clima andino. <br><br> <a href=\"https:\/\/calyptra-dev.myshopify.com\/pages\/sauvignon-blanc-vivendo\" style=\"color: #ffffff;\">Vivendo Sauvignon Blanc<\/a><br> <a href=\"https:\/\/calyptra-dev.myshopify.com\/pages\/chardonnay-vivendo-1\" style=\"color: #ffffff;\">Vivendo Chardonnay<\/a><br> <a href=\"https:\/\/calyptra-dev.myshopify.com\/pages\/pinot-noir\" style=\"color: #ffffff;\">Vivendo Pinot Noir<\/a><br> <a href=\"https:\/\/calyptra-dev.myshopify.com\/pages\/rose-vivendo-1\" style=\"color: #ffffff;\">Vivendo Rose<\/a><br> <a href=\"https:\/\/calyptra-dev.myshopify.com\/pages\/assemblage\" style=\"color: #ffffff;\">Vivendo Assemblage<\/a>",
-              "block_button_text": "",
-              "block_button_link": "#",
-              "heading_position": "text-start",
-              "image_1_border_radius": "",
-              "image_2_border_radius": "",
-              "reverse_column": false,
-              "fullwidth_images": false,
-              "block_heading_color": "#ffffff",
-              "block_sub_heading_color": "#ffffff",
-              "block_description_color": "#ffffff",
-              "block_button_bg_color": "",
-              "block_button_text_color": "#ffffff",
-              "block_button_hover_bg_color": "",
-              "block_button_hover_text_color": ""
-            }
-          }
-        },
-        "block_order": [
-          "6867c999-9d41-4908-b0fd-938c2a8efe0a",
-          "eaacf582-1dec-43f5-bd56-22a8b5a481d8"
-        ],
         "settings": {
-          "full": false,
+          "full": true,
           "spacing_both_ends": true,
           "padding": "80,80",
           "margin": "0,-30",
