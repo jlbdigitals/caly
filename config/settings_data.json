@@ -3413,29 +3413,6 @@
       "nuestros-vinos-custom-section-3": {
         "type": "nuestros-vinos-custom-section-3",
         "blocks": {
-          "8654fb51-bec3-4f09-98c8-458459bda792": {
-            "type": "content",
-            "settings": {
-              "block_heading": "",
-              "block_sub_heading": "",
-              "block_description": "",
-              "block_button_text": "",
-              "block_button_link": "",
-              "heading_position": "text-start",
-              "block_img_1": "shopify:\/\/shop_images\/linea-gran.jpg",
-              "image_1_border_radius": "",
-              "image_2_border_radius": "",
-              "reverse_column": false,
-              "fullwidth_images": true,
-              "block_heading_color": "",
-              "block_sub_heading_color": "",
-              "block_description_color": "",
-              "block_button_bg_color": "",
-              "block_button_text_color": "",
-              "block_button_hover_bg_color": "",
-              "block_button_hover_text_color": ""
-            }
-          },
           "eaacf582-1dec-43f5-bd56-22a8b5a481d8": {
             "type": "content",
             "settings": {
@@ -3457,11 +3434,35 @@
               "block_button_hover_bg_color": "",
               "block_button_hover_text_color": ""
             }
+          },
+          "6867c999-9d41-4908-b0fd-938c2a8efe0a": {
+            "type": "content",
+            "settings": {
+              "block_heading": "Main Heading",
+              "block_sub_heading": "Sub Heading",
+              "block_description": "Use this text to share the information which you like!.",
+              "block_button_text": "",
+              "block_button_link": "",
+              "heading_position": "text-start",
+              "block_img_1": "shopify:\/\/shop_images\/linea-gran.jpg",
+              "image_1_border_radius": "",
+              "block_img_2": "shopify:\/\/shop_images\/linea-gran.jpg",
+              "image_2_border_radius": "",
+              "reverse_column": false,
+              "fullwidth_images": false,
+              "block_heading_color": "",
+              "block_sub_heading_color": "",
+              "block_description_color": "",
+              "block_button_bg_color": "",
+              "block_button_text_color": "",
+              "block_button_hover_bg_color": "",
+              "block_button_hover_text_color": ""
+            }
           }
         },
         "block_order": [
-          "8654fb51-bec3-4f09-98c8-458459bda792",
-          "eaacf582-1dec-43f5-bd56-22a8b5a481d8"
+          "eaacf582-1dec-43f5-bd56-22a8b5a481d8",
+          "6867c999-9d41-4908-b0fd-938c2a8efe0a"
         ],
         "settings": {
           "full": false,
@@ -3686,10 +3687,10 @@
           "b1714f76-3fe7-403b-9c68-a61aa8ca7ca3"
         ],
         "settings": {
-          "full": false,
+          "full": true,
           "spacing_both_ends": false,
-          "padding": "50,80",
-          "margin": "0,-30",
+          "padding": "0,0",
+          "margin": "0,-60",
           "show_background_image": false,
           "background_style": "default",
           "enable_overlay": true,
@@ -3710,8 +3711,8 @@
           "heading_position": "text-center",
           "column_gap": "30",
           "border_radius": "",
-          "content_width": "60\/40",
-          "lap_content_width": "60\/40"
+          "content_width": "50\/50",
+          "lap_content_width": "50\/50"
         }
       },
       "nuestros-vinos-custom-section-7": {
