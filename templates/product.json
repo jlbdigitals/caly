@@ -62,9 +62,9 @@
         "4b3da037-b463-4a94-bc3d-31a5f48a3e2a": {
           "type": "collection",
           "settings": {
-            "title": "",
-            "collection": "vivendo",
-            "limit": 3
+            "title": "Destacamos",
+            "collection": "frontpage",
+            "limit": 4
           }
         }
       },
@@ -83,7 +83,7 @@
       ],
       "settings": {
         "gallery_type": "thumbnails_hide",
-        "vertical_style": "dt-sc-product-vertical-thumb-left",
+        "vertical_style": "dt-sc-product-vertical-thumb-right",
         "enable_zoom": false,
         "enable_video_looping": false,
         "reviews": false,
@@ -96,7 +96,7 @@
         "hide_addtocart": false,
         "show_wishlist": false,
         "show_share_buttons": false,
-        "tab_position": "bottom",
+        "tab_position": "right",
         "product_tab1": true,
         "product_tab1_heading": "Descripción",
         "product_tab2": false,
