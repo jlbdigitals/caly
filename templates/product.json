@@ -46,7 +46,6 @@
         },
         "5a307aff-9ef3-4dbd-885c-32b319c25f63": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "title": "Heading",
             "link_text": "Shop Now",
@@ -88,7 +87,7 @@
         "vertical_style": "dt-sc-product-vertical-thumb-right",
         "enable_zoom": false,
         "enable_video_looping": false,
-        "reviews": false,
+        "reviews": true,
         "show_variants_swatches": true,
         "show_size_chart": false,
         "show_product_quantity": true,
