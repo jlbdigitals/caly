@@ -123,8 +123,8 @@
       "type": "recently-viewed-products",
       "disabled": true,
       "settings": {
-        "show_product_recently": false,
-        "title": "Vinos Vistos",
+        "show_product_recently": true,
+        "title": "Vistos Recientemente",
         "heading_position": "text-center",
         "items_to_show": "4"
       }
