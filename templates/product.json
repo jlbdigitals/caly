@@ -113,8 +113,8 @@
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
-        "show_product_recommendations": false,
-        "heading": "Vinos Recomendados",
+        "show_product_recommendations": true,
+        "heading": "",
         "heading_position": "text-center"
       }
     },
