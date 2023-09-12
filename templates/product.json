@@ -81,6 +81,9 @@
         "a5308eb8-3f3f-4a6a-93b1-7d12b7c97c8f",
         "4b3da037-b463-4a94-bc3d-31a5f48a3e2a"
       ],
+      "custom_css": [
+        ".sidebar_title {display: none;}"
+      ],
       "settings": {
         "gallery_type": "thumbnails_hide",
         "vertical_style": "dt-sc-product-vertical-thumb-right",
