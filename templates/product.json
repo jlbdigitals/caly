@@ -46,10 +46,8 @@
         },
         "5a307aff-9ef3-4dbd-885c-32b319c25f63": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "title": "Heading",
-            "image": "shopify:\/\/shop_images\/Linea-vivendo-2.jpg",
             "link_text": "Shop Now",
             "link": "shopify:\/\/products\/gran-assemblage"
           }
@@ -81,37 +79,43 @@
         "a5308eb8-3f3f-4a6a-93b1-7d12b7c97c8f",
         "4b3da037-b463-4a94-bc3d-31a5f48a3e2a"
       ],
+      "custom_css": [
+        ".sidebar_title {display: none;}"
+      ],
       "settings": {
         "gallery_type": "thumbnails_hide",
         "vertical_style": "dt-sc-product-vertical-thumb-right",
         "enable_zoom": false,
         "enable_video_looping": false,
-        "reviews": false,
+        "reviews": true,
         "show_variants_swatches": true,
         "show_size_chart": false,
-        "show_product_quantity": false,
+        "show_product_quantity": true,
         "display_back_in_stock": true,
         "show_quantity_selector": true,
         "show_checkout": true,
         "hide_addtocart": false,
         "show_wishlist": false,
         "show_share_buttons": false,
-        "tab_position": "right",
+        "tab_position": "bottom",
         "product_tab1": true,
         "product_tab1_heading": "Descripción",
-        "product_tab2": false,
-        "product_tab2_heading": "Additional information",
+        "product_tab2": true,
+        "product_tab2_heading": "Detalles de envío",
         "page_content": "shipping-details",
-        "product_tab3": false,
-        "product_tab3_heading": "Reviews",
-        "enable_enquiry": false
+        "product_tab3": true,
+        "product_tab3_heading": "Reseñas",
+        "enable_enquiry": true
       }
     },
     "product-recommendations": {
       "type": "product-recommendations",
+      "custom_css": [
+
+      ],
       "settings": {
-        "show_product_recommendations": false,
-        "heading": "Vinos Recomendados",
+        "show_product_recommendations": true,
+        "heading": "Otros vinos en esta categoría",
         "heading_position": "text-center"
       }
     },
