@@ -49,7 +49,6 @@
           "disabled": true,
           "settings": {
             "title": "Heading",
-            "image": "shopify:\/\/shop_images\/Linea-vivendo-2.jpg",
             "link_text": "Shop Now",
             "link": "shopify:\/\/products\/gran-assemblage"
           }
@@ -92,14 +91,14 @@
         "reviews": false,
         "show_variants_swatches": true,
         "show_size_chart": false,
-        "show_product_quantity": false,
+        "show_product_quantity": true,
         "display_back_in_stock": true,
         "show_quantity_selector": true,
         "show_checkout": true,
         "hide_addtocart": false,
         "show_wishlist": false,
         "show_share_buttons": false,
-        "tab_position": "bottom",
+        "tab_position": "right",
         "product_tab1": true,
         "product_tab1_heading": "Descripción",
         "product_tab2": true,
