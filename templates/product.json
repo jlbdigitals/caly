@@ -101,13 +101,13 @@
         "show_share_buttons": false,
         "tab_position": "bottom",
         "product_tab1": true,
-        "product_tab1_heading": "",
-        "product_tab2": false,
-        "product_tab2_heading": "Additional information",
+        "product_tab1_heading": "Descripción",
+        "product_tab2": true,
+        "product_tab2_heading": "Ficha Técnica",
         "page_content": "shipping-details",
-        "product_tab3": false,
+        "product_tab3": true,
         "product_tab3_heading": "Reviews",
-        "enable_enquiry": false
+        "enable_enquiry": true
       }
     },
     "product-recommendations": {
