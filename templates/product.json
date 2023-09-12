@@ -101,10 +101,10 @@
         "product_tab1": true,
         "product_tab1_heading": "Descripción",
         "product_tab2": true,
-        "product_tab2_heading": "Ficha Técnica",
+        "product_tab2_heading": "Detalles de envío",
         "page_content": "shipping-details",
         "product_tab3": true,
-        "product_tab3_heading": "Reviews",
+        "product_tab3_heading": "Reseñas",
         "enable_enquiry": true
       }
     },
