@@ -113,7 +113,7 @@
     "product-recommendations": {
       "type": "product-recommendations",
       "custom_css": [
-        ".section-header__title {display: none;}"
+        ".section-header__title {display: none!important;}"
       ],
       "settings": {
         "show_product_recommendations": true,
