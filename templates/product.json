@@ -46,6 +46,7 @@
         },
         "5a307aff-9ef3-4dbd-885c-32b319c25f63": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "title": "Heading",
             "image": "shopify:\/\/shop_images\/Linea-vivendo-2.jpg",
@@ -56,6 +57,14 @@
         "a5308eb8-3f3f-4a6a-93b1-7d12b7c97c8f": {
           "type": "notify-form",
           "settings": {
+          }
+        },
+        "4b3da037-b463-4a94-bc3d-31a5f48a3e2a": {
+          "type": "collection",
+          "settings": {
+            "title": "",
+            "collection": "vivendo",
+            "limit": 3
           }
         }
       },
@@ -69,7 +78,8 @@
         "c0548d06-402e-4234-9a58-03c52a7d6c74",
         "959fd2b2-81db-41a1-b8a0-21c2e6d9819f",
         "5a307aff-9ef3-4dbd-885c-32b319c25f63",
-        "a5308eb8-3f3f-4a6a-93b1-7d12b7c97c8f"
+        "a5308eb8-3f3f-4a6a-93b1-7d12b7c97c8f",
+        "4b3da037-b463-4a94-bc3d-31a5f48a3e2a"
       ],
       "settings": {
         "gallery_type": "thumbnails_hide",
