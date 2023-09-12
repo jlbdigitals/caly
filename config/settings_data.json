@@ -100,7 +100,7 @@
     "display_item_size": false,
     "product_review": false,
     "sidebar_width": 245,
-    "product_page_sidebar": "left-sidebar",
+    "product_page_sidebar": "full-width",
     "collection_sidebar_use": "full-width",
     "blog_page_sidebar": "full-width",
     "collection_sidebar_mobile": false,
