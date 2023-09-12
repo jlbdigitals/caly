@@ -117,7 +117,7 @@
       ],
       "settings": {
         "show_product_recommendations": true,
-        "heading": "",
+        "heading": "Otros vinos en esta categoría",
         "heading_position": "text-center"
       }
     },
