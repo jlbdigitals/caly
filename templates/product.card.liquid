@@ -1,4 +1,4 @@
--{%- layout none -%}
+{%- layout none -%}
 {% if template contains 'product' %}
 {% assign grid_item_width = '' %}
 {% endif %}
@@ -27,8 +27,7 @@
     id="product-{{ product.id }}">
 
   <div class="products">
-    <div class="product-container">   
-    DDEDEDEDEDE   
+    <div class="product-container">    
       <a href="{{ product.url | within: collection }}" class="grid-link">                   
         <div class="ImageOverlayCa"></div>
         <img src="{{ product.featured_image.src | img_url: img_size }}" class="featured-image" alt="{{ product.featured_image.alt | escape }}">
