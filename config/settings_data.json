@@ -2606,7 +2606,7 @@
           "show_background_image": false,
           "background_image": "shopify:\/\/shop_images\/fondo_pattern.jpg",
           "background_style": "default",
-          "enable_overlay": true,
+          "enable_overlay": false,
           "background_color": "#ffffff",
           "overlay_transparency": "0.8",
           "section_heading": "",
