@@ -2383,7 +2383,7 @@
           "full": false,
           "spacing_both_ends": false,
           "padding": "80,0",
-          "margin": "0,0",
+          "margin": "-30,0",
           "show_background_image": true,
           "background_image": "shopify:\/\/shop_images\/fondo_pattern.jpg",
           "background_style": "default",
