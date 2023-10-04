@@ -2,6 +2,9 @@
   "sections": {
     "main": {
       "type": "main-article-template",
+      "custom_css": [
+        ".dt-sc-blog-description > h3 > a {color: bkack !important;}"
+      ],
       "settings": {
         "show_blog_author": true,
         "show_blog_date": true,
