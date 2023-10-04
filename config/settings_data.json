@@ -2683,7 +2683,7 @@
         "settings": {
           "full": false,
           "spacing_both_ends": false,
-          "padding": "250,250",
+          "padding": "150,150",
           "margin": "0,-30",
           "show_background_image": true,
           "background_image": "shopify:\/\/shop_images\/8.jpg",
