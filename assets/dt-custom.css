@@ -74,7 +74,7 @@
 
 
 :root {
-  /* Heading font*/--DTFontTypo_Heading:'Rancho', cursive;--font-style-header: normal;
+  /* Heading font*/--DTFontTypo_Heading:'Trajan', cursive;--font-style-header: normal;
   --font-weight-header: 400;
   --font-size-header: ;
   --font-size-header-tablet: ;
