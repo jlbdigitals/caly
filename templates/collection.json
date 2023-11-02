@@ -6,7 +6,8 @@
         "4f39b208-07be-415c-8cae-3f083f5dbc39": {
           "type": "Slider",
           "settings": {
-            "image": "shopify:\/\/shop_images\/banner-Petit_Inedito.png",
+            "image": "shopify:\/\/shop_images\/banner-espumante_hera_3x2_8585db8f-da20-4b4f-81b8-f50e5380afbe.png",
+            "mobile_image": "shopify:\/\/shop_images\/1_74e5d63b-6394-4ddb-b8d1-7d1f54d6f67c.jpg",
             "mobile_bg_clr": "",
             "text_alignment": "text-start",
             "content_position": "dt-sc-flex-center",
@@ -38,7 +39,8 @@
         "1202544d-3610-42e3-b223-7efdbf855a1e": {
           "type": "Slider",
           "settings": {
-            "image": "shopify:\/\/shop_images\/banner-Vivendo_Rose.png",
+            "image": "shopify:\/\/shop_images\/Banners_Digitals.png",
+            "mobile_image": "shopify:\/\/shop_images\/3_bf0510c0-4abf-4221-bcc4-42eff8cd16d6.jpg",
             "mobile_bg_clr": "",
             "text_alignment": "text-center",
             "content_position": "dt-sc-flex-center",
@@ -70,7 +72,8 @@
         "d67bfedd-740f-4dbd-ac3a-9bd51964d9fa": {
           "type": "Slider",
           "settings": {
-            "image": "shopify:\/\/shop_images\/banner-Petit_Inedito.png",
+            "image": "shopify:\/\/shop_images\/banner-Vivendo_Rose_a13033a9-6ec0-4617-9ca5-e9310fd75062.png",
+            "mobile_image": "shopify:\/\/shop_images\/2_ed718faa-865c-48df-bd9d-5e077de63ad7.jpg",
             "mobile_bg_clr": "",
             "text_alignment": "text-center",
             "content_position": "dt-sc-flex-center",
