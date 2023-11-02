@@ -247,7 +247,7 @@
           "mega_menu_bg": "#ffffff",
           "submenu_color": "#000000",
           "submenu_hover_color": "#c21532",
-          "font_size": 20,
+          "font_size": 14,
           "font_size_sub": 16,
           "show_header_currency": false
         }

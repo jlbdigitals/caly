@@ -8,7 +8,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/banner-Petit_Inedito.png",
             "mobile_bg_clr": "",
-            "text_alignment": "text-center",
+            "text_alignment": "text-start",
             "content_position": "dt-sc-flex-center",
             "show_image": false,
             "title_2": "",
