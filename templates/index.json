@@ -3,7 +3,7 @@
     "ea4b52f7-66a8-482d-94c7-bdfbc409b826": {
       "type": "home-video-banner",
       "custom_css": [
-
+        "h4 {color: red!important; font-size: 3em;}"
       ],
       "settings": {
         "full": true,
