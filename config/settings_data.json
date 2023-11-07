@@ -192,14 +192,28 @@
               "product3": "beevee-messenger-bag-1",
               "product4": "idp-knockout-pink-running-shoes"
             }
+          },
+          "0ae5ba5b-f150-4879-8adc-e1f0785653ff": {
+            "type": "product",
+            "disabled": true,
+            "settings": {
+              "mega_1": "shop",
+              "mega_columns": "four-column",
+              "row_reverse": false,
+              "product1": "dirndl-skew",
+              "product2": "fantosy-shoulder-bag",
+              "product3": "beevee-messenger-bag-1",
+              "product4": "idp-knockout-pink-running-shoes"
+            }
           }
         },
         "block_order": [
           "9a293b0b-5169-4de3-b9e6-78bcfd01de73",
-          "57e64a97-4526-462d-a088-892d198fb4ae"
+          "57e64a97-4526-462d-a088-892d198fb4ae",
+          "0ae5ba5b-f150-4879-8adc-e1f0785653ff"
         ],
         "custom_css": [
-          ".ul.dt-nav > li > a {font-family: 'TrajanPro' !important;}"
+          ".ul.dt-nav > li > a {font-family: \"TrajanPro\" !important;}"
         ],
         "settings": {
           "full": true,
