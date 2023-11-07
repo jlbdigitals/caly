@@ -4,7 +4,8 @@
       "type": "home-video-banner",
       "custom_css": [
         "h4 {font-size: 2.5em;}",
-        "h5 {font-size: 1.5em;}"
+        "h5 {font-size: 1.5em;}",
+        "@media only screen and (max-width: 768px) {.hero-desktop {display: none; }}"
       ],
       "settings": {
         "full": true,
@@ -40,7 +41,7 @@
         "video_format": "video",
         "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/86bb9cd6e9cf426e8fa4bff8c9cd789c.mp4",
         "iframe_url": "",
-        "video_height": "820",
+        "video_height": "900",
         "overlay_style": "with-overlay",
         "enable_box_shadow": false,
         "border_radius": "0",
@@ -57,11 +58,16 @@
         "icon_color": "",
         "icon_bg_color_hover": "",
         "icon_color_hover": "",
-        "custom_class_name": "hero"
+        "custom_class_name": "hero-desktop"
       }
     },
     "52d3068f-82ff-497c-99d4-946e61c36aa6": {
       "type": "home-video-banner",
+      "custom_css": [
+        "h4 {font-size: 1.7em;}",
+        "h5 {font-size: 1em;}",
+        "@media only screen and (min-width: 768px) {.hero-movil {display: none; }}"
+      ],
       "settings": {
         "full": true,
         "spacing_both_ends": false,
@@ -96,7 +102,7 @@
         "video_format": "video",
         "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/86bb9cd6e9cf426e8fa4bff8c9cd789c.mp4",
         "iframe_url": "",
-        "video_height": "820",
+        "video_height": "1100",
         "overlay_style": "with-overlay",
         "enable_box_shadow": false,
         "border_radius": "0",
@@ -232,11 +238,11 @@
         "padding": "100,50",
         "margin": "0,0",
         "show_background_image": true,
-        "background_image": "shopify:\/\/shop_images\/fondo_pattern.jpg",
-        "background_style": "default",
+        "background_image": "shopify:\/\/shop_images\/fondo-lineas.jpg",
+        "background_style": "parallax",
         "enable_overlay": true,
         "background_color": "#ffffff",
-        "overlay_transparency": "0.8",
+        "overlay_transparency": "0.95",
         "section_heading": "",
         "section_sub_heading": "En Calyptra producimos vinos singulares y auténticos,<br>ocupándonos de demostrar la gran calidad de nuestras uvas.",
         "section_description": "<br>En cada botella de nuestro vino se encuentra la expresión máxima de varietal.<br>Se percibe el detalle, la constancia y paciencia puesta en cada barricase refleja el suelo, el origen, dedicación y pasión de todo el equipo de nuestra viña.",
@@ -464,11 +470,12 @@
         "spacing_both_ends": true,
         "padding": "20,20",
         "margin": "-30,0",
-        "show_background_image": false,
+        "show_background_image": true,
+        "background_image": "shopify:\/\/shop_images\/fondo-lineas.jpg",
         "background_style": "default",
-        "enable_overlay": false,
-        "background_color": "",
-        "overlay_transparency": "0.5",
+        "enable_overlay": true,
+        "background_color": "#ffffff",
+        "overlay_transparency": "0.95",
         "section_heading": "",
         "section_sub_heading": "DESTACADOS",
         "section_description": "",
