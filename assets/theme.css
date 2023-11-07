@@ -4322,3 +4322,8 @@ h1.product-single__title, .product-single__title.h1 {
         display: none!important;
     }
 }
+
+
+.hero-movil {
+    display: none;
+  }
