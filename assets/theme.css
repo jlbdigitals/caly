@@ -4319,6 +4319,6 @@ h1.product-single__title, .product-single__title.h1 {
 
 @media only screen and (max-width: 768px) {
     .hero-movil { 
-        display: none;
+        display: none!important;
     }
 }
