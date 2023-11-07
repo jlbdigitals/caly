@@ -2,13 +2,16 @@
   "sections": {
     "main": {
       "type": "main-article-template",
+      "custom_css": [
+        "h3 > a {color: bkack !important;}"
+      ],
       "settings": {
         "show_blog_author": true,
         "show_blog_date": true,
         "show_blog_tag": false,
         "social_sharing_blog": false,
         "blog_meta_color": "#1a1a1a",
-        "blog_meta_icon_color": "#d8000c"
+        "blog_meta_icon_color": "#c21532"
       }
     }
   },

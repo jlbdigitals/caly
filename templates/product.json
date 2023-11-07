@@ -135,7 +135,8 @@
         "553ceee2-e127-41eb-8631-f25e007e79cb": {
           "type": "Slider",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Vivendo.jpg",
+            "image": "shopify:\/\/shop_images\/banner-espumante_hera_3x2_dbdf3f62-9c0a-4500-87a5-fab9186372d5.png",
+            "mobile_image": "shopify:\/\/shop_images\/1_74e5d63b-6394-4ddb-b8d1-7d1f54d6f67c.jpg",
             "mobile_bg_clr": "",
             "text_alignment": "text-center",
             "content_position": "dt-sc-flex-center",
@@ -167,7 +168,8 @@
         "af6ccf1d-cbbf-4ea4-b11c-b9bf7baf5989": {
           "type": "Slider",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Gran-reserva.jpg",
+            "image": "shopify:\/\/shop_images\/banner-Vivendo_Rose.png",
+            "mobile_image": "shopify:\/\/shop_images\/2_ed718faa-865c-48df-bd9d-5e077de63ad7.jpg",
             "mobile_bg_clr": "",
             "text_alignment": "text-center",
             "content_position": "dt-sc-flex-center",
@@ -199,7 +201,8 @@
         "f168f602-5995-41e2-9a8a-162d5164ad79": {
           "type": "Slider",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Oferta.jpg",
+            "image": "shopify:\/\/shop_images\/banner-Petit_Inedito.png",
+            "mobile_image": "shopify:\/\/shop_images\/3_bf0510c0-4abf-4221-bcc4-42eff8cd16d6.jpg",
             "mobile_bg_clr": "",
             "text_alignment": "text-center",
             "content_position": "dt-sc-flex-center",
