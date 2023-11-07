@@ -5,7 +5,7 @@
       "custom_css": [
         "h4 {font-size: 2.5em;}",
         "h5 {font-size: 1.5em;}",
-        "@media only screen and (min-width: 768px) {.hero-desktop {display: none; }}"
+        "@media only screen and (max-width: 768px) {.hero-desktop {display: none; }}"
       ],
       "settings": {
         "full": true,
