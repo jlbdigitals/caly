@@ -199,7 +199,7 @@
           "57e64a97-4526-462d-a088-892d198fb4ae"
         ],
         "custom_css": [
-          ".ul.dt-nav > li > a {font-family: \"Trajan\";}"
+          ".ul.dt-nav > li > a {font-family: Trajan !important;}"
         ],
         "settings": {
           "full": true,
