@@ -62,6 +62,7 @@
     },
     "ee3d1da7-c675-4039-96fd-4a00be9128c8": {
       "type": "home-video-banner",
+      "disabled": true,
       "settings": {
         "full": true,
         "spacing_both_ends": false,
