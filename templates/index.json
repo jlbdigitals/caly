@@ -3,7 +3,8 @@
     "ea4b52f7-66a8-482d-94c7-bdfbc409b826": {
       "type": "home-video-banner",
       "custom_css": [
-        "h4 {color: red !important; font-size: 2.5em;}"
+        "h4 {font-size: 2.5em;}",
+        "h5 {font-size: 1.5em;}"
       ],
       "settings": {
         "full": true,
@@ -39,7 +40,7 @@
         "video_format": "video",
         "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/a4687f43d86b41eb990db751faec01c3.mp4",
         "iframe_url": "",
-        "video_height": "1200",
+        "video_height": "900",
         "overlay_style": "with-overlay",
         "enable_box_shadow": false,
         "border_radius": "0",
