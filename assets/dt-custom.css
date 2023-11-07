@@ -372,6 +372,11 @@ h4.dt-sc-main-title {
   .mfp-search-dialog .full-center{position:relative!important}
 }
 
+.hero-movil {
+  display: none;
+
+}
+
 @media (max-width:767px) {
 
   .mfp-dialog { padding:15px; }
