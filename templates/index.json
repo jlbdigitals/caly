@@ -63,7 +63,7 @@
     "52d3068f-82ff-497c-99d4-946e61c36aa6": {
       "type": "home-video-banner",
       "custom_css": [
-        ".hero-movil {display: none;}"
+        "@media only screen and (max-width: 768px) {.hero-movil {display: none; }}"
       ],
       "settings": {
         "full": true,
