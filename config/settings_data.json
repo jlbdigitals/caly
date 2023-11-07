@@ -3404,7 +3404,7 @@
       "nuestros-vinos-custom-section-2": {
         "type": "nuestros-vinos-custom-section-2",
         "settings": {
-          "full": true,
+          "full": false,
           "spacing_both_ends": false,
           "padding": "100,30",
           "margin": "0,0",
