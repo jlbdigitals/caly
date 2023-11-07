@@ -1277,3 +1277,10 @@ Ranjith babu, Fri 3:21 PM
   img { image-rendering: -webkit-optimize-contrast; }
 }
 
+
+
+@media only screen and (max-width: 768px) {
+  .hero-movil { 
+      display: none!important;
+  }
+}
