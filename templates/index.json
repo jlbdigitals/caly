@@ -4,7 +4,8 @@
       "type": "home-video-banner",
       "custom_css": [
         "h4 {font-size: 2.5em;}",
-        "h5 {font-size: 1.5em;}"
+        "h5 {font-size: 1.5em;}",
+        "@media only screen and (max-width: 768px) {.hero-dektop {display: none; }}"
       ],
       "settings": {
         "full": true,
@@ -57,7 +58,7 @@
         "icon_color": "",
         "icon_bg_color_hover": "",
         "icon_color_hover": "",
-        "custom_class_name": "hero"
+        "custom_class_name": "hero-desktop"
       }
     },
     "52d3068f-82ff-497c-99d4-946e61c36aa6": {
