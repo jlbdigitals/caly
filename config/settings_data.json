@@ -7,7 +7,7 @@
     "h1_size": 50,
     "h2_size": 40,
     "h3_size": 30,
-    "h4_size": 32,
+    "h4_size": 30,
     "h5_size": 28,
     "h6_size": 24,
     "base_font": "abel_n4",
@@ -198,13 +198,16 @@
           "9a293b0b-5169-4de3-b9e6-78bcfd01de73",
           "57e64a97-4526-462d-a088-892d198fb4ae"
         ],
+        "custom_css": [
+          ".ul.dt-nav > li > a {font-family: 'trajan';}"
+        ],
         "settings": {
           "full": true,
           "spacing_both_ends": false,
           "use_sticky_header": false,
           "use_sticky_mobile": false,
           "show_announcement": false,
-          "hide_announcement_mobile": true,
+          "hide_announcement_mobile": false,
           "home_page_only": true,
           "bg_color": "#d8f3f5",
           "text_color": "#206469",
