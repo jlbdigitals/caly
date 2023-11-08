@@ -582,6 +582,7 @@
     },
     "de052d95-619f-433f-85aa-0e00a488ff7c": {
       "type": "home-featured-blog",
+      "disabled": true,
       "settings": {
         "full": false,
         "spacing_both_ends": false,
@@ -672,6 +673,7 @@
     },
     "bea18c3b-5549-4638-ae46-8620df353cb9": {
       "type": "home-featured-blog",
+      "disabled": true,
       "settings": {
         "full": false,
         "spacing_both_ends": false,
