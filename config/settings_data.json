@@ -3015,6 +3015,7 @@
         "blocks": {
           "0eb9cd4f-3b7e-4657-bff5-67eff2e29645": {
             "type": "content",
+            "disabled": true,
             "settings": {
               "block_heading": "",
               "block_sub_heading": "",
@@ -3037,6 +3038,7 @@
           },
           "c9cec579-298d-44af-be49-e48f2f8430e8": {
             "type": "content",
+            "disabled": true,
             "settings": {
               "block_heading": "",
               "block_sub_heading": "",
@@ -3125,6 +3127,7 @@
         "blocks": {
           "db22d85c-6401-4d92-aa53-9240a948537e": {
             "type": "content",
+            "disabled": true,
             "settings": {
               "block_heading": "Esta diferencia climática es uno de los elementos únicos de nuestro terroir que ayuda a crear ejemplares genuinos e irrepetibles.",
               "block_sub_heading": "",
@@ -3147,6 +3150,7 @@
           },
           "4724be2c-ca51-4d5a-bb4c-997c57b10c81": {
             "type": "content",
+            "disabled": true,
             "settings": {
               "block_heading": "",
               "block_sub_heading": "",
