@@ -311,7 +311,6 @@
         "template--19365956550963__9a18635d-a8bd-43a3-806f-d348214f6f9b-16880668812f27d73f-0",
         "template--19365956550963__9a18635d-a8bd-43a3-806f-d348214f6f9b-16880668812f27d73f-1"
       ],
-      "disabled": true,
       "settings": {
         "full": false,
         "spacing_both_ends": false,
@@ -353,11 +352,11 @@
             "block_button_text": "",
             "block_button_link": "",
             "heading_position": "text-end",
+            "block_img_1": "shopify:\/\/shop_images\/zahir_home.png",
             "image_1_border_radius": "",
-            "block_img_2": "shopify:\/\/shop_images\/zahir_home_5a1b7560-9046-47b9-882b-2b82ecb08c77.png",
             "image_2_border_radius": "",
             "reverse_column": false,
-            "fullwidth_images": true,
+            "fullwidth_images": false,
             "block_heading_color": "",
             "block_sub_heading_color": "",
             "block_description_color": "",
