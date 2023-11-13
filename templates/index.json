@@ -311,6 +311,7 @@
         "template--19365956550963__9a18635d-a8bd-43a3-806f-d348214f6f9b-16880668812f27d73f-0",
         "template--19365956550963__9a18635d-a8bd-43a3-806f-d348214f6f9b-16880668812f27d73f-1"
       ],
+      "disabled": true,
       "settings": {
         "full": false,
         "spacing_both_ends": false,
