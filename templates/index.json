@@ -311,7 +311,7 @@
         "12f53c06-d4d6-4e1b-a9f7-cf069da28006"
       ],
       "custom_css": [
-        ".dt-sc-image-gallery > img {width: 450px; margin-top: 100px; margin-left: 10%}"
+        ".dt-sc-image-gallery > img {width: 450px; margin-top: 100px; margin-left: 15%;}"
       ],
       "settings": {
         "full": false,
