@@ -356,7 +356,7 @@
             "image_1_border_radius": "",
             "image_2_border_radius": "",
             "reverse_column": false,
-            "fullwidth_images": false,
+            "fullwidth_images": true,
             "block_heading_color": "",
             "block_sub_heading_color": "",
             "block_description_color": "",
@@ -482,7 +482,7 @@
           "settings": {
             "block_title": "Title",
             "collection": "frontpage",
-            "enable_box_shadow": true,
+            "enable_box_shadow": false,
             "border_radius": "0",
             "collection_column_gap": "30",
             "limit": 5,
@@ -813,6 +813,53 @@
         "icon_color_hover": "",
         "custom_class_name": ""
       }
+    },
+    "2491a0d2-c326-4f92-846d-73424e807101": {
+      "type": "home-featured-product",
+      "disabled": true,
+      "settings": {
+        "full": false,
+        "spacing_both_ends": false,
+        "padding": "0,0",
+        "margin": "0,0",
+        "show_background_image": false,
+        "background_style": "default",
+        "enable_overlay": false,
+        "background_color": "",
+        "overlay_transparency": "0.5",
+        "section_heading": "Featured Product",
+        "section_sub_heading": "Sub Heading",
+        "section_description": "Use this text to share the information which you like!.",
+        "section_button_text": "",
+        "section_button_link": "",
+        "section_heading_color": "",
+        "section_sub_heading_color": "",
+        "section_description_color": "",
+        "section_button_bg_color": "",
+        "section_button_text_color": "",
+        "section_button_hover_bg_color": "",
+        "section_button_hover_text_color": "",
+        "heading_position": "text-center",
+        "featured_product": "",
+        "gallery_type": "thumbnails_horizontal",
+        "vertical_style": "dt-sc-product-vertical-thumb-left",
+        "disable_thumbnails": false,
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "show_featured_shop_desc": true,
+        "featured_view_desc_truncate": "30",
+        "show_variants_swatches": true,
+        "deals_section": false,
+        "show_size_chart": false,
+        "show_product_vendor": false,
+        "show_product_type": false,
+        "show_product_sku": false,
+        "show_product_quantity": true,
+        "display_back_in_stock": false,
+        "show_quantity_selector": true,
+        "show_checkout": true,
+        "hide_addtocart": false
+      }
     }
   },
   "order": [
@@ -826,6 +873,7 @@
     "16305701682495e701",
     "de052d95-619f-433f-85aa-0e00a488ff7c",
     "bea18c3b-5549-4638-ae46-8620df353cb9",
-    "cbf991f5-2c25-407d-9683-3f7dcdb9ad89"
+    "cbf991f5-2c25-407d-9683-3f7dcdb9ad89",
+    "2491a0d2-c326-4f92-846d-73424e807101"
   ]
 }
