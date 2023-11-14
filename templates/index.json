@@ -513,7 +513,6 @@
         "padding": "20,20",
         "margin": "-30,0",
         "show_background_image": true,
-        "background_image": "shopify:\/\/shop_images\/fondo-lineas.jpg",
         "background_style": "default",
         "enable_overlay": true,
         "background_color": "#ffffff",
