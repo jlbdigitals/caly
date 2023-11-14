@@ -311,7 +311,7 @@
         "12f53c06-d4d6-4e1b-a9f7-cf069da28006"
       ],
       "custom_css": [
-        ".dt-sc-image-gallery > img {width: 450px; margin-top: 100px;}"
+        ".dt-sc-image-gallery > img {width: 450px; margin-top: 100px; margin-left: 10%;}"
       ],
       "settings": {
         "full": false,
@@ -424,11 +424,14 @@
       "block_order": [
         "ea1fe732-b623-4a3c-87ff-71c0c709cbce"
       ],
+      "custom_css": [
+        ".product-button {display: none;}"
+      ],
       "settings": {
         "full": false,
         "spacing_both_ends": true,
         "padding": "20,20",
-        "margin": "-30,0",
+        "margin": "-0,0",
         "show_background_image": true,
         "background_style": "default",
         "enable_overlay": true,
