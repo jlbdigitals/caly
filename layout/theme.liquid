@@ -73,6 +73,16 @@
         api_key: 'wg_e893837354ef67fc72cb14f25d5031790'
     });
 </script>
+
+<style>
+  .WhatsApp-wz8yqnjbj1-channel {
+    margin-bottom: 50px;
+  }
+</style>
+
+
+
+
   </head>
   <body id="{{ page_title | handle }}" class="{% if settings.home_sidebar   %}{% endif %} {% if settings.enable_boxed %}body-boxed {% endif %}{% if customer %}customer-logged-in {% endif %}template-{{ template | replace: '.', ' ' | truncatewords: 1, '' | handle }} {% unless tempate contains 'index' %} others {% endunless %}" style="{% if settings.boxed_bg_image != blank %}background-image:url('{{ settings.boxed_bg_image | img_url: 'master' }}');background-attachment:fixed;background-repeat:no-repeat;background-position:center center;{% endif %}">
 {% include 'agechecker' %}
