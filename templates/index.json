@@ -482,7 +482,7 @@
           "settings": {
             "block_title": "Title",
             "collection": "frontpage",
-            "enable_box_shadow": false,
+            "enable_box_shadow": true,
             "border_radius": "0",
             "collection_column_gap": "30",
             "limit": 5,
@@ -491,7 +491,7 @@
             "rows": 2,
             "slider_autoplay": 0,
             "enable_auto_height": true,
-            "dots": true,
+            "dots": false,
             "carousel_pagination_alignment": "center_pagination",
             "arrows": true,
             "nav_arrow_position": "navigation-top-right",
