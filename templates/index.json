@@ -424,6 +424,9 @@
       "block_order": [
         "ea1fe732-b623-4a3c-87ff-71c0c709cbce"
       ],
+      "custom_css": [
+        ".product-button {display: none;}"
+      ],
       "settings": {
         "full": false,
         "spacing_both_ends": true,
