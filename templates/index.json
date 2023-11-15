@@ -299,7 +299,7 @@
         "section_button_text_color": "",
         "section_button_hover_bg_color": "",
         "section_button_hover_text_color": "",
-        "heading_position": "text-center",
+        "heading_position": "text-start",
         "column_gap": "30",
         "border_radius": "",
         "content_width": "50\/50",
