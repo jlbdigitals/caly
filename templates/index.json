@@ -425,7 +425,8 @@
         "ea1fe732-b623-4a3c-87ff-71c0c709cbce"
       ],
       "custom_css": [
-        ".product-button {display: none;}"
+        ".product-button {display: none;}",
+        "h4 > a {font-size: 20px !important;}"
       ],
       "settings": {
         "full": false,
