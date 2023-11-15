@@ -34,7 +34,7 @@
         "deals_border_radius": "0",
         "block_button_text": "",
         "block_button_link": "",
-        "block_text_align": "text-center",
+        "block_text_align": "text-start",
         "title_color": "#ffffff",
         "sub_title_color": "#ffffff",
         "description_color": "",
