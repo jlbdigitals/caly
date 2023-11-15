@@ -3,7 +3,7 @@
     "79a1b605-24c0-4f5d-8c7f-d347ce896c2f": {
       "type": "home-deal-banner",
       "settings": {
-        "full": false,
+        "full": true,
         "spacing_both_ends": false,
         "padding": "400,300",
         "margin": "0,0",
