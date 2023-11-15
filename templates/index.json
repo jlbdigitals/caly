@@ -430,7 +430,7 @@
       "settings": {
         "full": false,
         "spacing_both_ends": true,
-        "padding": "20,20",
+        "padding": "80,80",
         "margin": "-0,0",
         "show_background_image": true,
         "background_style": "default",
