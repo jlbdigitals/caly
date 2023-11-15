@@ -52,8 +52,7 @@
     "ee3d1da7-c675-4039-96fd-4a00be9128c8": {
       "type": "home-video-banner",
       "custom_css": [
-        "h4.dt-sc-main-title {display: inline-block;}",
-        "h4.dt-sc-main-title::after {display: block; border-bottom: 2px solid #c31633; width: 50px; margin: 0 auto;}"
+
       ],
       "settings": {
         "full": true,
@@ -106,7 +105,7 @@
         "icon_color": "",
         "icon_bg_color_hover": "",
         "icon_color_hover": "",
-        "custom_class_name": ""
+        "custom_class_name": "hero-barril"
       }
     },
     "ea4b52f7-66a8-482d-94c7-bdfbc409b826": {
