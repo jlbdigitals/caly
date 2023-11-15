@@ -51,6 +51,9 @@
     },
     "ee3d1da7-c675-4039-96fd-4a00be9128c8": {
       "type": "home-video-banner",
+      "custom_css": [
+        "h4.dt-sc-main-title {display: inline-block; }"
+      ],
       "settings": {
         "full": true,
         "spacing_both_ends": false,
