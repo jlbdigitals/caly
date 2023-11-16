@@ -358,7 +358,7 @@
         "background_color": "#ffffff",
         "overlay_transparency": "0.95",
         "section_heading": "",
-        "section_sub_heading": "DESTACADOS",
+        "section_sub_heading": "DESTACADOS CALYPTRA",
         "section_description": "",
         "section_button_text": "",
         "section_button_link": "",
@@ -964,7 +964,7 @@
         "template--19365956550963__dab77fa4-b982-44f0-a50e-17fa123be761-categorylisting-2": {
           "type": "categorylisting",
           "settings": {
-            "icon_1_bg": "#000",
+            "icon_1_bg": "#000000",
             "sub_title": "Heading",
             "linked_list_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
             "linkedlist": "",
@@ -976,7 +976,7 @@
         "template--19365956550963__dab77fa4-b982-44f0-a50e-17fa123be761-categorylisting-3": {
           "type": "categorylisting",
           "settings": {
-            "icon_1_bg": "#000",
+            "icon_1_bg": "#000000",
             "sub_title": "Heading",
             "linked_list_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
             "linkedlist": "",
