@@ -3920,6 +3920,10 @@
       },
       "nuestros-vinos-video-banner-2": {
         "type": "nuestros-vinos-video-banner-2",
+        "custom_css": [
+          "h4.dt-sc-main-title {display: inline-block;}",
+          "h4.dt-sc-main-title::after {display: block; border-bottom: 2px solid #c31633; width: 50px; margin: 0 auto;}"
+        ],
         "settings": {
           "full": true,
           "spacing_both_ends": false,
