@@ -290,7 +290,7 @@
         "show_background_image": true,
         "background_style": "parallax",
         "enable_overlay": true,
-        "background_color": "#2e2e2e",
+        "background_color": "#111111",
         "overlay_transparency": "0.95",
         "section_heading": "",
         "section_sub_heading": "En Calyptra producimos vinos singulares y auténticos.",
