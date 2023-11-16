@@ -2819,8 +2819,8 @@
           "content_position": "center",
           "block_text_align": "text-center",
           "block_image": "shopify:\/\/shop_images\/portada-video-web.jpg",
-          "show_image": true,
-          "video_format": "modal",
+          "show_image": false,
+          "video_format": "video",
           "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/070dfbcbabee4995a940e13e194f5745.mp4",
           "iframe_url": "",
           "video_height": "500",
@@ -3952,7 +3952,7 @@
           "block_text_align": "text-center",
           "show_image": true,
           "video_format": "video",
-          "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/c4b1ffb834ca4cdcb80110378520f2c1.mp4",
+          "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/495381e6835745a286d6438cfebc3fcc.mp4",
           "iframe_url": "",
           "video_height": "700",
           "overlay_style": "with-overlay",
@@ -6593,7 +6593,7 @@
           "block_text_align": "text-center",
           "show_image": true,
           "video_format": "video",
-          "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/495381e6835745a286d6438cfebc3fcc.mp4",
+          "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/c4b1ffb834ca4cdcb80110378520f2c1.mp4",
           "iframe_url": "",
           "video_height": "500",
           "overlay_style": "with-overlay",
@@ -7452,7 +7452,7 @@
           "section_button_hover_bg_color": "",
           "section_button_hover_text_color": "",
           "heading_position": "text-center",
-          "html": "<iframe width=\"100%\" height=\"600\" src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/0556822d0f584aef988a82c2eab87584.mp4\" frameborder=\"0\" allowfullscreen=\"\" poster=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0774\/9140\/5107\/files\/Sin-titulo-1.jpg \"><\/iframe>",
+          "html": "<iframe width=\"100%\" height=\"600\" src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/0556822d0f584aef988a82c2eab87584.mp4\" frameborder=\"0\" allowfullscreen=\"\" poster=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0774\/9140\/5107\/files\/portada-video-web.jpg?v=1700150525\"><\/iframe>",
           "custom_class_name": ""
         }
       }
